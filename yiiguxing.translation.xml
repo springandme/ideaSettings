@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="计算" />
+      <item value="比例" />
       <item value="最新" />
       <item value="最新版" />
       <item value="Overwrite Remote" />
@@ -49,8 +51,6 @@
       <item value="Cannot infer arguments" />
       <item value="Cannot infer arguments (unable to resolve constructor)" />
       <item value="Unclosed group" />
-      <item value="eldest" />
-      <item value="unlink" />
     </histories>
     <option name="languageScores">
       <map>
