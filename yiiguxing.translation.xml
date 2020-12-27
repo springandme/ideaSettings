@@ -1,0 +1,68 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Overwrite Remote" />
+      <item value="Array initializer expected" />
+      <item value="例子" />
+      <item value="模板" />
+      <item value=" Out of range value for column 's_phone' at row 1" />
+      <item value="学院" />
+      <item value="身份证号" />
+      <item value="班级" />
+      <item value="discipline" />
+      <item value="专业" />
+      <item value="学号" />
+      <item value="电信" />
+      <item value="计算机" />
+      <item value="电信学院" />
+      <item value="电子与信息工程学院" />
+      <item value="电信学院信息表" />
+      <item value="role" />
+      <item value="Node with label 7 was not copied but a reference to the original one." />
+      <item value="Contents of collection 'priorityQueue' are updated, but never queried" />
+      <item value="回文" />
+      <item value="Deep integration allows you to control the built-in dark themes of the websites that already implemented a dark UI  See how Deep integration works HERE " />
+      <item value="binary" />
+      <item value="binanry" />
+      <item value="delete the current node" />
+      <item value="delete from the right subtree" />
+      <item value="predecessor" />
+      <item value=" One step left and then always right" />
+      <item value="successor" />
+      <item value="One step right and then always left" />
+      <item value="insert into the right subtree" />
+      <item value="// skip the insertion" />
+      <item value="Bad credentials" />
+      <item value="User is disabled" />
+      <item value="Anagram" />
+      <item value="Iteration can be replaced with bulk 'Collection.addAll' call" />
+      <item value="Unboxing of 'maxHeap.poll()' may produce 'NullPointerException'" />
+      <item value="frequency" />
+      <item value="Contents of collection 'list' are updated, but never queried" />
+      <item value="* Appends the specified element to the end of this list. * * &lt;p&gt;This method is equivalent to {@link #addLast}." />
+      <item value="prod" />
+      <item value="乘法prod" />
+      <item value="乘法" />
+      <item value="Expected 0 arguments but found 1" />
+      <item value="Cannot infer arguments" />
+      <item value="Cannot infer arguments (unable to resolve constructor)" />
+      <item value="Unclosed group" />
+      <item value="eldest" />
+      <item value="unlink" />
+      <item value="The number of times this HashMap has been structurally modified * Structural modifications are those that change the number of mappings in * the HashMap or otherwise modify its internal structure (e.g., * rehash). This field is used to make iterators on Collection-views of * the HashMap fail-fast. (See ConcurrentModificationException)." />
+      <item value="possibly remove eldest" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="199" />
+        <entry key="ENGLISH" value="199" />
+        <entry key="JAPANESE" value="10" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="phoneticFontFamily" value="Consolas" />
+    <option name="primaryFontFamily" value="Consolas" />
+  </component>
+</application>
