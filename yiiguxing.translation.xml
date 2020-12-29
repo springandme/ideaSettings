@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="移动/联通/电信" />
+      <item value="移动" />
       <item value="Collection 'list' is always empty" />
       <item value="注释" />
       <item value="issue Org" />
@@ -49,13 +51,11 @@
       <item value="frequency" />
       <item value="Contents of collection 'list' are updated, but never queried" />
       <item value="* Appends the specified element to the end of this list. * * &lt;p&gt;This method is equivalent to {@link #addLast}." />
-      <item value="prod" />
-      <item value="乘法prod" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="203" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="JAPANESE" value="10" />
       </map>
     </option>
