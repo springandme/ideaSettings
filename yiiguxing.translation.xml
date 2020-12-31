@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Condition '!flag' is always 'true' when reached" />
       <item value="移动/联通/电信" />
       <item value="移动" />
       <item value="Collection 'list' is always empty" />
@@ -50,11 +51,10 @@
       <item value="Unboxing of 'maxHeap.poll()' may produce 'NullPointerException'" />
       <item value="frequency" />
       <item value="Contents of collection 'list' are updated, but never queried" />
-      <item value="* Appends the specified element to the end of this list. * * &lt;p&gt;This method is equivalent to {@link #addLast}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
+        <entry key="CHINESE" value="204" />
         <entry key="ENGLISH" value="204" />
         <entry key="JAPANESE" value="10" />
       </map>
