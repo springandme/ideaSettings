@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="刷新" />
+      <item value="初始化" />
       <item value="选手" />
       <item value="Condition '!flag' is always 'true' when reached" />
       <item value="移动/联通/电信" />
@@ -49,8 +51,6 @@
       <item value="User is disabled" />
       <item value="Anagram" />
       <item value="Iteration can be replaced with bulk 'Collection.addAll' call" />
-      <item value="Unboxing of 'maxHeap.poll()' may produce 'NullPointerException'" />
-      <item value="frequency" />
     </histories>
     <option name="languageScores">
       <map>
