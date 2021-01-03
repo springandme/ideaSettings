@@ -30,6 +30,10 @@
           <option name="url" value="https://gitclone.com/github.com/superzdy/AI-Wuziqi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitclone.com/github.com/tangyan02/ego.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
