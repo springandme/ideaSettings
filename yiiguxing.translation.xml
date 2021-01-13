@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Description: This task is internal to uC/OS-II and executes whenever no other higher priority tasks *              executes because they are ALL waiting for event(s) to occur." />
+      <item value="OSTaskIdleHook() is called after the critical section to ensure that interrupts will be *                 enabled for at least a few instructions.  On some processors (ex. Philips XA), enabling *                 and then disabling interrupts didn't allow the processor enough time to have interrupts *                 enabled before they were disabled again.  uC/OS-II would thus never recognize *                 interrupts." />
       <item value="刷新" />
       <item value="初始化" />
       <item value="选手" />
@@ -49,12 +51,10 @@
       <item value="// skip the insertion" />
       <item value="Bad credentials" />
       <item value="User is disabled" />
-      <item value="Anagram" />
-      <item value="Iteration can be replaced with bulk 'Collection.addAll' call" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
+        <entry key="CHINESE" value="205" />
         <entry key="ENGLISH" value="205" />
         <entry key="JAPANESE" value="10" />
       </map>
