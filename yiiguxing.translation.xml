@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Serial" />
+      <item value="串行" />
+      <item value="serial" />
+      <item value="parallel" />
       <item value="Select the Java Development Kit (JDK) you want Gradle to use when building your project. " />
       <item value="Reserve the priority to prevent others from doing" />
       <item value="TASK CONTROL BLOCK" />
@@ -47,15 +51,11 @@
       <item value="binary" />
       <item value="binanry" />
       <item value="delete the current node" />
-      <item value="delete from the right subtree" />
-      <item value="predecessor" />
-      <item value=" One step left and then always right" />
-      <item value="successor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="205" />
-        <entry key="ENGLISH" value="205" />
+        <entry key="CHINESE" value="206" />
+        <entry key="ENGLISH" value="206" />
         <entry key="JAPANESE" value="10" />
       </map>
     </option>
