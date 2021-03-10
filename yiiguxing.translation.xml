@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="weak" />
+      <item value="soft" />
+      <item value="phantom" />
+      <item value="final" />
       <item value="Serial" />
       <item value="串行" />
       <item value="serial" />
@@ -47,10 +51,6 @@
       <item value="Node with label 7 was not copied but a reference to the original one." />
       <item value="Contents of collection 'priorityQueue' are updated, but never queried" />
       <item value="回文" />
-      <item value="Deep integration allows you to control the built-in dark themes of the websites that already implemented a dark UI  See how Deep integration works HERE " />
-      <item value="binary" />
-      <item value="binanry" />
-      <item value="delete the current node" />
     </histories>
     <option name="languageScores">
       <map>
