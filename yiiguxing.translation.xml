@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="threshold" />
+      <item value="Threshold" />
+      <item value="pre tenure" />
+      <item value="pretenure" />
       <item value="weak" />
       <item value="soft" />
       <item value="phantom" />
@@ -47,10 +51,6 @@
       <item value="电信学院" />
       <item value="电子与信息工程学院" />
       <item value="电信学院信息表" />
-      <item value="role" />
-      <item value="Node with label 7 was not copied but a reference to the original one." />
-      <item value="Contents of collection 'priorityQueue' are updated, but never queried" />
-      <item value="回文" />
     </histories>
     <option name="languageScores">
       <map>
