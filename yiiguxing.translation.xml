@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scavenge" />
       <item value="parallel" />
       <item value="serial" />
       <item value="threshold" />
@@ -50,7 +51,6 @@
       <item value="计算机" />
       <item value="电信学院" />
       <item value="电子与信息工程学院" />
-      <item value="电信学院信息表" />
     </histories>
     <option name="languageScores">
       <map>
