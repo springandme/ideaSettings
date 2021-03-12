@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parallel" />
       <item value="serial" />
       <item value="threshold" />
       <item value="Threshold" />
@@ -12,7 +13,6 @@
       <item value="final" />
       <item value="Serial" />
       <item value="串行" />
-      <item value="parallel" />
       <item value="Select the Java Development Kit (JDK) you want Gradle to use when building your project. " />
       <item value="Reserve the priority to prevent others from doing" />
       <item value="TASK CONTROL BLOCK" />
