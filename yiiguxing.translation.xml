@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="region" />
+      <item value="compact" />
       <item value="concurrent mode failure" />
       <item value="policy" />
       <item value="adaptive" />
@@ -49,8 +51,6 @@
       <item value="班级" />
       <item value="discipline" />
       <item value="专业" />
-      <item value="学号" />
-      <item value="电信" />
     </histories>
     <option name="languageScores">
       <map>
