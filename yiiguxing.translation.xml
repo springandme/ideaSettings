@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="humongous" />
+      <item value="humon" />
       <item value="region" />
       <item value="compact" />
       <item value="concurrent mode failure" />
@@ -49,8 +51,6 @@
       <item value="学院" />
       <item value="身份证号" />
       <item value="班级" />
-      <item value="discipline" />
-      <item value="专业" />
     </histories>
     <option name="languageScores">
       <map>
