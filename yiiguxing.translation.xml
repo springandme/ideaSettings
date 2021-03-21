@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="permanent" />
+      <item value="永久" />
       <item value="maxRetries" />
       <item value="baseSleepTimeMs" />
       <item value="sequence" />
@@ -49,13 +51,11 @@
       <item value="计算" />
       <item value="比例" />
       <item value="最新" />
-      <item value="最新版" />
-      <item value="Overwrite Remote" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
-        <entry key="ENGLISH" value="207" />
+        <entry key="CHINESE" value="208" />
+        <entry key="ENGLISH" value="208" />
         <entry key="JAPANESE" value="10" />
       </map>
     </option>
