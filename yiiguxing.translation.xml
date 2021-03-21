@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="maxRetries" />
+      <item value="baseSleepTimeMs" />
       <item value="sequence" />
       <item value="顺序" />
       <item value="Ephemerals" />
@@ -49,8 +51,6 @@
       <item value="最新" />
       <item value="最新版" />
       <item value="Overwrite Remote" />
-      <item value="Array initializer expected" />
-      <item value="例子" />
     </histories>
     <option name="languageScores">
       <map>
