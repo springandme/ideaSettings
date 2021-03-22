@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If &quot;false&quot;, permission checking is turned off,     but all other behavior is unchanged.     Switching from one parameter value to the other does not change the mode,     owner or group of files or directories." />
+      <item value="enable permission checking in HDFS" />
       <item value="下载" />
       <item value="上传" />
       <item value="绝对路径" />
@@ -49,12 +51,10 @@
       <item value="Collection 'list' is always empty" />
       <item value="注释" />
       <item value="issue Org" />
-      <item value="Generator" />
-      <item value="Refer to a non-existing target tag in your Ant build file, and IntelliJ IDEA will suggest you to automatically create the corresponding tag. This intention action will not even make you change your current editing location." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
+        <entry key="CHINESE" value="209" />
         <entry key="ENGLISH" value="209" />
         <entry key="JAPANESE" value="10" />
       </map>
