@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="绝对路径" />
       <item value="permanent" />
       <item value="永久" />
       <item value="maxRetries" />
@@ -50,12 +51,11 @@
       <item value="Refer to a non-existing target tag in your Ant build file, and IntelliJ IDEA will suggest you to automatically create the corresponding tag. This intention action will not even make you change your current editing location." />
       <item value="计算" />
       <item value="比例" />
-      <item value="最新" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="ENGLISH" value="209" />
         <entry key="JAPANESE" value="10" />
       </map>
     </option>
