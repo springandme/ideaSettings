@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="standby" />
       <item value="If &quot;false&quot;, permission checking is turned off,     but all other behavior is unchanged.     Switching from one parameter value to the other does not change the mode,     owner or group of files or directories." />
       <item value="enable permission checking in HDFS" />
       <item value="下载" />
@@ -50,7 +51,6 @@
       <item value="移动" />
       <item value="Collection 'list' is always empty" />
       <item value="注释" />
-      <item value="issue Org" />
     </histories>
     <option name="languageScores">
       <map>
