@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shuffle" />
       <item value="HA" />
       <item value="高可用" />
       <item value="standby" />
@@ -50,7 +51,6 @@
       <item value="选手" />
       <item value="Condition '!flag' is always 'true' when reached" />
       <item value="移动/联通/电信" />
-      <item value="移动" />
     </histories>
     <option name="languageScores">
       <map>
