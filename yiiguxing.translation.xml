@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="record" />
+      <item value="记录" />
+      <item value="Lower Case" />
+      <item value="Partition" />
+      <item value="Combiner" />
       <item value="shuffle" />
       <item value="HA" />
       <item value="高可用" />
@@ -46,16 +51,12 @@
       <item value="* Description: This function is called to delay execution of the currently running task until the *              specified number of system ticks expires.  This, of course, directly equates to delaying *              the current task for some time to expire.  No delay will result If the specified delay is *              0.  If the specified delay is greater than 0 then, a context switch will result." />
       <item value="Description: This task is internal to uC/OS-II and executes whenever no other higher priority tasks *              executes because they are ALL waiting for event(s) to occur." />
       <item value="OSTaskIdleHook() is called after the critical section to ensure that interrupts will be *                 enabled for at least a few instructions.  On some processors (ex. Philips XA), enabling *                 and then disabling interrupts didn't allow the processor enough time to have interrupts *                 enabled before they were disabled again.  uC/OS-II would thus never recognize *                 interrupts." />
-      <item value="刷新" />
-      <item value="初始化" />
-      <item value="选手" />
-      <item value="Condition '!flag' is always 'true' when reached" />
-      <item value="移动/联通/电信" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="210" />
-        <entry key="ENGLISH" value="210" />
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="213" />
+        <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="10" />
       </map>
     </option>
