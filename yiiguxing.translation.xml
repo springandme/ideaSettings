@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shuffle" />
       <item value="Type mismatch in key from map" />
       <item value="received" />
       <item value="Private field 'upPayLoadCount' is assigned but never accessed" />
@@ -11,7 +12,6 @@
       <item value="Lower Case" />
       <item value="Partition" />
       <item value="Combiner" />
-      <item value="shuffle" />
       <item value="HA" />
       <item value="高可用" />
       <item value="standby" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
+        <entry key="CHINESE" value="218" />
         <entry key="ENGLISH" value="218" />
         <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="10" />
