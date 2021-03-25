@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mute Breakpoints " />
       <item value="shuffle" />
       <item value="Type mismatch in key from map" />
       <item value="received" />
@@ -50,7 +51,6 @@
       <item value="Serial" />
       <item value="串行" />
       <item value="Select the Java Development Kit (JDK) you want Gradle to use when building your project. " />
-      <item value="Reserve the priority to prevent others from doing" />
     </histories>
     <option name="languageScores">
       <map>
