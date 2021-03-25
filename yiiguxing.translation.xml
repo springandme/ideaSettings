@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Private field 'upPayLoadCount' is assigned but never accessed" />
       <item value="流量" />
       <item value="combiner" />
       <item value="record" />
@@ -50,11 +51,10 @@
       <item value="Reserve the priority to prevent others from doing" />
       <item value="TASK CONTROL BLOCK" />
       <item value="This function is used by your application to obtain the current value of the 32-bit *              counter which keeps track of the number of clock ticks." />
-      <item value="* Description: This function is called to delay execution of the currently running task until the *              specified number of system ticks expires.  This, of course, directly equates to delaying *              the current task for some time to expire.  No delay will result If the specified delay is *              0.  If the specified delay is greater than 0 then, a context switch will result." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
+        <entry key="CHINESE" value="215" />
         <entry key="ENGLISH" value="215" />
         <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="10" />
