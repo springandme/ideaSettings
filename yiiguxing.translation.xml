@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tmp" />
+      <item value="中间" />
+      <item value="缓存" />
+      <item value="temp" />
+      <item value="Hadoop command-line option parsing not performed. Implement the Tool interface and execute your application with ToolRunner to remedy this." />
       <item value="Mute Breakpoints " />
       <item value="shuffle" />
       <item value="Type mismatch in key from map" />
@@ -46,16 +51,11 @@
       <item value="pretenure" />
       <item value="weak" />
       <item value="soft" />
-      <item value="phantom" />
-      <item value="final" />
-      <item value="Serial" />
-      <item value="串行" />
-      <item value="Select the Java Development Kit (JDK) you want Gradle to use when building your project. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="220" />
         <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="10" />
       </map>
