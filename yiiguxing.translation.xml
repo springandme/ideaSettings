@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="grouping" />
+      <item value="group" />
       <item value="comment" />
       <item value="comments" />
       <item value="good comments" />
@@ -49,8 +51,6 @@
       <item value="concurrent mode failure" />
       <item value="policy" />
       <item value="adaptive" />
-      <item value="scavenge" />
-      <item value="parallel" />
     </histories>
     <option name="languageScores">
       <map>
