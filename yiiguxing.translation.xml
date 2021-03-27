@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="attitudes count" />
+      <item value="粉丝" />
       <item value="StringBuilder sb' can be replaced with 'String'" />
       <item value="利润" />
       <item value="lirui" />
@@ -49,13 +51,11 @@
       <item value="footprint" />
       <item value="humongous" />
       <item value="humon" />
-      <item value="region" />
-      <item value="compact" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="222" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="10" />
       </map>
