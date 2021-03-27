@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="利润" />
+      <item value="lirui" />
       <item value="grouping" />
       <item value="group" />
       <item value="comment" />
@@ -49,13 +51,11 @@
       <item value="region" />
       <item value="compact" />
       <item value="concurrent mode failure" />
-      <item value="policy" />
-      <item value="adaptive" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="ENGLISH" value="222" />
         <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="10" />
       </map>
