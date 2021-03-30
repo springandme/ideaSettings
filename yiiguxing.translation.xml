@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="利润" />
+      <item value="折扣" />
+      <item value="销售额" />
+      <item value="省/自治区" />
       <item value="'!/.idea/' pattern is defined more than once" />
       <item value="attitudes count" />
       <item value="粉丝" />
       <item value="StringBuilder sb' can be replaced with 'String'" />
-      <item value="利润" />
       <item value="lirui" />
       <item value="grouping" />
       <item value="group" />
@@ -48,14 +51,11 @@
       <item value="sequence" />
       <item value="顺序" />
       <item value="Ephemerals" />
-      <item value="allocate" />
-      <item value="footprint" />
-      <item value="humongous" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="224" />
+        <entry key="ENGLISH" value="225" />
         <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="10" />
       </map>
