@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="传输" />
+      <item value="exec" />
+      <item value="intermediate" />
+      <item value="unzip" />
+      <item value="解压" />
+      <item value="compress" />
+      <item value="execution" />
+      <item value="fetching" />
       <item value="lnvalid use of NULL value " />
       <item value="Data truncated for column 's_id&quot; at row 2723 " />
       <item value="专业实践" />
@@ -43,19 +51,11 @@
       <item value="temp" />
       <item value="Hadoop command-line option parsing not performed. Implement the Tool interface and execute your application with ToolRunner to remedy this." />
       <item value="Mute Breakpoints " />
-      <item value="shuffle" />
-      <item value="Type mismatch in key from map" />
-      <item value="received" />
-      <item value="Private field 'upPayLoadCount' is assigned but never accessed" />
-      <item value="流量" />
-      <item value="combiner" />
-      <item value="record" />
-      <item value="记录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="10" />
       </map>
