@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="目标" />
+      <item value="原始" />
       <item value="position" />
       <item value="postition" />
       <item value="pos is a 1-based index. If pos&lt;0 the starting position is determined by counting backwards from the end of str" />
@@ -49,13 +51,11 @@
       <item value="good comments" />
       <item value="good_comments" />
       <item value="temporary" />
-      <item value="临时" />
-      <item value="拼接" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="230" />
+        <entry key="ENGLISH" value="231" />
         <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="10" />
       </map>
