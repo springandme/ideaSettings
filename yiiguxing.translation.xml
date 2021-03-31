@@ -1,6 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lnvalid use of NULL value " />
+      <item value="Data truncated for column 's_id&quot; at row 2723 " />
+      <item value="专业实践" />
+      <item value="活动" />
+      <item value="cultural" />
+      <item value="文体活动" />
+      <item value="社会实践" />
+      <item value="文体" />
+      <item value="思想" />
+      <item value="分数" />
+      <item value="细想成长" />
+      <item value="积分" />
+      <item value="学分" />
+      <item value="专业" />
+      <item value="年级" />
+      <item value="学院" />
+      <item value="院系" />
+      <item value="学分表" />
       <item value="利润" />
       <item value="折扣" />
       <item value="销售额" />
@@ -33,29 +51,11 @@
       <item value="combiner" />
       <item value="record" />
       <item value="记录" />
-      <item value="Lower Case" />
-      <item value="Partition" />
-      <item value="Combiner" />
-      <item value="HA" />
-      <item value="高可用" />
-      <item value="standby" />
-      <item value="If &quot;false&quot;, permission checking is turned off,     but all other behavior is unchanged.     Switching from one parameter value to the other does not change the mode,     owner or group of files or directories." />
-      <item value="enable permission checking in HDFS" />
-      <item value="下载" />
-      <item value="上传" />
-      <item value="绝对路径" />
-      <item value="permanent" />
-      <item value="永久" />
-      <item value="maxRetries" />
-      <item value="baseSleepTimeMs" />
-      <item value="sequence" />
-      <item value="顺序" />
-      <item value="Ephemerals" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="225" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="226" />
         <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="10" />
       </map>
