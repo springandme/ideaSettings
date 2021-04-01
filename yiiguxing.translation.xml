@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="front-end" />
+      <item value="font-end" />
       <item value="encoded chunk" />
       <item value="Cannot assign a value to final variable 'stu'" />
       <item value="Cannot assign a value to final variable 'num'" />
@@ -49,8 +51,6 @@
       <item value="销售额" />
       <item value="省/自治区" />
       <item value="'!/.idea/' pattern is defined more than once" />
-      <item value="attitudes count" />
-      <item value="粉丝" />
     </histories>
     <option name="languageScores">
       <map>
