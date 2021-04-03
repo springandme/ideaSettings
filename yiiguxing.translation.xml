@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to stop impala-catalog.service: Unit impala-catalog.service not loaded." />
       <item value="front-end" />
       <item value="font-end" />
       <item value="encoded chunk" />
@@ -50,7 +51,6 @@
       <item value="折扣" />
       <item value="销售额" />
       <item value="省/自治区" />
-      <item value="'!/.idea/' pattern is defined more than once" />
     </histories>
     <option name="languageScores">
       <map>
