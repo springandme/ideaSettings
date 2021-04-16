@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="user_agent" />
       <item value="referral" />
       <item value="referal" />
       <item value="referer" />
@@ -50,7 +51,6 @@
       <item value="细想成长" />
       <item value="积分" />
       <item value="学分" />
-      <item value="专业" />
     </histories>
     <option name="languageScores">
       <map>
