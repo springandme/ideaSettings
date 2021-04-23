@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="talk is cheap" />
+      <item value="Offset" />
       <item value="Sentinel" />
       <item value="user_agent" />
       <item value="referral" />
@@ -49,13 +51,11 @@
       <item value="文体" />
       <item value="思想" />
       <item value="分数" />
-      <item value="细想成长" />
-      <item value="积分" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="234" />
-        <entry key="ENGLISH" value="235" />
+        <entry key="CHINESE" value="236" />
+        <entry key="ENGLISH" value="237" />
         <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="10" />
       </map>
