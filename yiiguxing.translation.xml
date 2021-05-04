@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="减法" />
       <item value=" reassignment" />
       <item value=" reassignment to val" />
       <item value="offset" />
@@ -50,12 +51,11 @@
       <item value="exec" />
       <item value="intermediate" />
       <item value="unzip" />
-      <item value="解压" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="241" />
-        <entry key="ENGLISH" value="241" />
+        <entry key="ENGLISH" value="242" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="JAPANESE" value="10" />
