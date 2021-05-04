@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" reassignment" />
+      <item value=" reassignment to val" />
       <item value="offset" />
       <item value="Field can be converted to a local variable" />
       <item value="Durability" />
@@ -49,12 +51,10 @@
       <item value="intermediate" />
       <item value="unzip" />
       <item value="解压" />
-      <item value="compress" />
-      <item value="execution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="240" />
+        <entry key="CHINESE" value="241" />
         <entry key="ENGLISH" value="241" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
