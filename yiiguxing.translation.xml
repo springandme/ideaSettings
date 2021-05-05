@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="借阅" />
       <item value="元组" />
       <item value="error: could not find implicit value for parameter num: Numeric[String]" />
       <item value="减法" />
@@ -50,7 +51,6 @@
       <item value="skewin" />
       <item value="skewindata" />
       <item value="传输" />
-      <item value="exec" />
     </histories>
     <option name="languageScores">
       <map>
