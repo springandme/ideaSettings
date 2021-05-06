@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="实体" />
       <item value="suffix" />
       <item value="expression expected Tag start is not closed" />
       <item value="存在" />
@@ -50,12 +51,11 @@
       <item value="position" />
       <item value="postition" />
       <item value="pos is a 1-based index. If pos&lt;0 the starting position is determined by counting backwards from the end of str" />
-      <item value="skew" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="243" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="245" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="JAPANESE" value="10" />
