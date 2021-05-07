@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="工人" />
+      <item value="Type check can be replaced by pattern matching" />
+      <item value="类型判断" />
       <item value="Unbound placeholder parameter" />
       <item value="单例" />
       <item value="Accessor-like named method has Unit result type" />
@@ -48,14 +51,11 @@
       <item value="talk is cheap" />
       <item value="Offset" />
       <item value="Sentinel" />
-      <item value="user_agent" />
-      <item value="referral" />
-      <item value="referal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="253" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="JAPANESE" value="10" />

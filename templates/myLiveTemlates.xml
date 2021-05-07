@@ -3,6 +3,7 @@
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="SCALA" value="true" />
     </context>
   </template>
   <template name="syso" value="System.out.println($END$);" description="输出简写" toReformat="false" toShortenFQNames="true">
@@ -19,6 +20,7 @@
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="SCALA" value="true" />
     </context>
   </template>
   <template name="ff" value="/*&#10; * @Author liushi&#10; * @Description //TODO&#10; * @Date  $date$ $time$&#10; * @Param $param$&#10; * @return $return$&#10; */" description="生成方法注释模板" toReformat="false" toShortenFQNames="true">
