@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="辅助" />
       <item value="构造器" />
       <item value="修饰符" />
       <item value="访问" />
@@ -50,7 +51,6 @@
       <item value="encoded chunk" />
       <item value="Cannot assign a value to final variable 'stu'" />
       <item value="Cannot assign a value to final variable 'num'" />
-      <item value="trunc(date, fmt) - Returns returns date with the time portion of the day truncated to the unit specified by the format model fmt. If you omit fmt, then date is truncated to the nearest day. It now only supports 'MONTH'/'MON'/'MM' and 'YEAR'/'YYYY'/'YY' as format. date is a string in the format 'yyyy-MM-dd HH:mm:ss' or 'yyyy-MM-dd'. The time part of date is ignored. " />
     </histories>
     <option name="languageScores">
       <map>
