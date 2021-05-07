@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="实现" />
+      <item value="具体" />
+      <item value="单" />
+      <item value="多个" />
+      <item value="接口" />
+      <item value="匿名" />
       <item value="工人" />
       <item value="Type check can be replaced by pattern matching" />
       <item value="类型判断" />
@@ -45,12 +51,6 @@
       <item value="因数" />
       <item value="比赛" />
       <item value="quorum" />
-      <item value="dedicated" />
-      <item value="专用" />
-      <item value="专用过滤器" />
-      <item value="talk is cheap" />
-      <item value="Offset" />
-      <item value="Sentinel" />
     </histories>
     <option name="languageScores">
       <map>
