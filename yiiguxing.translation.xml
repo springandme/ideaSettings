@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Symbol name is inaccessible from this place" />
+      <item value="伴生" />
+      <item value="Splitter" />
+      <item value="伴生对象" />
+      <item value="分隔" />
+      <item value="分隔符" />
+      <item value="    1 repository in your GitHub account might be affected by a security vulnerability found in underscore" />
       <item value="辅助" />
       <item value="构造器" />
       <item value="修饰符" />
@@ -44,18 +51,11 @@
       <item value="increment" />
       <item value="过滤" />
       <item value="'cstDate2ChinaDate(String)' is already defined in 'com.utils.DateUtils'" />
-      <item value="Agent" />
-      <item value="Failed to stop impala-catalog.service: Unit impala-catalog.service not loaded." />
-      <item value="front-end" />
-      <item value="font-end" />
-      <item value="encoded chunk" />
-      <item value="Cannot assign a value to final variable 'stu'" />
-      <item value="Cannot assign a value to final variable 'num'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="246" />
-        <entry key="ENGLISH" value="247" />
+        <entry key="CHINESE" value="249" />
+        <entry key="ENGLISH" value="249" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="JAPANESE" value="10" />
