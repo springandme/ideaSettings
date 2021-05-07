@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="原理" />
+      <item value="机制" />
+      <item value="构造机制" />
       <item value="调用链" />
       <item value="HandlerTrait" />
       <item value="混入" />
@@ -48,9 +51,6 @@
       <item value="减法" />
       <item value=" reassignment" />
       <item value=" reassignment to val" />
-      <item value="offset" />
-      <item value="Field can be converted to a local variable" />
-      <item value="Durability" />
     </histories>
     <option name="languageScores">
       <map>
