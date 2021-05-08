@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="thymeleaf" />
       <item value="响应" />
       <item value="时光荏苒" />
       <item value="Java accessor method called as empty-paren" />
@@ -50,11 +51,10 @@
       <item value="实体" />
       <item value="suffix" />
       <item value="expression expected Tag start is not closed" />
-      <item value="存在" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="255" />
+        <entry key="CHINESE" value="256" />
         <entry key="ENGLISH" value="256" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
