@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Java accessor method called as empty-paren" />
+      <item value="Unused expression without side effects" />
+      <item value="Symbol getAddress is inaccessible from this place" />
+      <item value="Bean property should not be private" />
       <item value="原理" />
       <item value="机制" />
       <item value="构造机制" />
@@ -47,15 +51,11 @@
       <item value="存在" />
       <item value="借阅" />
       <item value="元组" />
-      <item value="error: could not find implicit value for parameter num: Numeric[String]" />
-      <item value="减法" />
-      <item value=" reassignment" />
-      <item value=" reassignment to val" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="254" />
+        <entry key="ENGLISH" value="255" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="JAPANESE" value="10" />
