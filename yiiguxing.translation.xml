@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="泛型" />
       <item value="Unhandled exception: java.lang.Exception" />
       <item value="Option" />
       <item value="val" />
@@ -50,12 +51,11 @@
       <item value="构造器" />
       <item value="修饰符" />
       <item value="访问" />
-      <item value="Modifier" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="258" />
-        <entry key="ENGLISH" value="258" />
+        <entry key="ENGLISH" value="259" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />
