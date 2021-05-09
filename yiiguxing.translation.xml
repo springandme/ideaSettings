@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="转换" />
+      <item value="类型转换" />
+      <item value="covariant" />
+      <item value="协变" />
+      <item value="pair" />
       <item value="infer" />
       <item value="推断" />
       <item value="inferred" />
@@ -46,16 +51,11 @@
       <item value="类型判断" />
       <item value="Unbound placeholder parameter" />
       <item value="单例" />
-      <item value="Accessor-like named method has Unit result type" />
-      <item value="类" />
-      <item value="对象" />
-      <item value="Symbol name is inaccessible from this place" />
-      <item value="伴生" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="264" />
-        <entry key="ENGLISH" value="264" />
+        <entry key="CHINESE" value="265" />
+        <entry key="ENGLISH" value="266" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />
