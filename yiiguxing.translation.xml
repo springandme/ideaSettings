@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="监视器" />
       <item value="转换" />
       <item value="类型转换" />
       <item value="covariant" />
@@ -50,7 +51,6 @@
       <item value="Type check can be replaced by pattern matching" />
       <item value="类型判断" />
       <item value="Unbound placeholder parameter" />
-      <item value="单例" />
     </histories>
     <option name="languageScores">
       <map>
