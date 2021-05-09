@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Monkey" />
+      <item value="动物" />
+      <item value="anilmal" />
       <item value="监视器" />
       <item value="转换" />
       <item value="类型转换" />
@@ -48,14 +51,12 @@
       <item value="接口" />
       <item value="匿名" />
       <item value="工人" />
-      <item value="Type check can be replaced by pattern matching" />
-      <item value="类型判断" />
-      <item value="Unbound placeholder parameter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="265" />
-        <entry key="ENGLISH" value="266" />
+        <entry key="CHINESE" value="267" />
+        <entry key="ENGLISH" value="268" />
+        <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />
