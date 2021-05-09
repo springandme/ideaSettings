@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="infer" />
+      <item value="推断" />
+      <item value="inferred" />
+      <item value="inferred type arguments [String] do not conform to method demo's type parameter bounds" />
+      <item value="下界" />
+      <item value="上界" />
+      <item value="border" />
+      <item value="boundary" />
+      <item value="界限" />
       <item value="泛型" />
       <item value="Unhandled exception: java.lang.Exception" />
       <item value="Option" />
@@ -42,20 +51,11 @@
       <item value="对象" />
       <item value="Symbol name is inaccessible from this place" />
       <item value="伴生" />
-      <item value="Splitter" />
-      <item value="伴生对象" />
-      <item value="分隔" />
-      <item value="分隔符" />
-      <item value="    1 repository in your GitHub account might be affected by a security vulnerability found in underscore" />
-      <item value="辅助" />
-      <item value="构造器" />
-      <item value="修饰符" />
-      <item value="访问" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="258" />
-        <entry key="ENGLISH" value="259" />
+        <entry key="CHINESE" value="264" />
+        <entry key="ENGLISH" value="264" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />
