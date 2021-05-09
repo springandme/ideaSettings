@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unhandled exception: java.lang.Exception" />
       <item value="Option" />
       <item value="val" />
       <item value="守卫" />
@@ -50,7 +51,6 @@
       <item value="修饰符" />
       <item value="访问" />
       <item value="Modifier" />
-      <item value="redundant" />
     </histories>
     <option name="languageScores">
       <map>
