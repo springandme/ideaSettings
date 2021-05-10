@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interval" />
+      <item value="自定义" />
       <item value="Entrance" />
       <item value="delimiter" />
       <item value="delimiters" />
@@ -49,13 +51,11 @@
       <item value="响应" />
       <item value="时光荏苒" />
       <item value="Java accessor method called as empty-paren" />
-      <item value="Unused expression without side effects" />
-      <item value="Symbol getAddress is inaccessible from this place" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="273" />
+        <entry key="CHINESE" value="274" />
+        <entry key="ENGLISH" value="275" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
