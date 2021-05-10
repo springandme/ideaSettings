@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="隐式转换" />
+      <item value="Implicit" />
+      <item value="隐式" />
+      <item value="闭包" />
       <item value="高阶" />
       <item value="unapply(_root_.com.hliushi.scala.day02._10UnapplyDemo.Student)_root_.scala.Option is already defined in the scope" />
       <item value="Type annotation required for function literal parameter" />
@@ -47,15 +51,11 @@
       <item value="机制" />
       <item value="构造机制" />
       <item value="调用链" />
-      <item value="HandlerTrait" />
-      <item value="混入" />
-      <item value="模板" />
-      <item value="字段" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="268" />
-        <entry key="ENGLISH" value="269" />
+        <entry key="CHINESE" value="269" />
+        <entry key="ENGLISH" value="270" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
