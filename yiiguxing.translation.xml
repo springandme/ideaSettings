@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Type annotation required for function literal parameter" />
+      <item value="hints" />
+      <item value="hint" />
+      <item value="hints " />
       <item value="Source is not closed" />
       <item value="Monkey" />
       <item value="动物" />
@@ -47,10 +51,6 @@
       <item value="字段" />
       <item value="实现" />
       <item value="具体" />
-      <item value="单" />
-      <item value="多个" />
-      <item value="接口" />
-      <item value="匿名" />
     </histories>
     <option name="languageScores">
       <map>

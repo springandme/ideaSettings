@@ -2,7 +2,6 @@
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <ScalaCodeStyleSettings>
     <option name="TYPE_ANNOTATION_PRIVATE_MEMBER" value="true" />
-    <option name="TYPE_ANNOTATION_LOCAL_DEFINITION" value="true" />
     <option name="TYPE_ANNOTATION_FUNCTION_PARAMETER" value="true" />
     <option name="TYPE_ANNOTATION_UNDERSCORE_PARAMETER" value="true" />
     <option name="TYPE_ANNOTATION_EXCLUDE_MEMBER_OF_ANONYMOUS_CLASS" value="true" />
