@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delimiter" />
+      <item value="delimiters" />
+      <item value="参数" />
+      <item value="quote" />
       <item value="隐式转换" />
       <item value="Implicit" />
       <item value="隐式" />
@@ -47,15 +51,11 @@
       <item value="Unused expression without side effects" />
       <item value="Symbol getAddress is inaccessible from this place" />
       <item value="Bean property should not be private" />
-      <item value="原理" />
-      <item value="机制" />
-      <item value="构造机制" />
-      <item value="调用链" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="272" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
