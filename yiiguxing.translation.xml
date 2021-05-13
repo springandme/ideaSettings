@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Name boolean parameters" />
       <item value="Changed signature from isNotBlank(String) to isNotBlank(CharSequence)" />
       <item value="aggie" />
       <item value="aggio" />
@@ -50,11 +51,10 @@
       <item value="Simulator" />
       <item value="Remote Procedure Call" />
       <item value="shard" />
-      <item value="sharding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="289" />
+        <entry key="CHINESE" value="290" />
         <entry key="ENGLISH" value="290" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
