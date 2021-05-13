@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="combiner" />
+      <item value="cominer" />
+      <item value="规约" />
       <item value="例子" />
       <item value="练习" />
       <item value="agg" />
@@ -48,13 +51,10 @@
       <item value="参数" />
       <item value="quote" />
       <item value="隐式转换" />
-      <item value="Implicit" />
-      <item value="隐式" />
-      <item value="闭包" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="283" />
+        <entry key="CHINESE" value="284" />
         <entry key="ENGLISH" value="284" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
