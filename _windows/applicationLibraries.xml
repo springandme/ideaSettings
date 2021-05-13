@@ -1,6 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="scala-sdk-2.11.12" type="Scala">
+    <library name="scala-sdk-2.11.8" type="Scala">
       <properties>
         <language-level>Scala_2_11</language-level>
         <compiler-classpath>
@@ -14,10 +14,17 @@
         <root url="jar://D:/scala/lib/scala-reflect.jar!/" />
       </CLASSES>
       <JAVADOC>
-        <root url="jar://D:/scala/api/jars/scala-library-2.11.12-javadoc.jar!/" />
-        <root url="jar://D:/scala/api/jars/scala-reflect-2.11.12-javadoc.jar!/" />
+        <root url="jar://D:/scala/api/jars/scala-library-2.11.8-javadoc.jar!/" />
+        <root url="jar://D:/scala/api/jars/scala-reflect-2.11.8-javadoc.jar!/" />
       </JAVADOC>
-      <SOURCES />
+      <SOURCES>
+        <root url="file://D:/scala/scala-2.11.8/src/actors" />
+        <root url="file://D:/scala/scala-2.11.8/src/forkjoin" />
+        <root url="file://D:/scala/scala-2.11.8/src/library" />
+        <root url="file://D:/scala/scala-2.11.8/src/partest-extras" />
+        <root url="file://D:/scala/scala-2.11.8/src/partest-javaagent" />
+        <root url="file://D:/scala/scala-2.11.8/src/repl" />
+      </SOURCES>
     </library>
   </component>
 </application>
