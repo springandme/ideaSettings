@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Changed signature from isNotBlank(String) to isNotBlank(CharSequence)" />
+      <item value="aggie" />
+      <item value="aggio" />
+      <item value="汇总" />
+      <item value="汇众" />
+      <item value="Agg-" />
+      <item value="Agg" />
+      <item value="统计" />
       <item value="Checks if a String is not empty (&quot;&quot;), not null and not whitespace only." />
       <item value="Checks if a String is not empty (&quot;&quot;), not null and not whitespace only.&lt;/p&gt;" />
       <item value="ascending" />
@@ -43,19 +51,11 @@
       <item value="Remote Procedure Call" />
       <item value="shard" />
       <item value="sharding" />
-      <item value="Persistence" />
-      <item value="distributed" />
-      <item value="Resilient by Design" />
-      <item value="Resilient " />
-      <item value="interval" />
-      <item value="自定义" />
-      <item value="Entrance" />
-      <item value="delimiter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="289" />
+        <entry key="ENGLISH" value="290" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
