@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="例子" />
+      <item value="练习" />
+      <item value="agg" />
+      <item value="Merge the values for each key using an associative and commutative reduce function. This will * also perform the merging locally on each mapper before sending results to a reducer, similarly * to a &quot;combiner&quot; in MapReduce. Output will be hash-partitioned with the existing partitioner/ * parallelism level." />
       <item value="Distribute a local Scala collection to form an RDD." />
       <item value="Slices" />
       <item value="number of partitions to divide the collection into" />
@@ -47,15 +51,11 @@
       <item value="Implicit" />
       <item value="隐式" />
       <item value="闭包" />
-      <item value="高阶" />
-      <item value="unapply(_root_.com.hliushi.scala.day02._10UnapplyDemo.Student)_root_.scala.Option is already defined in the scope" />
-      <item value="Type annotation required for function literal parameter" />
-      <item value="hints" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="282" />
-        <entry key="ENGLISH" value="282" />
+        <entry key="CHINESE" value="283" />
+        <entry key="ENGLISH" value="284" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
