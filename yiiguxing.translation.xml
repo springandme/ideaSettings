@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Checks if a String is not empty (&quot;&quot;), not null and not whitespace only." />
+      <item value="Checks if a String is not empty (&quot;&quot;), not null and not whitespace only.&lt;/p&gt;" />
+      <item value="ascending" />
+      <item value="asceding" />
       <item value="combiner" />
       <item value="cominer" />
       <item value="规约" />
@@ -47,15 +51,11 @@
       <item value="自定义" />
       <item value="Entrance" />
       <item value="delimiter" />
-      <item value="delimiters" />
-      <item value="参数" />
-      <item value="quote" />
-      <item value="隐式转换" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="284" />
-        <entry key="ENGLISH" value="284" />
+        <entry key="CHINESE" value="286" />
+        <entry key="ENGLISH" value="287" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
