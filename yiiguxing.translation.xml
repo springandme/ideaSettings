@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="coalesce" />
+      <item value="Coalescer" />
       <item value="repartition" />
       <item value="zero Value" />
       <item value="aggregate" />
@@ -50,12 +51,11 @@
       <item value="Monad " />
       <item value="Distributed " />
       <item value="standby" />
-      <item value="Multiple versions of scala libraries detected!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="300" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="CHINESE" value="302" />
+        <entry key="ENGLISH" value="303" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
