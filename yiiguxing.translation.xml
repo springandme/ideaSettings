@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Combiner" />
+      <item value="Cominer" />
+      <item value="use `.distinct()` to eliminate them" />
+      <item value="Return the union of this RDD and another one. Any identical elements will appear multiple * times (use `.distinct()` to eliminate them)." />
       <item value="fraction" />
       <item value="with Replacement" />
       <item value="Return a new RDD by applying a function to each partition of this RDD, while tracking the index * of the original partition." />
@@ -47,17 +51,13 @@
       <item value="A copy of this list with an element appended." />
       <item value="Unused expression without side effects" />
       <item value="Type ListBuffer takes type parameters" />
-      <item value="折扣" />
-      <item value="销售额" />
-      <item value="省份" />
-      <item value="Class doesn't correspond to file name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="296" />
-        <entry key="ENGLISH" value="297" />
+        <entry key="CHINESE" value="299" />
+        <entry key="ENGLISH" value="299" />
         <entry key="ARABIC" value="1" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="JAPANESE" value="10" />
