@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="zero Value" />
       <item value="aggregate" />
       <item value="Combiner" />
       <item value="Cominer" />
@@ -50,12 +51,11 @@
       <item value="Multiple versions of scala libraries detected!" />
       <item value="compiled" />
       <item value="A copy of this list with an element appended." />
-      <item value="Unused expression without side effects" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="ENGLISH" value="300" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="2" />
