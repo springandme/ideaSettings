@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fraction" />
       <item value="with Replacement" />
       <item value="Return a new RDD by applying a function to each partition of this RDD, while tracking the index * of the original partition." />
       <item value="Return a new RDD by applying a function to each partition of this RDD, while tracking the index * of the original partition. * * `preservesPartitioning` indicates whether the input function preserves the partitioner, which * should be `false` unless this is a pair RDD and the input function doesn't modify the keys." />
@@ -50,12 +51,11 @@
       <item value="销售额" />
       <item value="省份" />
       <item value="Class doesn't correspond to file name" />
-      <item value="Suspicious forward reference in class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="296" />
+        <entry key="CHINESE" value="296" />
+        <entry key="ENGLISH" value="297" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
