@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="preserves Partitioning" />
       <item value="paste" />
       <item value="var could be a val" />
       <item value="gradient" />
@@ -50,12 +51,11 @@
       <item value="Advanced language feature: postfix operator notation" />
       <item value="compiled code" />
       <item value="Inherited" />
-      <item value="Actor mutable state" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="291" />
-        <entry key="ENGLISH" value="291" />
+        <entry key="ENGLISH" value="292" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
