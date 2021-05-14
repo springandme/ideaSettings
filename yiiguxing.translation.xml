@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="var could be a val" />
       <item value="gradient" />
       <item value="dataset" />
       <item value="数据集" />
@@ -50,7 +51,6 @@
       <item value="Inherited" />
       <item value="Actor mutable state" />
       <item value="Remove redundant braces" />
-      <item value="flow message " />
     </histories>
     <option name="languageScores">
       <map>
