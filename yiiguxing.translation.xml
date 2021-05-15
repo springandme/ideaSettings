@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Closing link tag before opening" />
+      <item value="persist" />
+      <item value="Implemented by subclasses to return how this RDD depends on parent RDDs. This method will only * be called once, so it is safe to implement a time-consuming computation in it." />
+      <item value="ctag" />
       <item value="Return the Cartesian product of this RDD and another one, that is, the RDD of all pairs of * elements (a, b) where a is in `this` and b is in `other`." />
       <item value="转换" />
       <item value="操作" />
@@ -47,19 +51,16 @@
       <item value="ascending" />
       <item value="asceding" />
       <item value="combiner" />
-      <item value="cominer" />
-      <item value="规约" />
-      <item value="例子" />
-      <item value="练习" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="308" />
-        <entry key="ENGLISH" value="309" />
+        <entry key="CHINESE" value="311" />
+        <entry key="ENGLISH" value="311" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
         <entry key="LITHUANIAN" value="1" />
+        <entry key="LUXEMBOURGISH" value="1" />
         <entry key="JAPANESE" value="10" />
         <entry key="WELSH" value="3" />
       </map>
