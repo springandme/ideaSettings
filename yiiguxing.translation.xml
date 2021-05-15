@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Merge the values for each key using an associative and commutative reduce function. This will * also perform the merging locally on each mapper before sending results to a reducer, similarly * to a &quot;combiner&quot; in MapReduce. Output will be hash-partitioned with numPartitions partitions." />
       <item value="Closing link tag before opening" />
       <item value="persist" />
       <item value="Implemented by subclasses to return how this RDD depends on parent RDDs. This method will only * be called once, so it is safe to implement a time-consuming computation in it." />
@@ -50,12 +51,11 @@
       <item value="Checks if a String is not empty (&quot;&quot;), not null and not whitespace only.&lt;/p&gt;" />
       <item value="ascending" />
       <item value="asceding" />
-      <item value="combiner" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="311" />
-        <entry key="ENGLISH" value="311" />
+        <entry key="ENGLISH" value="312" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
