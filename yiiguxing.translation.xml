@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rainbow" />
+      <item value="Rainbow Csv " />
       <item value="deserialized" />
       <item value="Reassignment" />
       <item value="persist" />
@@ -49,12 +51,10 @@
       <item value="var could be a val" />
       <item value="gradient" />
       <item value="dataset" />
-      <item value="数据集" />
-      <item value="resilient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
+        <entry key="CHINESE" value="324" />
         <entry key="ENGLISH" value="324" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
