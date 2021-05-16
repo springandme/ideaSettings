@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="临时" />
+      <item value="tmp" />
+      <item value="interim" />
       <item value="Rainbow" />
       <item value="Rainbow Csv " />
       <item value="deserialized" />
@@ -48,14 +51,11 @@
       <item value="Attempting port" />
       <item value="preserves Partitioning" />
       <item value="paste" />
-      <item value="var could be a val" />
-      <item value="gradient" />
-      <item value="dataset" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="324" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="ENGLISH" value="325" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
