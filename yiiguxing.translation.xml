@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accumulator" />
+      <item value="accumulate" />
       <item value="factor" />
       <item value="launch" />
       <item value="Narrow" />
@@ -49,8 +51,6 @@
       <item value="option" />
       <item value="seqOp" />
       <item value="fold" />
-      <item value="super" />
-      <item value="sub" />
     </histories>
     <option name="languageScores">
       <map>
