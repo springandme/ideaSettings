@@ -4,8 +4,8 @@
       <mapping pattern="myLogger" type="PLAIN_TEXT" />
       <mapping pattern="part-00001" type="PLAIN_TEXT" />
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
-      <mapping pattern="avg" type="PLAIN_TEXT" />
       <mapping pattern="_partitioner" type="PLAIN_TEXT" />
+      <mapping pattern="avg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
