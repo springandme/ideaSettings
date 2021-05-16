@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="drive" />
+      <item value="Driver" />
+      <item value="driver" />
+      <item value="daemon" />
       <item value="宕机" />
       <item value="临时" />
       <item value="tmp" />
@@ -47,14 +51,10 @@
       <item value="use `.distinct()` to eliminate them" />
       <item value="Return the union of this RDD and another one. Any identical elements will appear multiple * times (use `.distinct()` to eliminate them)." />
       <item value="with Replacement" />
-      <item value="Return a new RDD by applying a function to each partition of this RDD, while tracking the index * of the original partition." />
-      <item value="Return a new RDD by applying a function to each partition of this RDD, while tracking the index * of the original partition. * * `preservesPartitioning` indicates whether the input function preserves the partitioner, which * should be `false` unless this is a pair RDD and the input function doesn't modify the keys." />
-      <item value="Attempting port" />
-      <item value="preserves Partitioning" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="324" />
+        <entry key="CHINESE" value="325" />
         <entry key="ENGLISH" value="325" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
