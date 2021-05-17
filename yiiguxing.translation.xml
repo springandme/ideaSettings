@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="optimized" />
+      <item value="Optimized" />
+      <item value="analyzed" />
+      <item value="Analyzed" />
+      <item value="Parsed" />
       <item value="Pruning" />
       <item value="Catalyst" />
       <item value="Unable to generate an encoder for inner class `com.hliushi.spark.sql.Intro$Person` without access to the scope that this class was defined in. * Try moving this class out of its parent class.;" />
@@ -46,11 +51,6 @@
       <item value="stage" />
       <item value="模型" />
       <item value="numeric" />
-      <item value="numberic" />
-      <item value="mean" />
-      <item value="champion" />
-      <item value="Aggregate the elements of each partition, and then the results for all the partitions, using a * given associative function and a neutral &quot;zero value&quot;. The function * op(t1, t2) is allowed to modify t1 and return it as its result value to avoid object * allocation; however, it should not modify t2. * * This behaves somewhat differently from fold operations implemented for non-distributed * collections in functional languages like Scala. This fold operation may be applied to * partitions individually, and then fold those results into the final result, rather than * apply the fold to each element sequentially in some defined ordering. For functions * that are not commutative, the result may differ from that of a fold applied to a * non-distributed collection." />
-      <item value="the initial value for the accumulated result of each partition for the `op` * operator, and also the initial value for the combine results from different * partitions for the `op` operator - this will typically be the neutral * element (e.g. `Nil` for list concatenation or `0` for summation)" />
     </histories>
     <option name="languageScores">
       <map>
