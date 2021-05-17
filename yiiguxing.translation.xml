@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="装载" />
+      <item value="transform" />
+      <item value="转换" />
+      <item value="Extract" />
+      <item value="抽取" />
       <item value=" internal" />
       <item value="Prints the plans (logical and physical) to the console for debugging purposes." />
       <item value="Visual" />
@@ -46,16 +51,11 @@
       <item value="Rainbow Csv " />
       <item value="deserialized" />
       <item value="Reassignment" />
-      <item value="persist" />
-      <item value="ascending" />
-      <item value="equals Ignore Case" />
-      <item value="source" />
-      <item value="Comparing unrelated types: Char and String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="CHINESE" value="338" />
+        <entry key="ENGLISH" value="339" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
