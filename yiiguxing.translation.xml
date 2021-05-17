@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" internal" />
       <item value="Prints the plans (logical and physical) to the console for debugging purposes." />
       <item value="Visual" />
       <item value="optimized" />
@@ -50,11 +51,10 @@
       <item value="equals Ignore Case" />
       <item value="source" />
       <item value="Comparing unrelated types: Char and String" />
-      <item value="stage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
+        <entry key="CHINESE" value="336" />
         <entry key="ENGLISH" value="336" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
