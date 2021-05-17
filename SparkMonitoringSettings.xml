@@ -1,0 +1,16 @@
+<application>
+  <component name="SparkMonitoringSettings">
+    <option name="configs">
+      <map>
+        <entry key="Spark monitoring connection@SparkMonitoringConnections@7048540804719821662">
+          <value>
+            <SparkConfig>
+              <option name="applicationsSplitterProportion" value="0.21906802" />
+              <option name="selectedApplicationId" value="local-1621210627983" />
+            </SparkConfig>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
