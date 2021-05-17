@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Visual" />
       <item value="optimized" />
       <item value="Optimized" />
       <item value="analyzed" />
@@ -50,7 +51,6 @@
       <item value="Comparing unrelated types: Char and String" />
       <item value="stage" />
       <item value="模型" />
-      <item value="numeric" />
     </histories>
     <option name="languageScores">
       <map>
