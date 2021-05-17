@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to generate an encoder for inner class `com.hliushi.spark.sql.Intro$Person` without access to the scope that this class was defined in. * Try moving this class out of its parent class.;" />
+      <item value="generate" />
+      <item value="Unable to generate an encoder for inner class `com.hliushi.spark.sql.Intro$Person` without access to the scope that this class was defined in." />
       <item value="Intro" />
       <item value="shark" />
       <item value="backend" />
@@ -48,14 +51,11 @@
       <item value="the initial value for the accumulated result of each partition for the `op` * operator, and also the initial value for the combine results from different * partitions for the `op` operator - this will typically be the neutral * element (e.g. `Nil` for list concatenation or `0` for summation)" />
       <item value="Merge the values for each key using an associative and commutative reduce function. This will * also perform the merging locally on each mapper before sending results to a reducer, similarly * to a &quot;combiner&quot; in MapReduce. Output will be hash-partitioned with numPartitions partitions." />
       <item value="Closing link tag before opening" />
-      <item value="Implemented by subclasses to return how this RDD depends on parent RDDs. This method will only * be called once, so it is safe to implement a time-consuming computation in it." />
-      <item value="ctag" />
-      <item value="Return the Cartesian product of this RDD and another one, that is, the RDD of all pairs of * elements (a, b) where a is in `this` and b is in `other`." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="332" />
-        <entry key="ENGLISH" value="333" />
+        <entry key="CHINESE" value="334" />
+        <entry key="ENGLISH" value="335" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
