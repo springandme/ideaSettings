@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="21/05/18 13:01:41 WARN internal.Errors: The following warnings have been detected: WARNING: The (sub)resource method stageData in org.apache.spark.status.api.v1.OneStageResource contains empty path annotation. " />
       <item value="技巧" />
       <item value="Schedules a file to be deleted when JVM exits. * If file is directory delete it and all sub-directories." />
       <item value="Row" />
@@ -50,11 +51,10 @@
       <item value="Class of the key associated with the inputFormatClass." />
       <item value="drive" />
       <item value="Driver" />
-      <item value="driver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="346" />
+        <entry key="CHINESE" value="347" />
         <entry key="ENGLISH" value="347" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
