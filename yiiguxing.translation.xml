@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="except " />
       <item value="整合" />
       <item value="integration" />
       <item value="integrition" />
@@ -50,11 +51,10 @@
       <item value="Represents a one-to-one dependency between ranges of partitions in the parent and child RDDs." />
       <item value="narrow Dependency" />
       <item value="Child returned status 1" />
-      <item value="is not a valid DFS filename." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="350" />
+        <entry key="CHINESE" value="351" />
         <entry key="ENGLISH" value="351" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
