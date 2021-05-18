@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Schedules a file to be deleted when JVM exits. * If file is directory delete it and all sub-directories." />
+      <item value="Row" />
+      <item value="data Frame" />
+      <item value="推断" />
+      <item value="Returns a new Dataset where each record has been mapped on to the specified type. The * method used to map columns depend on the type of `U`: * - When `U` is a class, fields for the class will be mapped to columns of the same name * (case sensitivity is determined by `spark.sql.caseSensitive`). * - When `U` is a tuple, the columns will be mapped by ordinal (i.e. the first column will * be assigned to `_1`). * - When `U` is a primitive type (i.e. String, Int, etc), then the first column of the * `DataFrame` will be used." />
       <item value="Saves the content of the `DataFrame` in JSON format (&lt;a href=&quot;http://jsonlines.org/&quot;&gt; * JSON Lines text format or newline-delimited JSON&lt;/a&gt;) at the specified path." />
       <item value="Adds an input option for the underlying data source." />
       <item value="Whether truncate long strings. If true, strings more than 20 characters will * be truncated and all cells will be aligned right" />
@@ -46,16 +51,11 @@
       <item value="Driver" />
       <item value="driver" />
       <item value="daemon" />
-      <item value="宕机" />
-      <item value="临时" />
-      <item value="tmp" />
-      <item value="interim" />
-      <item value="Rainbow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="341" />
-        <entry key="ENGLISH" value="342" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="346" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
