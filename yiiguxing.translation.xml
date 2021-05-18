@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="整合" />
+      <item value="integration" />
+      <item value="integrition" />
       <item value="Option 'dbtable' is required." />
       <item value="No suitable driver" />
       <item value="Unexpected custom file format" />
@@ -48,14 +51,11 @@
       <item value="narrow Dependency" />
       <item value="Child returned status 1" />
       <item value="is not a valid DFS filename." />
-      <item value="Spark monitoring connection" />
-      <item value="Exception during driver request: java.lang.IllegalArgumentException: java.net.URISyntaxException: Illegal character in hostname at index 10: hdfs://ecs_node01:8020" />
-      <item value="compute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="349" />
-        <entry key="ENGLISH" value="350" />
+        <entry key="CHINESE" value="350" />
+        <entry key="ENGLISH" value="351" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
