@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inequality test." />
       <item value="salute" />
       <item value="转换" />
       <item value="parse" />
@@ -50,12 +51,11 @@
       <item value="Unable to generate an encoder for inner class `com.hliushi.spark.sql.Intro$Person` without access to the scope that this class was defined in. * Try moving this class out of its parent class.;" />
       <item value="generate" />
       <item value="Unable to generate an encoder for inner class `com.hliushi.spark.sql.Intro$Person` without access to the scope that this class was defined in." />
-      <item value="Intro" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="363" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="ENGLISH" value="364" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
