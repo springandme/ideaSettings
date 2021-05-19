@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="转换" />
+      <item value="parse" />
+      <item value="java.lang.String is not a valid external type for schema of int" />
+      <item value="Cannot up cast `pm_dongsi` from string to int as it may truncate" />
       <item value="Returns a new Dataset by adding a column or replacing the existing column that has * the same name." />
       <item value="别名" />
       <item value="resolved" />
@@ -30,7 +34,6 @@
       <item value="Whether truncate long strings. If true, strings more than 20 characters will * be truncated and all cells will be aligned right" />
       <item value="装载" />
       <item value="transform" />
-      <item value="转换" />
       <item value="Extract" />
       <item value="抽取" />
       <item value=" internal" />
@@ -48,14 +51,11 @@
       <item value="Unable to generate an encoder for inner class `com.hliushi.spark.sql.Intro$Person` without access to the scope that this class was defined in." />
       <item value="Intro" />
       <item value="shark" />
-      <item value="backend" />
-      <item value="broadcast" />
-      <item value="This is a plugin for Excel file. You can read the file content in IDEA. Don't need to open excel application. Three formats of [xls, xlsx, csv] are supported." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="358" />
-        <entry key="ENGLISH" value="359" />
+        <entry key="CHINESE" value="362" />
+        <entry key="ENGLISH" value="363" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
