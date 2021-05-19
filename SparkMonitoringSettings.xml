@@ -6,7 +6,7 @@
           <value>
             <SparkConfig>
               <option name="applicationsSplitterProportion" value="0.15158008" />
-              <option name="selectedApplicationId" value="local-1621294772181" />
+              <option name="selectedApplicationId" value="local-1621385306188" />
             </SparkConfig>
           </value>
         </entry>
@@ -22,6 +22,6 @@
         </entry>
       </map>
     </option>
-    <option name="selectedConnectionId" value="Spark monitoring connection@SparkMonitoringConnections@7048540804719821662" />
+    <option name="selectedConnectionId" value="Spark monitoring connection@SparkMonitoringConnections@-4257716007565461937" />
   </component>
 </application>
