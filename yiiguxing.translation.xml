@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a new Dataset by adding a column or replacing the existing column that has * the same name." />
       <item value="别名" />
       <item value="resolved" />
       <item value="condition" />
@@ -50,12 +51,11 @@
       <item value="backend" />
       <item value="broadcast" />
       <item value="This is a plugin for Excel file. You can read the file content in IDEA. Don't need to open excel application. Three formats of [xls, xlsx, csv] are supported." />
-      <item value="accumulator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="357" />
-        <entry key="ENGLISH" value="358" />
+        <entry key="CHINESE" value="358" />
+        <entry key="ENGLISH" value="359" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
