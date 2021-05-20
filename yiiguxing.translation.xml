@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No Encoder found for AnyVal" />
       <item value="revenue" />
       <item value="semi" />
       <item value="anti" />
@@ -50,12 +51,11 @@
       <item value="Visual" />
       <item value="optimized" />
       <item value="Optimized" />
-      <item value="analyzed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="367" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="CHINESE" value="368" />
+        <entry key="ENGLISH" value="369" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
