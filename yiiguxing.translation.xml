@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="borough" />
       <item value="Whether truncate long strings. If true, strings more than 20 characters will * be truncated and all cells will be aligned right" />
       <item value="Displays the top 20 rows of Dataset in a tabular form." />
       <item value="分钟" />
@@ -50,11 +51,10 @@
       <item value="Unexpected custom file format" />
       <item value="分隔符" />
       <item value="encountered unrecoverable cycle resolving import." />
-      <item value="21/05/18 13:01:41 WARN internal.Errors: The following warnings have been detected: WARNING: The (sub)resource method stageData in org.apache.spark.status.api.v1.OneStageResource contains empty path annotation. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="380" />
+        <entry key="CHINESE" value="381" />
         <entry key="ENGLISH" value="381" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
