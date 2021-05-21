@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="speed" />
+      <item value="batch" />
       <item value="You can set the following option(s): * &lt;ul&gt; * &lt;li&gt;`timeZone` (default session local timezone): sets the string that indicates a timezone * to be used to parse timestamps in the JSON/CSV datasources or partition values.&lt;/li&gt; * &lt;/ul&gt;" />
       <item value="Adds an input option for the underlying data source." />
       <item value="cost" />
@@ -49,12 +51,10 @@
       <item value="anti" />
       <item value="部门" />
       <item value="Type of join to perform" />
-      <item value="Pivots a column of the current `DataFrame` and perform the specified aggregation. * There are two versions of pivot function: one that requires the caller to specify the list * of distinct values to pivot on, and one that does not. The latter is more concise but less * efficient, because Spark needs to first compute the list of distinct values internally." />
-      <item value="pivot" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="391" />
+        <entry key="CHINESE" value="392" />
         <entry key="ENGLISH" value="392" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
