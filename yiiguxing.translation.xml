@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cost" />
+      <item value="catalog" />
+      <item value="Optimizer" />
+      <item value="Catalyst" />
+      <item value="analysis" />
+      <item value="syntax" />
       <item value="Returns the index of a given field name." />
       <item value="单带" />
       <item value="集合" />
@@ -45,16 +51,10 @@
       <item value="pivot" />
       <item value="Inequality test." />
       <item value="salute" />
-      <item value="转换" />
-      <item value="parse" />
-      <item value="java.lang.String is not a valid external type for schema of int" />
-      <item value="Cannot up cast `pm_dongsi` from string to int as it may truncate" />
-      <item value="Returns a new Dataset by adding a column or replacing the existing column that has * the same name." />
-      <item value="别名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="389" />
+        <entry key="CHINESE" value="390" />
         <entry key="ENGLISH" value="390" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
