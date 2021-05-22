@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="redo" />
       <item value="tracker" />
       <item value="Create a socket connection and receive data until receiver is stopped" />
       <item value="receiver" />
@@ -50,7 +51,6 @@
       <item value="Checks whether the value at position i is null." />
       <item value="Checks whether the value at position i is null" />
       <item value="Rich Row" />
-      <item value="rate code" />
     </histories>
     <option name="languageScores">
       <map>
