@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tracker" />
+      <item value="Create a socket connection and receive data until receiver is stopped" />
+      <item value="receiver" />
       <item value="valid Time" />
       <item value="build operator DAG" />
       <item value="operator" />
@@ -48,14 +51,11 @@
       <item value="Checks whether the value at position i is null" />
       <item value="Rich Row" />
       <item value="rate code" />
-      <item value="Frame" />
-      <item value="差别" />
-      <item value="diffe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="394" />
-        <entry key="ENGLISH" value="395" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="396" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
