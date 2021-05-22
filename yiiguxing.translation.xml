@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="build operator DAG" />
+      <item value="operator" />
+      <item value="build " />
       <item value="Duration" />
       <item value="离散" />
       <item value="李珊" />
@@ -48,13 +51,10 @@
       <item value="差别" />
       <item value="diffe" />
       <item value="different" />
-      <item value="No Encoder found for AnyVal" />
-      <item value="revenue" />
-      <item value="semi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="393" />
+        <entry key="CHINESE" value="394" />
         <entry key="ENGLISH" value="394" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
