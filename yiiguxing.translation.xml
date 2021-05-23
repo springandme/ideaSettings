@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unbounded" />
+      <item value="unbound" />
       <item value="redo" />
       <item value="tracker" />
       <item value="Create a socket connection and receive data until receiver is stopped" />
@@ -49,8 +51,6 @@
       <item value="Either" />
       <item value="Returns the option's value if it is nonempty, * or `null` if it is empty. * Although the use of null is discouraged, code written to use * $option must often interface with code that expects and returns nulls." />
       <item value="Checks whether the value at position i is null." />
-      <item value="Checks whether the value at position i is null" />
-      <item value="Rich Row" />
     </histories>
     <option name="languageScores">
       <map>
