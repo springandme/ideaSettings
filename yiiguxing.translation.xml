@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="There are 2 registered tablet servers." />
       <item value="Concurrency " />
       <item value="Cannot resolve overloaded method 'getString" />
       <item value="Percentage consumed" />
@@ -50,7 +51,6 @@
       <item value="voter" />
       <item value="vite" />
       <item value="viper" />
-      <item value="viler" />
     </histories>
     <option name="languageScores">
       <map>
