@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Percentage consumed" />
       <item value="miner" />
       <item value="redo" />
       <item value="radio delta" />
@@ -50,7 +51,6 @@
       <item value="viler" />
       <item value="viler viper vite voter vader " />
       <item value="Returns an iterator which presents a &quot;sliding window&quot; view of * another iterator. The first argument is the window size, and * the second is how far to advance the window on each iteration; * defaults to `1`. Example usages:" />
-      <item value="feature" />
     </histories>
     <option name="languageScores">
       <map>
