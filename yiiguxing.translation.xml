@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="advertising" />
+      <item value="广告" />
       <item value="守护进程" />
       <item value="守护" />
       <item value="There are 2 registered tablet servers." />
@@ -49,12 +51,10 @@
       <item value="syntax" />
       <item value="Returns the index of a given field name." />
       <item value="单带" />
-      <item value="集合" />
-      <item value="voter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="402" />
+        <entry key="CHINESE" value="403" />
         <entry key="ENGLISH" value="403" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
