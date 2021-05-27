@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="region" />
+      <item value="Longitude" />
       <item value="where the value came from" />
       <item value="The origin of the value (file, line number, etc.), for debugging and * error messages." />
       <item value="推测" />
@@ -49,13 +51,11 @@
       <item value="Adds an input option for the underlying data source." />
       <item value="cost" />
       <item value="catalog" />
-      <item value="Optimizer" />
-      <item value="Catalyst" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="405" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="408" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
