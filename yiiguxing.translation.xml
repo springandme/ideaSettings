@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TBLPROPERTIES" />
       <item value="unexpected" />
       <item value="peer" />
       <item value="read: Resource temporarily unavailable" />
@@ -50,11 +51,10 @@
       <item value="operator" />
       <item value="build " />
       <item value="Duration" />
-      <item value="离散" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
+        <entry key="CHINESE" value="412" />
         <entry key="ENGLISH" value="412" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
