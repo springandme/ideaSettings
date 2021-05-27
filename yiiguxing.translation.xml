@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unexpected" />
+      <item value="peer" />
+      <item value="read: Resource temporarily unavailable" />
+      <item value="java.lang.String is not a valid external type for schema of double" />
       <item value="纬度" />
       <item value="维度" />
       <item value="Advanced language feature: implicit conversion" />
@@ -47,15 +51,11 @@
       <item value="build " />
       <item value="Duration" />
       <item value="离散" />
-      <item value="李珊" />
-      <item value="speed" />
-      <item value="batch" />
-      <item value="You can set the following option(s): * &lt;ul&gt; * &lt;li&gt;`timeZone` (default session local timezone): sets the string that indicates a timezone * to be used to parse timestamps in the JSON/CSV datasources or partition values.&lt;/li&gt; * &lt;/ul&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="408" />
-        <entry key="ENGLISH" value="409" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="412" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
