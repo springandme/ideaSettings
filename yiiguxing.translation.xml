@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This method uses the given number of characters as the desired precision * value. The hash can only be 64bits long, thus a maximum precision of 12 * characters can be achieved." />
+      <item value="纬度" />
+      <item value="经度" />
       <item value="building" />
       <item value="expire" />
       <item value="到期" />
@@ -25,7 +28,6 @@
       <item value="peer" />
       <item value="read: Resource temporarily unavailable" />
       <item value="java.lang.String is not a valid external type for schema of double" />
-      <item value="纬度" />
       <item value="维度" />
       <item value="Advanced language feature: implicit conversion" />
       <item value="region" />
@@ -49,13 +51,11 @@
       <item value="redodelta" />
       <item value="布局管理器" />
       <item value="triggers" />
-      <item value="Tiggers" />
-      <item value="movie" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="419" />
-        <entry key="ENGLISH" value="420" />
+        <entry key="CHINESE" value="421" />
+        <entry key="ENGLISH" value="422" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
