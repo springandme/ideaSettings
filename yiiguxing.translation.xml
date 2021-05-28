@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="original" />
+      <item value="orginal" />
       <item value="effective" />
       <item value="Write buffer memory usage" />
       <item value="Returns true if the option is an instance of $some, false otherwise." />
@@ -49,8 +51,6 @@
       <item value="tracker" />
       <item value="Create a socket connection and receive data until receiver is stopped" />
       <item value="receiver" />
-      <item value="valid Time" />
-      <item value="build operator DAG" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,6 +62,7 @@
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="JAPANESE" value="10" />
+        <entry key="SWEDISH" value="1" />
         <entry key="WELSH" value="3" />
       </map>
     </option>
