@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="渠道" />
+      <item value="渠道统" />
+      <item value="运营商" />
+      <item value="网络运营商" />
+      <item value="network" />
+      <item value="网络" />
+      <item value="device" />
+      <item value="设备" />
       <item value="Tried to update clock beyond the max. error." />
       <item value="Original asynchronous stack trace" />
       <item value="original" />
@@ -43,19 +51,11 @@
       <item value="motion" />
       <item value="subscribe" />
       <item value="Latest  " />
-      <item value="Assign " />
-      <item value="Earliest" />
-      <item value="移除" />
-      <item value="There is no locally stored library for the HTTP link." />
-      <item value="Caught exception" />
-      <item value="unbounded" />
-      <item value="unbound" />
-      <item value="tracker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="414" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="417" />
+        <entry key="ENGLISH" value="418" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
