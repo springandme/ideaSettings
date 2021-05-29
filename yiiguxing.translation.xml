@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="notation" />
+      <item value="Notation" />
       <item value="ambiguous" />
       <item value="Returns a $some containing the result of applying $f to this $option's * value if this $option is nonempty. * Otherwise return $none." />
       <item value="This method uses the given number of characters as the desired precision * value. The hash can only be 64bits long, thus a maximum precision of 12 * characters can be achieved." />
@@ -49,8 +51,6 @@
       <item value="miner" />
       <item value="redo" />
       <item value="radio delta" />
-      <item value="radiodelta" />
-      <item value="redodelta" />
     </histories>
     <option name="languageScores">
       <map>
