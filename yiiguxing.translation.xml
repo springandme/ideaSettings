@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot resolve overloaded method 'replace'" />
       <item value="upper Case" />
       <item value="category" />
       <item value="Interpreter stopped. Will be lazily started on next run." />
@@ -50,11 +51,10 @@
       <item value="TBLPROPERTIES" />
       <item value="unexpected" />
       <item value="peer" />
-      <item value="read: Resource temporarily unavailable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="431" />
+        <entry key="CHINESE" value="432" />
         <entry key="ENGLISH" value="432" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
