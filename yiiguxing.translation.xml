@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discovery" />
+      <item value="ingestion" />
+      <item value="Ingestion" />
+      <item value="data ingestion" />
       <item value="Adds a number of elements provided by a traversable object * and returns a new collection with the added elements." />
       <item value="component" />
       <item value="vertex" />
@@ -47,14 +51,10 @@
       <item value="推测" />
       <item value="speculation" />
       <item value="advertising" />
-      <item value="广告" />
-      <item value="守护进程" />
-      <item value="守护" />
-      <item value="There are 2 registered tablet servers." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="429" />
+        <entry key="CHINESE" value="430" />
         <entry key="ENGLISH" value="430" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
