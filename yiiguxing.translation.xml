@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pending" />
+      <item value="pend" />
+      <item value="PENDING" />
       <item value="credential" />
       <item value="Credential" />
       <item value="Credentials  Manage your credentials. You can add new credential information. " />
@@ -48,9 +51,6 @@
       <item value="java.lang.String is not a valid external type for schema of double" />
       <item value="维度" />
       <item value="Advanced language feature: implicit conversion" />
-      <item value="region" />
-      <item value="Longitude" />
-      <item value="where the value came from" />
     </histories>
     <option name="languageScores">
       <map>
