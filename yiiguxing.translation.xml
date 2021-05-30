@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Solitary " />
       <item value="detectIndentation" />
       <item value="delimiter" />
       <item value="间隔" />
@@ -50,7 +51,6 @@
       <item value="设备" />
       <item value="Tried to update clock beyond the max. error." />
       <item value="Original asynchronous stack trace" />
-      <item value="original" />
     </histories>
     <option name="languageScores">
       <map>
