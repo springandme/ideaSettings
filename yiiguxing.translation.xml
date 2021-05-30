@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parallelize" />
+      <item value="This method is identical to `parallelize`." />
+      <item value="identical" />
+      <item value="Monad " />
+      <item value="deploy-mode" />
+      <item value="deploy" />
       <item value="standalone " />
       <item value="DAEMON" />
       <item value="Remaining" />
@@ -45,17 +51,11 @@
       <item value="building" />
       <item value="expire" />
       <item value="到期" />
-      <item value="expires" />
-      <item value="渠道" />
-      <item value="渠道统" />
-      <item value="运营商" />
-      <item value="网络运营商" />
-      <item value="network" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="435" />
-        <entry key="ENGLISH" value="435" />
+        <entry key="CHINESE" value="437" />
+        <entry key="ENGLISH" value="438" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
