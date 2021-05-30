@@ -8,6 +8,7 @@
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
       <mapping pattern="_partitioner" type="PLAIN_TEXT" />
       <mapping pattern="avg" type="PLAIN_TEXT" />
+      <mapping pattern="rdd_parctice" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
