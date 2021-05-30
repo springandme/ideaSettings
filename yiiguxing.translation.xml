@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="standalone " />
+      <item value="DAEMON" />
       <item value="Remaining" />
       <item value="科目" />
       <item value="练习" />
@@ -49,8 +51,6 @@
       <item value="运营商" />
       <item value="网络运营商" />
       <item value="network" />
-      <item value="网络" />
-      <item value="device" />
     </histories>
     <option name="languageScores">
       <map>
