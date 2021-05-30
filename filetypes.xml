@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="studenttab10k" type="PLAIN_TEXT" />
       <mapping pattern="myLogger" type="PLAIN_TEXT" />
+      <mapping pattern="test01" type="PLAIN_TEXT" />
       <mapping pattern="part-00001" type="PLAIN_TEXT" />
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
       <mapping pattern="_partitioner" type="PLAIN_TEXT" />
