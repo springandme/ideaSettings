@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=":: Experimental :: * Creates a [[Dataset]] with a single `LongType` column named `id`, containing elements * in a range from `start` to `end` (exclusive) with a step value, with partition number * specified." />
+      <item value="United States" />
       <item value="managed" />
       <item value="事务" />
       <item value="处理" />
@@ -49,13 +51,11 @@
       <item value="Credential" />
       <item value="Credentials  Manage your credentials. You can add new credential information. " />
       <item value="JSON file size cannot exceed 1 MB " />
-      <item value="discovery" />
-      <item value="ingestion" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="447" />
-        <entry key="ENGLISH" value="447" />
+        <entry key="ENGLISH" value="448" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
