@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="specific " />
+      <item value="This is declared with parentheses to prevent the Scala compiler from treating // `ds.toDF(&quot;1&quot;)` as invoking this toDF and then apply on the returned DataFrame." />
+      <item value="Converts this strongly typed collection of data to generic Dataframe. In contrast to the * strongly typed objects that Dataset operations work on, a Dataframe returns generic [[Row]] * objects that allow fields to be accessed by ordinal or name." />
+      <item value="Returns the value at position i of array type as a Scala Seq." />
+      <item value="Checks whether the value at position i is null" />
       <item value=":: Experimental :: * Creates a [[Dataset]] with a single `LongType` column named `id`, containing elements * in a range from `start` to `end` (exclusive) with a step value, with partition number * specified." />
       <item value="United States" />
       <item value="managed" />
@@ -46,16 +51,11 @@
       <item value="Interpreter stopped. Will be lazily started on next run." />
       <item value="pending" />
       <item value="pend" />
-      <item value="PENDING" />
-      <item value="credential" />
-      <item value="Credential" />
-      <item value="Credentials  Manage your credentials. You can add new credential information. " />
-      <item value="JSON file size cannot exceed 1 MB " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="447" />
-        <entry key="ENGLISH" value="448" />
+        <entry key="CHINESE" value="453" />
+        <entry key="ENGLISH" value="453" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
