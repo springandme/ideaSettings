@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Get the broadcasted value" />
+      <item value="&lt;code&gt;JUnitCore&lt;/code&gt; is a facade for running tests. It supports running JUnit 4 tests, * JUnit 3.8.x tests, and mixtures. To run tests from the command line, run * &lt;code&gt;java org.junit.runner.JUnitCore TestClass1 TestClass2 ...&lt;/code&gt;. * For one-shot test runs, use the static method {@link #runClasses(Class[])}. * If you want to add special listeners, * create an instance of {@link org.junit.runner.JUnitCore} first and use it to run the tests." />
       <item value="map" />
       <item value="mapper" />
       <item value="reduce" />
@@ -49,13 +51,11 @@
       <item value="vertex" />
       <item value="Scroll to End " />
       <item value="Returns the index of a given field name." />
-      <item value="Uncaught exception while reverting partial writes" />
-      <item value="notation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="442" />
-        <entry key="ENGLISH" value="442" />
+        <entry key="CHINESE" value="443" />
+        <entry key="ENGLISH" value="444" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
