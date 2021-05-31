@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a [[DataFrameNaFunctions]] for working with missing data." />
+      <item value="A container for a [[Dataset]], used for implicit conversions in Scala." />
       <item value="Get the broadcasted value" />
       <item value="&lt;code&gt;JUnitCore&lt;/code&gt; is a facade for running tests. It supports running JUnit 4 tests, * JUnit 3.8.x tests, and mixtures. To run tests from the command line, run * &lt;code&gt;java org.junit.runner.JUnitCore TestClass1 TestClass2 ...&lt;/code&gt;. * For one-shot test runs, use the static method {@link #runClasses(Class[])}. * If you want to add special listeners, * create an instance of {@link org.junit.runner.JUnitCore} first and use it to run the tests." />
       <item value="map" />
@@ -49,13 +51,11 @@
       <item value="Adds a number of elements provided by a traversable object * and returns a new collection with the added elements." />
       <item value="component" />
       <item value="vertex" />
-      <item value="Scroll to End " />
-      <item value="Returns the index of a given field name." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="443" />
-        <entry key="ENGLISH" value="444" />
+        <entry key="CHINESE" value="445" />
+        <entry key="ENGLISH" value="446" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
