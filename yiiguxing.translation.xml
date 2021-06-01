@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An enumeration of hints, optionally usable to tell the system how exactly execute the join." />
+      <item value="Special [[join]] operation for explicitly telling the system what join strategy to use. If * null is given as the join strategy, then the optimizer will pick the strategy." />
+      <item value="If the input is a composite type (Tuple or Pojo type), distinct is performed on all fields * and each field must be a key type.&lt;/p&gt;" />
+      <item value="Returns a distinct set of this DataSet." />
+      <item value="Shortcuts for Aggregation factories." />
       <item value="Creates a [[GroupedDataSet]] which provides operations on groups of elements. Elements are * grouped based on the value returned by the given function. * * This will not create a new DataSet, it will just attach the key function which will be used * for grouping when executing a grouped operation." />
       <item value="Syntactic sugar for [[aggregate]] with `SUM`" />
       <item value="Creates a [[GroupedDataSet]] which provides operations on groups of elements. Elements are * grouped based on the given fields. * * This will not create a new DataSet, it will just attach the field names which will be * used for grouping when executing a grouped operation." />
@@ -46,16 +51,11 @@
       <item value="cartesian" />
       <item value="union" />
       <item value="aggregate" />
-      <item value="sample" />
-      <item value="preserves Partitioning" />
-      <item value="parallelize" />
-      <item value="This method is identical to `parallelize`." />
-      <item value="identical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="474" />
-        <entry key="ENGLISH" value="475" />
+        <entry key="CHINESE" value="479" />
+        <entry key="ENGLISH" value="480" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
