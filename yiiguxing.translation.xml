@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates a [[GroupedDataSet]] which provides operations on groups of elements. Elements are * grouped based on the value returned by the given function. * * This will not create a new DataSet, it will just attach the key function which will be used * for grouping when executing a grouped operation." />
+      <item value="Syntactic sugar for [[aggregate]] with `SUM`" />
+      <item value="Creates a [[GroupedDataSet]] which provides operations on groups of elements. Elements are * grouped based on the given fields. * * This will not create a new DataSet, it will just attach the field names which will be * used for grouping when executing a grouped operation." />
+      <item value="Creates a [[GroupedDataSet]] which provides operations on groups of elements. Elements are * grouped based on the given tuple fields. * * This will not create a new DataSet, it will just attach the tuple field positions which will be * used for grouping when executing a grouped operation. * * This only works on Tuple DataSets. */" />
+      <item value="Creates a new [[DataSet]] by merging the elements of this DataSet using an associative reduce * function." />
       <item value="Creates a new DataSet by applying the given function to every element and flattening * the results." />
       <item value="遍历" />
       <item value="The fields in the file that should be read. Per default all fields * are read." />
@@ -46,16 +51,11 @@
       <item value="parallelize" />
       <item value="This method is identical to `parallelize`." />
       <item value="identical" />
-      <item value="Monad " />
-      <item value="deploy-mode" />
-      <item value="deploy" />
-      <item value="standalone " />
-      <item value="DAEMON" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="468" />
-        <entry key="ENGLISH" value="469" />
+        <entry key="CHINESE" value="474" />
+        <entry key="ENGLISH" value="475" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
