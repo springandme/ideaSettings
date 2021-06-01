@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wrap" />
+      <item value="Enforces a re-balancing of the DataSet, i.e., the DataSet is evenly distributed over all * parallel instances of the * following task. This can help to improve performance in case of heavy data skew and compute * intensive operations. * * '''Important:''' This operation shuffles the whole DataSet over the network and can take * significant amount of time. * * @return The rebalanced DataSet." />
       <item value="An enumeration of hints, optionally usable to tell the system how exactly execute the join." />
       <item value="Special [[join]] operation for explicitly telling the system what join strategy to use. If * null is given as the join strategy, then the optimizer will pick the strategy." />
       <item value="If the input is a composite type (Tuple or Pojo type), distinct is performed on all fields * and each field must be a key type.&lt;/p&gt;" />
@@ -49,13 +51,11 @@
       <item value="reduce" />
       <item value="Shuffle " />
       <item value="cartesian" />
-      <item value="union" />
-      <item value="aggregate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="480" />
+        <entry key="CHINESE" value="481" />
+        <entry key="ENGLISH" value="482" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
