@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rich variant of the {@link MapFunction}. As a {@link RichFunction}, it gives access to the" />
+      <item value="gracefully" />
       <item value="Creates a local execution environment. The local execution environment will run the * program in a multi-threaded fashion in the same JVM as the environment was created in. * * This method sets the environment's default parallelism to given parameter, which * defaults to the value set via [[setDefaultLocalParallelism(Int)]]." />
       <item value="execute" />
       <item value="execution" />
@@ -49,13 +51,11 @@
       <item value="Returns the value at position i of array type as a Scala Seq." />
       <item value="Checks whether the value at position i is null" />
       <item value=":: Experimental :: * Creates a [[Dataset]] with a single `LongType` column named `id`, containing elements * in a range from `start` to `end` (exclusive) with a step value, with partition number * specified." />
-      <item value="United States" />
-      <item value="managed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="492" />
-        <entry key="ENGLISH" value="493" />
+        <entry key="CHINESE" value="493" />
+        <entry key="ENGLISH" value="494" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
