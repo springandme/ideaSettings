@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Triggers the program execution. The environment will execute all parts of the program that have * resulted in a &quot;sink&quot; operation. Sink operations are for example printing results * [[DataSet.print]], writing results (e.g. [[DataSet.writeAsText]], [[DataSet.write]], or other * generic data sinks created with [[DataSet.output]]." />
+      <item value="No data sinks have been created yet. A program needs at least one sink that consumes data. Examples are writing the data set or printing it." />
       <item value="Creates a new target file regardless of any existing files or directories. * Existing files and directories will be deleted (recursively) automatically before * creating the new file. */" />
       <item value="Creates the target file only if no file exists at that path already. * Does not overwrite existing files and directories. */" />
       <item value="Sets the parallelism of this operation. This must be greater than 1." />
@@ -49,13 +51,11 @@
       <item value="处理" />
       <item value="分析" />
       <item value="在线" />
-      <item value="Returns a [[DataFrameNaFunctions]] for working with missing data." />
-      <item value="A container for a [[Dataset]], used for implicit conversions in Scala." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="488" />
-        <entry key="ENGLISH" value="489" />
+        <entry key="CHINESE" value="490" />
+        <entry key="ENGLISH" value="491" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
