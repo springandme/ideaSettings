@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the parallelism for operations executed through this environment. * Setting a parallelism of x here will cause all operators (such as join, map, reduce) to run * with x parallel instances. This value can be overridden by specific operations using * [[DataStream#setParallelism(int)]]." />
       <item value="Rich variant of the {@link MapFunction}. As a {@link RichFunction}, it gives access to the" />
       <item value="gracefully" />
       <item value="Creates a local execution environment. The local execution environment will run the * program in a multi-threaded fashion in the same JVM as the environment was created in. * * This method sets the environment's default parallelism to given parameter, which * defaults to the value set via [[setDefaultLocalParallelism(Int)]]." />
@@ -50,12 +51,11 @@
       <item value="Converts this strongly typed collection of data to generic Dataframe. In contrast to the * strongly typed objects that Dataset operations work on, a Dataframe returns generic [[Row]] * objects that allow fields to be accessed by ordinal or name." />
       <item value="Returns the value at position i of array type as a Scala Seq." />
       <item value="Checks whether the value at position i is null" />
-      <item value=":: Experimental :: * Creates a [[Dataset]] with a single `LongType` column named `id`, containing elements * in a range from `start` to `end` (exclusive) with a step value, with partition number * specified." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="493" />
-        <entry key="ENGLISH" value="494" />
+        <entry key="CHINESE" value="494" />
+        <entry key="ENGLISH" value="495" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
