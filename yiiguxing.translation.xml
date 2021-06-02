@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="execute" />
+      <item value="execution" />
+      <item value="执行" />
       <item value="Triggers the program execution. The environment will execute all parts of the program that have * resulted in a &quot;sink&quot; operation. Sink operations are for example printing results * [[DataSet.print]], writing results (e.g. [[DataSet.writeAsText]], [[DataSet.write]], or other * generic data sinks created with [[DataSet.output]]." />
       <item value="No data sinks have been created yet. A program needs at least one sink that consumes data. Examples are writing the data set or printing it." />
       <item value="Creates a new target file regardless of any existing files or directories. * Existing files and directories will be deleted (recursively) automatically before * creating the new file. */" />
@@ -48,14 +51,11 @@
       <item value="United States" />
       <item value="managed" />
       <item value="事务" />
-      <item value="处理" />
-      <item value="分析" />
-      <item value="在线" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="490" />
-        <entry key="ENGLISH" value="491" />
+        <entry key="CHINESE" value="492" />
+        <entry key="ENGLISH" value="492" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
