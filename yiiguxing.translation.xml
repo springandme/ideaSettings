@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Base class for implementing a parallel data source that has access to context information" />
+      <item value="the minimum time to sleep. If less than * or equal to zero, do not sleep at all." />
+      <item value="Performs a {@link Thread#sleep(long, int) Thread.sleep} using * this time unit. * This is a convenience method that converts time arguments into the * form required by the {@code Thread.sleep} method." />
+      <item value="Returns a pseudorandom, uniformly distributed int value between 0 * (inclusive) and the specified value (exclusive), drawn from this * random number generator's sequence." />
+      <item value="The object `Random` offers a default implementation * of scala.util.Random and random-related convenience methods." />
+      <item value="金额" />
+      <item value="Creates a new DataStream that contains the strings received infinitely * from socket. Received strings are decoded by the system's default * character set. The maximum retry interval is specified in seconds, in case * of temporary service outage reconnection is initiated every second." />
       <item value="Sets the parallelism for operations executed through this environment. * Setting a parallelism of x here will cause all operators (such as join, map, reduce) to run * with x parallel instances. This value can be overridden by specific operations using * [[DataStream#setParallelism(int)]]." />
       <item value="Rich variant of the {@link MapFunction}. As a {@link RichFunction}, it gives access to the" />
       <item value="gracefully" />
@@ -44,18 +51,11 @@
       <item value="Creates a new [[StructType]] by adding a new nullable field with no metadata." />
       <item value="A row implementation that uses an array of objects as the underlying storage. Note that, while * the array is not copied, and thus could technically be mutated after creation, this is not * allowed." />
       <item value="This method can be used to construct a [[Row]] from a `Seq` of values." />
-      <item value="No implicit arguments of type: Encoder[Row]" />
-      <item value="分隔符" />
-      <item value="specific " />
-      <item value="This is declared with parentheses to prevent the Scala compiler from treating // `ds.toDF(&quot;1&quot;)` as invoking this toDF and then apply on the returned DataFrame." />
-      <item value="Converts this strongly typed collection of data to generic Dataframe. In contrast to the * strongly typed objects that Dataset operations work on, a Dataframe returns generic [[Row]] * objects that allow fields to be accessed by ordinal or name." />
-      <item value="Returns the value at position i of array type as a Scala Seq." />
-      <item value="Checks whether the value at position i is null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="494" />
-        <entry key="ENGLISH" value="495" />
+        <entry key="CHINESE" value="501" />
+        <entry key="ENGLISH" value="502" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
