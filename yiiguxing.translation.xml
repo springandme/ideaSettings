@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the first parameter is 1, the second is 2, ..." />
       <item value="Properties with the producer configuration." />
       <item value="User defined key-less serialization schema." />
       <item value="The SplitStream represents an operator that has been split using an * [[org.apache.flink.streaming.api.collector.selector.OutputSelector]]. * Named outputs can be selected using the [[SplitStream#select()]] function. * To apply a transformation on the whole output simply call * the appropriate method on this stream." />
@@ -50,12 +51,11 @@
       <item value="Creates a [[GroupedDataSet]] which provides operations on groups of elements. Elements are * grouped based on the given tuple fields. * * This will not create a new DataSet, it will just attach the tuple field positions which will be * used for grouping when executing a grouped operation. * * This only works on Tuple DataSets. */" />
       <item value="Creates a new [[DataSet]] by merging the elements of this DataSet using an associative reduce * function." />
       <item value="Creates a new DataSet by applying the given function to every element and flattening * the results." />
-      <item value="遍历" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="514" />
-        <entry key="ENGLISH" value="515" />
+        <entry key="CHINESE" value="515" />
+        <entry key="ENGLISH" value="516" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
