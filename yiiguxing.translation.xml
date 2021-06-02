@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This is a shortcut for either `.window(TumblingEventTimeWindows.of(size))` or * `.window(TumblingProcessingTimeWindows.of(size))` depending on the time characteristic * set using * [[StreamExecutionEnvironment.setStreamTimeCharacteristic()]]" />
+      <item value="Windows this [[KeyedStream]] into tumbling time windows." />
+      <item value="sensor" />
+      <item value="tumble" />
+      <item value="tumbling" />
       <item value="the first parameter is 1, the second is 2, ..." />
       <item value="Properties with the producer configuration." />
       <item value="User defined key-less serialization schema." />
@@ -46,16 +51,11 @@
       <item value="Returns a distinct set of this DataSet." />
       <item value="Shortcuts for Aggregation factories." />
       <item value="Creates a [[GroupedDataSet]] which provides operations on groups of elements. Elements are * grouped based on the value returned by the given function. * * This will not create a new DataSet, it will just attach the key function which will be used * for grouping when executing a grouped operation." />
-      <item value="Syntactic sugar for [[aggregate]] with `SUM`" />
-      <item value="Creates a [[GroupedDataSet]] which provides operations on groups of elements. Elements are * grouped based on the given fields. * * This will not create a new DataSet, it will just attach the field names which will be * used for grouping when executing a grouped operation." />
-      <item value="Creates a [[GroupedDataSet]] which provides operations on groups of elements. Elements are * grouped based on the given tuple fields. * * This will not create a new DataSet, it will just attach the tuple field positions which will be * used for grouping when executing a grouped operation. * * This only works on Tuple DataSets. */" />
-      <item value="Creates a new [[DataSet]] by merging the elements of this DataSet using an associative reduce * function." />
-      <item value="Creates a new DataSet by applying the given function to every element and flattening * the results." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="515" />
-        <entry key="ENGLISH" value="516" />
+        <entry key="CHINESE" value="519" />
+        <entry key="ENGLISH" value="520" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
