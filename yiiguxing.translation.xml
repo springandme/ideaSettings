@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates a new target file regardless of any existing files or directories. * Existing files and directories will be deleted (recursively) automatically before * creating the new file. */" />
+      <item value="Creates the target file only if no file exists at that path already. * Does not overwrite existing files and directories. */" />
+      <item value="Sets the parallelism of this operation. This must be greater than 1." />
+      <item value="输出" />
       <item value="Indicates an order without a direction. This constant is not used to indicate * any existing order, but for example to indicate that an order of any direction * is desirable." />
       <item value="Indicates no order." />
       <item value="Partitions a DataSet using the specified key selector function. * * '''Important:'''This operation shuffles the whole DataSet over the network and can take * significant amount of time." />
@@ -47,15 +51,11 @@
       <item value="在线" />
       <item value="Returns a [[DataFrameNaFunctions]] for working with missing data." />
       <item value="A container for a [[Dataset]], used for implicit conversions in Scala." />
-      <item value="Get the broadcasted value" />
-      <item value="&lt;code&gt;JUnitCore&lt;/code&gt; is a facade for running tests. It supports running JUnit 4 tests, * JUnit 3.8.x tests, and mixtures. To run tests from the command line, run * &lt;code&gt;java org.junit.runner.JUnitCore TestClass1 TestClass2 ...&lt;/code&gt;. * For one-shot test runs, use the static method {@link #runClasses(Class[])}. * If you want to add special listeners, * create an instance of {@link org.junit.runner.JUnitCore} first and use it to run the tests." />
-      <item value="map" />
-      <item value="mapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="485" />
-        <entry key="ENGLISH" value="485" />
+        <entry key="CHINESE" value="488" />
+        <entry key="ENGLISH" value="489" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
