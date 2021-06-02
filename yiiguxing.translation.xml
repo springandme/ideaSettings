@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="he de-/serializer used to convert between Kafka's byte messages and Flink's objects." />
+      <item value="Creates a new Kafka streaming source consumer for Kafka 0.10.x" />
+      <item value="Creates a new Kafka streaming source consumer for Kafka 0.10.x." />
       <item value="Base class for implementing a parallel data source that has access to context information" />
       <item value="the minimum time to sleep. If less than * or equal to zero, do not sleep at all." />
       <item value="Performs a {@link Thread#sleep(long, int) Thread.sleep} using * this time unit. * This is a convenience method that converts time arguments into the * form required by the {@code Thread.sleep} method." />
@@ -48,14 +51,11 @@
       <item value="Creates a new data set that contains a sequence of numbers. The data set will be created in * parallel, so there is no guarantee about the oder of the elements." />
       <item value="Note that this operation will result in a non-parallel data source, i.e. a data source with * a parallelism of one." />
       <item value="Creates a new data set that contains the given elements." />
-      <item value="Creates a new [[StructType]] by adding a new nullable field with no metadata." />
-      <item value="A row implementation that uses an array of objects as the underlying storage. Note that, while * the array is not copied, and thus could technically be mutated after creation, this is not * allowed." />
-      <item value="This method can be used to construct a [[Row]] from a `Seq` of values." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="501" />
-        <entry key="ENGLISH" value="502" />
+        <entry key="CHINESE" value="504" />
+        <entry key="ENGLISH" value="505" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
