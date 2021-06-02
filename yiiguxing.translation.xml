@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The SplitStream represents an operator that has been split using an * [[org.apache.flink.streaming.api.collector.selector.OutputSelector]]. * Named outputs can be selected using the [[SplitStream#select()]] function. * To apply a transformation on the whole output simply call * the appropriate method on this stream." />
+      <item value="Sets the output names for which the next operator will receive values." />
+      <item value="偶数" />
+      <item value="Creates a new ConnectedStreams by connecting * DataStream outputs of different type with each other. The * DataStreams connected using this operators can be used with CoFunctions." />
+      <item value="Cancels the source. Most sources will have a while loop inside the * {@link #run(SourceContext)} method. The implementation needs to ensure that the * source will break out of that loop after this method is called." />
+      <item value="&lt;p&gt;Sources that implement {@link org.apache.flink.streaming.api.checkpoint.CheckpointedFunction} * must lock on the checkpoint lock (using a synchronized block) before updating internal * state and emitting elements, to make both an atomic operation:" />
+      <item value="Starts the source. Implementations can use the {@link SourceContext} emit * elements." />
       <item value="Groups the elements of a DataStream by the given key positions (for tuple/array types) to * be used with grouped operators like grouped reduce or grouped aggregations." />
       <item value="he de-/serializer used to convert between Kafka's byte messages and Flink's objects." />
       <item value="Creates a new Kafka streaming source consumer for Kafka 0.10.x" />
@@ -44,18 +51,11 @@
       <item value="遍历" />
       <item value="The fields in the file that should be read. Per default all fields * are read." />
       <item value="The fields of the POJO which are mapped to CSV fields." />
-      <item value="Whether the parser should silently ignore malformed lines." />
-      <item value="Lines that start with the given String are ignored, disabled by default." />
-      <item value="The character to use for quoted String parsing, disabled by default." />
-      <item value="The string that separates lines, defaults to newline." />
-      <item value="ParserError NUMERIC_VALUE_FORMAT_ERROR" />
-      <item value="Creates a new data set that contains a sequence of numbers. The data set will be created in * parallel, so there is no guarantee about the oder of the elements." />
-      <item value="Note that this operation will result in a non-parallel data source, i.e. a data source with * a parallelism of one." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="505" />
-        <entry key="ENGLISH" value="506" />
+        <entry key="CHINESE" value="512" />
+        <entry key="ENGLISH" value="513" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
