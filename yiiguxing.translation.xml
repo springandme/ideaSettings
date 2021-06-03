@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="intent" />
       <item value="Returns a pseudorandom, uniformly distributed int value between 0 * (inclusive) and the specified value (exclusive), drawn from this * random number generator's sequence." />
       <item value="随机" />
       <item value="Sets the field delimiter, &quot;,&quot; by default." />
@@ -50,11 +51,10 @@
       <item value="Base class for implementing a parallel data source that has access to context information" />
       <item value="the minimum time to sleep. If less than * or equal to zero, do not sleep at all." />
       <item value="Performs a {@link Thread#sleep(long, int) Thread.sleep} using * this time unit. * This is a convenience method that converts time arguments into the * form required by the {@code Thread.sleep} method." />
-      <item value="The object `Random` offers a default implementation * of scala.util.Random and random-related convenience methods." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="540" />
+        <entry key="CHINESE" value="541" />
         <entry key="ENGLISH" value="541" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
