@@ -4,10 +4,12 @@
       <mapping pattern="studenttab10k" type="PLAIN_TEXT" />
       <mapping pattern="myLogger" type="PLAIN_TEXT" />
       <mapping pattern="test01" type="PLAIN_TEXT" />
+      <mapping pattern="_metadata" type="PLAIN_TEXT" />
       <mapping pattern="part-00001" type="PLAIN_TEXT" />
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
       <mapping pattern="_partitioner" type="PLAIN_TEXT" />
       <mapping pattern="avg" type="PLAIN_TEXT" />
+      <mapping pattern="6c2710b1-fce7-49b0-82ac-7bd873d2083d" type="PLAIN_TEXT" />
       <mapping pattern="rdd_parctice" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
