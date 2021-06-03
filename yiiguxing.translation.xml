@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="emit" />
+      <item value="Emit" />
+      <item value="Emits a record." />
+      <item value="which &quot;pulls&quot; data in." />
+      <item value="Collects a record and forwards it. The collector is the &quot;push&quot; counterpart of the" />
       <item value="This is a shortcut for either `.window(SlidingEventTimeWindows.of(size))` or * `.window(SlidingProcessingTimeWindows.of(size))` depending on the time characteristic * set using" />
       <item value="Windows this [[KeyedStream]] into sliding time windows." />
       <item value="slide" />
@@ -46,16 +51,11 @@
       <item value="Indicates an order without a direction. This constant is not used to indicate * any existing order, but for example to indicate that an order of any direction * is desirable." />
       <item value="Indicates no order." />
       <item value="Partitions a DataSet using the specified key selector function. * * '''Important:'''This operation shuffles the whole DataSet over the network and can take * significant amount of time." />
-      <item value="wrap" />
-      <item value="Enforces a re-balancing of the DataSet, i.e., the DataSet is evenly distributed over all * parallel instances of the * following task. This can help to improve performance in case of heavy data skew and compute * intensive operations. * * '''Important:''' This operation shuffles the whole DataSet over the network and can take * significant amount of time. * * @return The rebalanced DataSet." />
-      <item value="An enumeration of hints, optionally usable to tell the system how exactly execute the join." />
-      <item value="Special [[join]] operation for explicitly telling the system what join strategy to use. If * null is given as the join strategy, then the optimizer will pick the strategy." />
-      <item value="If the input is a composite type (Tuple or Pojo type), distinct is performed on all fields * and each field must be a key type.&lt;/p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="523" />
-        <entry key="ENGLISH" value="524" />
+        <entry key="CHINESE" value="527" />
+        <entry key="ENGLISH" value="527" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
