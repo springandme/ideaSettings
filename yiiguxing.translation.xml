@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The write mode to specify whether existing files are overwritten or not." />
+      <item value="numFiles The number of files to write to" />
+      <item value="field Delim The field delimiter" />
+      <item value="fieldDelim The field delimiter" />
+      <item value="path The output path to write the Table to." />
+      <item value="Registers the given [[DataStream]] as table in the * [[TableEnvironment]]'s catalog. * Registered tables can be referenced in SQL queries. * * The field names of the [[Table]] are automatically derived * from the type of the [[DataStream]]." />
       <item value="Time interval between state checkpoints in milliseconds." />
       <item value="Cancels the source. Most sources will have a while loop inside the * {@link #run(SourceContext)} method. The implementation needs to ensure that the * source will break out of that loop after this method is called." />
       <item value="A [[scala.collection.immutable.Range]] from `this` up to but * not including `end`." />
@@ -45,17 +51,11 @@
       <item value="Creates a new DataStream that contains the strings received infinitely * from socket. Received strings are decoded by the system's default * character set. The maximum retry interval is specified in seconds, in case * of temporary service outage reconnection is initiated every second." />
       <item value="Sets the parallelism for operations executed through this environment. * Setting a parallelism of x here will cause all operators (such as join, map, reduce) to run * with x parallel instances. This value can be overridden by specific operations using * [[DataStream#setParallelism(int)]]." />
       <item value="Rich variant of the {@link MapFunction}. As a {@link RichFunction}, it gives access to the" />
-      <item value="gracefully" />
-      <item value="Creates a local execution environment. The local execution environment will run the * program in a multi-threaded fashion in the same JVM as the environment was created in. * * This method sets the environment's default parallelism to given parameter, which * defaults to the value set via [[setDefaultLocalParallelism(Int)]]." />
-      <item value="execute" />
-      <item value="execution" />
-      <item value="执行" />
-      <item value="Triggers the program execution. The environment will execute all parts of the program that have * resulted in a &quot;sink&quot; operation. Sink operations are for example printing results * [[DataSet.print]], writing results (e.g. [[DataSet.writeAsText]], [[DataSet.write]], or other * generic data sinks created with [[DataSet.output]]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="532" />
-        <entry key="ENGLISH" value="532" />
+        <entry key="CHINESE" value="535" />
+        <entry key="ENGLISH" value="536" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
