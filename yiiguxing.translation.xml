@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="定时" />
+      <item value="slide" />
+      <item value="mutable" />
+      <item value="A list of host/port pairs to use for establishing the initial connection to the Kafka cluster. The client will make use of all servers irrespective of which servers are specified here for bootstrapping&amp;mdash;this list only impacts the initial hosts used to discover the full set of servers. This list should be in the form &quot; + &quot;&lt;code&gt;host1:port1,host2:port2,...&lt;/code&gt;. Since these servers are just used for the initial connection to &quot; + &quot;discover the full cluster membership (which may change dynamically), this list need not contain the full set of &quot; + &quot;servers (you may want more than one, though, in case a server is down).&quot;;" />
+      <item value="practice" />
+      <item value="练习" />
+      <item value="Additional context about the input record." />
+      <item value="Writes the given value to the sink. This function is called for every record. * * &lt;p&gt;You have to override this method when implementing a {@code SinkFunction}, this is a * {@code default} method for backward compatibility with the old-style method only." />
+      <item value="Interface for implementing user defined sink functionality." />
       <item value="intent" />
       <item value="Returns a pseudorandom, uniformly distributed int value between 0 * (inclusive) and the specified value (exclusive), drawn from this * random number generator's sequence." />
       <item value="随机" />
@@ -29,7 +38,6 @@
       <item value="Collects a record and forwards it. The collector is the &quot;push&quot; counterpart of the" />
       <item value="This is a shortcut for either `.window(SlidingEventTimeWindows.of(size))` or * `.window(SlidingProcessingTimeWindows.of(size))` depending on the time characteristic * set using" />
       <item value="Windows this [[KeyedStream]] into sliding time windows." />
-      <item value="slide" />
       <item value="Windows this [[KeyedStream]] into tumbling time windows." />
       <item value="This is a shortcut for either `.window(TumblingEventTimeWindows.of(size))` or * `.window(TumblingProcessingTimeWindows.of(size))` depending on the time characteristic * set using * [[StreamExecutionEnvironment.setStreamTimeCharacteristic()]]" />
       <item value="sensor" />
@@ -43,19 +51,11 @@
       <item value="偶数" />
       <item value="Creates a new ConnectedStreams by connecting * DataStream outputs of different type with each other. The * DataStreams connected using this operators can be used with CoFunctions." />
       <item value="&lt;p&gt;Sources that implement {@link org.apache.flink.streaming.api.checkpoint.CheckpointedFunction} * must lock on the checkpoint lock (using a synchronized block) before updating internal * state and emitting elements, to make both an atomic operation:" />
-      <item value="Starts the source. Implementations can use the {@link SourceContext} emit * elements." />
-      <item value="Groups the elements of a DataStream by the given key positions (for tuple/array types) to * be used with grouped operators like grouped reduce or grouped aggregations." />
-      <item value="he de-/serializer used to convert between Kafka's byte messages and Flink's objects." />
-      <item value="Creates a new Kafka streaming source consumer for Kafka 0.10.x" />
-      <item value="Creates a new Kafka streaming source consumer for Kafka 0.10.x." />
-      <item value="Base class for implementing a parallel data source that has access to context information" />
-      <item value="the minimum time to sleep. If less than * or equal to zero, do not sleep at all." />
-      <item value="Performs a {@link Thread#sleep(long, int) Thread.sleep} using * this time unit. * This is a convenience method that converts time arguments into the * form required by the {@code Thread.sleep} method." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="541" />
-        <entry key="ENGLISH" value="541" />
+        <entry key="CHINESE" value="548" />
+        <entry key="ENGLISH" value="549" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
