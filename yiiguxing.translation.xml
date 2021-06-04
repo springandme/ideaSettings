@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// 构建Message Message msg = new Message(); msg.setMessage(json); msg.setCount(1); msg.setTimeStamp(System.currentTimeMillis()); String msgJSON = JSON.toJSONString(msg); // 发送Message到Kafka kafkaTemplate.send(&quot;pyg&quot;, msgJSON); map.put(&quot;success&quot;, &quot;true&quot;);" />
+      <item value="Compute the partition for the given record." />
+      <item value="Atomically increments by one the current value." />
+      <item value="An {@code int} value that may be updated atomically. See the * {@link java.util.concurrent.atomic} package specification for * description of the properties of atomic variables. An * {@code AtomicInteger} is used in applications such as atomically * incremented counters, and cannot be used as a replacement for an * {@link java.lang.Integer}. However, this class does extend * {@code Number} to allow uniform access by tools and utilities that * deal with numerically-based classes." />
       <item value="broker" />
       <item value="定时" />
       <item value="slide" />
@@ -47,15 +51,11 @@
       <item value="the first parameter is 1, the second is 2, ..." />
       <item value="Properties with the producer configuration." />
       <item value="User defined key-less serialization schema." />
-      <item value="The SplitStream represents an operator that has been split using an * [[org.apache.flink.streaming.api.collector.selector.OutputSelector]]. * Named outputs can be selected using the [[SplitStream#select()]] function. * To apply a transformation on the whole output simply call * the appropriate method on this stream." />
-      <item value="Sets the output names for which the next operator will receive values." />
-      <item value="偶数" />
-      <item value="Creates a new ConnectedStreams by connecting * DataStream outputs of different type with each other. The * DataStreams connected using this operators can be used with CoFunctions." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="549" />
-        <entry key="ENGLISH" value="549" />
+        <entry key="CHINESE" value="551" />
+        <entry key="ENGLISH" value="553" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
