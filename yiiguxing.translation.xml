@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="broker" />
       <item value="定时" />
       <item value="slide" />
       <item value="mutable" />
@@ -50,11 +51,10 @@
       <item value="Sets the output names for which the next operator will receive values." />
       <item value="偶数" />
       <item value="Creates a new ConnectedStreams by connecting * DataStream outputs of different type with each other. The * DataStreams connected using this operators can be used with CoFunctions." />
-      <item value="&lt;p&gt;Sources that implement {@link org.apache.flink.streaming.api.checkpoint.CheckpointedFunction} * must lock on the checkpoint lock (using a synchronized block) before updating internal * state and emitting elements, to make both an atomic operation:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="548" />
+        <entry key="CHINESE" value="549" />
         <entry key="ENGLISH" value="549" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
