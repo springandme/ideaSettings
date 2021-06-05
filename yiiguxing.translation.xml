@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FastDateFormat is a fast and thread-safe version of" />
       <item value="处理" />
       <item value="qualifier" />
       <item value="Use {@link Connection#getAdmin()} to obtain an instance of {@link Admin} instead of constructing * an HBaseAdmin directly." />
@@ -50,12 +51,11 @@
       <item value="Emit" />
       <item value="Emits a record." />
       <item value="which &quot;pulls&quot; data in." />
-      <item value="Collects a record and forwards it. The collector is the &quot;push&quot; counterpart of the" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="559" />
-        <entry key="ENGLISH" value="560" />
+        <entry key="CHINESE" value="560" />
+        <entry key="ENGLISH" value="561" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
