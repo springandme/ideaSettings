@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="periodic" />
+      <item value="Periodic" />
+      <item value="assign" />
       <item value="// 构建Message Message msg = new Message(); msg.setMessage(json); msg.setCount(1); msg.setTimeStamp(System.currentTimeMillis()); String msgJSON = JSON.toJSONString(msg); // 发送Message到Kafka kafkaTemplate.send(&quot;pyg&quot;, msgJSON); map.put(&quot;success&quot;, &quot;true&quot;);" />
       <item value="Compute the partition for the given record." />
       <item value="Atomically increments by one the current value." />
@@ -48,13 +51,10 @@
       <item value="sensor" />
       <item value="tumble" />
       <item value="tumbling" />
-      <item value="the first parameter is 1, the second is 2, ..." />
-      <item value="Properties with the producer configuration." />
-      <item value="User defined key-less serialization schema." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="551" />
+        <entry key="CHINESE" value="553" />
         <entry key="ENGLISH" value="553" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
