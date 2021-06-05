@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The previous internal timestamp of the element, * or a negative value, if no timestamp has been assigned yet." />
+      <item value="The element that the timestamp will be assigned to." />
+      <item value="Assigns a timestamp to an element, in milliseconds since the Epoch. * * &lt;p&gt;The method is passed the previously assigned timestamp of the element. * That previous timestamp may have been assigned from a previous assigner, * by ingestion time. If the element did not carry a timestamp before, this value is * {@code Long.MIN_VALUE}." />
       <item value="periodic" />
       <item value="Periodic" />
       <item value="assign" />
@@ -48,14 +51,11 @@
       <item value="Windows this [[KeyedStream]] into sliding time windows." />
       <item value="Windows this [[KeyedStream]] into tumbling time windows." />
       <item value="This is a shortcut for either `.window(TumblingEventTimeWindows.of(size))` or * `.window(TumblingProcessingTimeWindows.of(size))` depending on the time characteristic * set using * [[StreamExecutionEnvironment.setStreamTimeCharacteristic()]]" />
-      <item value="sensor" />
-      <item value="tumble" />
-      <item value="tumbling" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="553" />
-        <entry key="ENGLISH" value="553" />
+        <entry key="CHINESE" value="555" />
+        <entry key="ENGLISH" value="556" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
