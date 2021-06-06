@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tracking" />
       <item value="分布式" />
       <item value="supplied" />
       <item value="The operator name Window(TumblingEventTimeWindows(3000), EventTimeTrigger, ScalaReduceFunction, PassThroughWindowFunction) exceeded the 80 characters length limit and was truncated." />
@@ -50,11 +51,10 @@
       <item value="Cancels the source. Most sources will have a while loop inside the * {@link #run(SourceContext)} method. The implementation needs to ensure that the * source will break out of that loop after this method is called." />
       <item value="A [[scala.collection.immutable.Range]] from `this` up to but * not including `end`." />
       <item value="coordinator" />
-      <item value="Coordinator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="567" />
+        <entry key="CHINESE" value="568" />
         <entry key="ENGLISH" value="568" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
