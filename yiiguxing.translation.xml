@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="supplied" />
+      <item value="The operator name Window(TumblingEventTimeWindows(3000), EventTimeTrigger, ScalaReduceFunction, PassThroughWindowFunction) exceeded the 80 characters length limit and was truncated." />
+      <item value="was supplied but isn't a known config." />
       <item value="重构" />
       <item value="Sorry, passwords do not match" />
       <item value="Interrupted" />
@@ -48,14 +51,11 @@
       <item value="coordinator" />
       <item value="Coordinator" />
       <item value="barrier" />
-      <item value="Returns true, if state was restored from the snapshot of a previous execution. This returns always false for * stateless tasks." />
-      <item value="snapshot State" />
-      <item value="// If it hasn't been used before, it will be null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="563" />
-        <entry key="ENGLISH" value="564" />
+        <entry key="CHINESE" value="566" />
+        <entry key="ENGLISH" value="567" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
