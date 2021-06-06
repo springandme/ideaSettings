@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="延迟" />
+      <item value="Externalized" />
       <item value="tracking" />
       <item value="分布式" />
       <item value="supplied" />
@@ -49,13 +51,11 @@
       <item value="Registers the given [[DataStream]] as table in the * [[TableEnvironment]]'s catalog. * Registered tables can be referenced in SQL queries. * * The field names of the [[Table]] are automatically derived * from the type of the [[DataStream]]." />
       <item value="Time interval between state checkpoints in milliseconds." />
       <item value="Cancels the source. Most sources will have a while loop inside the * {@link #run(SourceContext)} method. The implementation needs to ensure that the * source will break out of that loop after this method is called." />
-      <item value="A [[scala.collection.immutable.Range]] from `this` up to but * not including `end`." />
-      <item value="coordinator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="568" />
-        <entry key="ENGLISH" value="568" />
+        <entry key="CHINESE" value="569" />
+        <entry key="ENGLISH" value="570" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
