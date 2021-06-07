@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tries" />
+      <item value="ERROR - Failed to send requests for topics canal with correlation ids in [0,8]" />
       <item value="retries" />
       <item value="I increased TM memory and this issue disappeared. Seems like off heap OOM." />
       <item value="As mentioned in the comments, the asker resolved this as follows:" />
@@ -49,13 +51,11 @@
       <item value="Sets the line delimiter, &quot;\n&quot; by default." />
       <item value="Encountered" />
       <item value="The write mode to specify whether existing files are overwritten or not." />
-      <item value="numFiles The number of files to write to" />
-      <item value="field Delim The field delimiter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="570" />
-        <entry key="ENGLISH" value="571" />
+        <entry key="CHINESE" value="572" />
+        <entry key="ENGLISH" value="573" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
