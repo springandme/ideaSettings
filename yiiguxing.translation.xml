@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" Hostname the broker will advertise to producers and consumers. If not set, it uses the   # value for &quot;host.name&quot; if configured.  Otherwise, it will use the value returned from   # java.net.InetAddress.getCanonicalHostName()" />
+      <item value="ERROR - Failed to collate messages by topic, partition due to: Failed to fetch topic metadata for topic: canal" />
       <item value="tries" />
       <item value="ERROR - Failed to send requests for topics canal with correlation ids in [0,8]" />
       <item value="retries" />
@@ -49,13 +51,11 @@
       <item value="随机" />
       <item value="Sets the field delimiter, &quot;,&quot; by default." />
       <item value="Sets the line delimiter, &quot;\n&quot; by default." />
-      <item value="Encountered" />
-      <item value="The write mode to specify whether existing files are overwritten or not." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="572" />
-        <entry key="ENGLISH" value="573" />
+        <entry key="CHINESE" value="575" />
+        <entry key="ENGLISH" value="575" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
