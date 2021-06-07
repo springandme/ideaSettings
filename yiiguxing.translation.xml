@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a pattern based date/time formatter" />
+      <item value="compatible" />
+      <item value="compatible * pattern" />
+      <item value="&lt;p&gt;Gets a formatter instance using the specified pattern in the * default locale.&lt;/p&gt;" />
+      <item value="especially" />
+      <item value="replacement" />
+      <item value="&lt;p&gt;This class can be used as a direct replacement to * {@code SimpleDateFormat} in most formatting and parsing situations." />
+      <item value="direct" />
       <item value="国家" />
       <item value="amount" />
       <item value=" Hostname the broker will advertise to producers and consumers. If not set, it uses the   # value for &quot;host.name&quot; if configured.  Otherwise, it will use the value returned from   # java.net.InetAddress.getCanonicalHostName()" />
@@ -43,19 +51,11 @@
       <item value="slide" />
       <item value="mutable" />
       <item value="A list of host/port pairs to use for establishing the initial connection to the Kafka cluster. The client will make use of all servers irrespective of which servers are specified here for bootstrapping&amp;mdash;this list only impacts the initial hosts used to discover the full set of servers. This list should be in the form &quot; + &quot;&lt;code&gt;host1:port1,host2:port2,...&lt;/code&gt;. Since these servers are just used for the initial connection to &quot; + &quot;discover the full cluster membership (which may change dynamically), this list need not contain the full set of &quot; + &quot;servers (you may want more than one, though, in case a server is down).&quot;;" />
-      <item value="practice" />
-      <item value="练习" />
-      <item value="Additional context about the input record." />
-      <item value="Writes the given value to the sink. This function is called for every record. * * &lt;p&gt;You have to override this method when implementing a {@code SinkFunction}, this is a * {@code default} method for backward compatibility with the old-style method only." />
-      <item value="Interface for implementing user defined sink functionality." />
-      <item value="intent" />
-      <item value="Returns a pseudorandom, uniformly distributed int value between 0 * (inclusive) and the specified value (exclusive), drawn from this * random number generator's sequence." />
-      <item value="随机" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="577" />
-        <entry key="ENGLISH" value="578" />
+        <entry key="CHINESE" value="590" />
+        <entry key="ENGLISH" value="591" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
