@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retries" />
+      <item value="I increased TM memory and this issue disappeared. Seems like off heap OOM." />
+      <item value="As mentioned in the comments, the asker resolved this as follows:" />
+      <item value="Though probably not directly related it is of course also wise to avoid using mixed versions." />
+      <item value="I have a streaming job failed after running for 1day and 10 hours. One of the subtasks suddenly failed and crashed the whole job. Since I set up a restart_strategy, the job automatically restarted but crashed again with the same error. I found the Task Manager's log that the failed task was on, but it is not very helpful for me to debug this. Can anyone suggest a better way? Thank you." />
       <item value="延迟" />
       <item value="Externalized" />
       <item value="tracking" />
@@ -46,16 +51,11 @@
       <item value="The write mode to specify whether existing files are overwritten or not." />
       <item value="numFiles The number of files to write to" />
       <item value="field Delim The field delimiter" />
-      <item value="fieldDelim The field delimiter" />
-      <item value="path The output path to write the Table to." />
-      <item value="Registers the given [[DataStream]] as table in the * [[TableEnvironment]]'s catalog. * Registered tables can be referenced in SQL queries. * * The field names of the [[Table]] are automatically derived * from the type of the [[DataStream]]." />
-      <item value="Time interval between state checkpoints in milliseconds." />
-      <item value="Cancels the source. Most sources will have a while loop inside the * {@link #run(SourceContext)} method. The implementation needs to ensure that the * source will break out of that loop after this method is called." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="569" />
-        <entry key="ENGLISH" value="570" />
+        <entry key="CHINESE" value="570" />
+        <entry key="ENGLISH" value="571" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
