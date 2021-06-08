@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="观看记录" />
       <item value="a pattern based date/time formatter" />
       <item value="compatible" />
       <item value="compatible * pattern" />
@@ -50,12 +51,11 @@
       <item value="定时" />
       <item value="slide" />
       <item value="mutable" />
-      <item value="A list of host/port pairs to use for establishing the initial connection to the Kafka cluster. The client will make use of all servers irrespective of which servers are specified here for bootstrapping&amp;mdash;this list only impacts the initial hosts used to discover the full set of servers. This list should be in the form &quot; + &quot;&lt;code&gt;host1:port1,host2:port2,...&lt;/code&gt;. Since these servers are just used for the initial connection to &quot; + &quot;discover the full cluster membership (which may change dynamically), this list need not contain the full set of &quot; + &quot;servers (you may want more than one, though, in case a server is down).&quot;;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="590" />
-        <entry key="ENGLISH" value="591" />
+        <entry key="CHINESE" value="591" />
+        <entry key="ENGLISH" value="592" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
