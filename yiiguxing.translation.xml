@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the value as a plain Java boxed value, that is, a {@code String}," />
+      <item value="Returns the value as a plain Java boxed value, that is, a {@code String}, * {@code Number}, {@code Boolean}, {@code Map&lt;String,Object&gt;}, * {@code List&lt;Object&gt;}, or {@code null}, matching the {@link #valueType()} * of this {@code ConfigValue}. If the value is a {@link ConfigObject} or" />
+      <item value="The origin of the value (file, line number, etc.), for debugging and * error messages." />
+      <item value="Test class should have exactly one public zero-argument constructor" />
+      <item value="宣传" />
+      <item value="Action" />
+      <item value="宣传语" />
       <item value="观看记录" />
       <item value="a pattern based date/time formatter" />
       <item value="compatible" />
@@ -44,18 +51,11 @@
       <item value="Periodic" />
       <item value="assign" />
       <item value="// 构建Message Message msg = new Message(); msg.setMessage(json); msg.setCount(1); msg.setTimeStamp(System.currentTimeMillis()); String msgJSON = JSON.toJSONString(msg); // 发送Message到Kafka kafkaTemplate.send(&quot;pyg&quot;, msgJSON); map.put(&quot;success&quot;, &quot;true&quot;);" />
-      <item value="Compute the partition for the given record." />
-      <item value="Atomically increments by one the current value." />
-      <item value="An {@code int} value that may be updated atomically. See the * {@link java.util.concurrent.atomic} package specification for * description of the properties of atomic variables. An * {@code AtomicInteger} is used in applications such as atomically * incremented counters, and cannot be used as a replacement for an * {@link java.lang.Integer}. However, this class does extend * {@code Number} to allow uniform access by tools and utilities that * deal with numerically-based classes." />
-      <item value="broker" />
-      <item value="定时" />
-      <item value="slide" />
-      <item value="mutable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="591" />
-        <entry key="ENGLISH" value="592" />
+        <entry key="CHINESE" value="596" />
+        <entry key="ENGLISH" value="597" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
