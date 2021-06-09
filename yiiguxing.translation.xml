@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="打分" />
+      <item value="分数" />
+      <item value="appraise" />
+      <item value="evaluate" />
+      <item value="assess" />
+      <item value="评价" />
       <item value="Comparing unrelated types: Double and Null" />
       <item value="判断" />
       <item value="salute" />
@@ -45,17 +51,11 @@
       <item value="I have a streaming job failed after running for 1day and 10 hours. One of the subtasks suddenly failed and crashed the whole job. Since I set up a restart_strategy, the job automatically restarted but crashed again with the same error. I found the Task Manager's log that the failed task was on, but it is not very helpful for me to debug this. Can anyone suggest a better way? Thank you." />
       <item value="延迟" />
       <item value="Externalized" />
-      <item value="tracking" />
-      <item value="分布式" />
-      <item value="supplied" />
-      <item value="The operator name Window(TumblingEventTimeWindows(3000), EventTimeTrigger, ScalaReduceFunction, PassThroughWindowFunction) exceeded the 80 characters length limit and was truncated." />
-      <item value="was supplied but isn't a known config." />
-      <item value="重构" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="610" />
-        <entry key="ENGLISH" value="610" />
+        <entry key="CHINESE" value="611" />
+        <entry key="ENGLISH" value="612" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
