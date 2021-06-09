@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vote" />
       <item value="打分" />
       <item value="分数" />
       <item value="appraise" />
@@ -50,11 +51,10 @@
       <item value="Though probably not directly related it is of course also wise to avoid using mixed versions." />
       <item value="I have a streaming job failed after running for 1day and 10 hours. One of the subtasks suddenly failed and crashed the whole job. Since I set up a restart_strategy, the job automatically restarted but crashed again with the same error. I found the Task Manager's log that the failed task was on, but it is not very helpful for me to debug this. Can anyone suggest a better way? Thank you." />
       <item value="延迟" />
-      <item value="Externalized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="611" />
+        <entry key="CHINESE" value="612" />
         <entry key="ENGLISH" value="612" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
