@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Romance" />
+      <item value="Thriller" />
+      <item value="Comedy" />
+      <item value="Foreign" />
+      <item value="Drama" />
       <item value="Returns a string whose value is this string, with any leading and trailing * whitespace removed." />
       <item value="genres" />
       <item value="Loads text files and returns a `DataFrame` whose schema starts with a string column named * &quot;value&quot;, and followed by partitioned columns if there are any. See the documentation on * the other overloaded `text()` method for more details." />
@@ -46,16 +51,11 @@
       <item value="Creates a new DataStream by applying the given function to every element and flattening * the results." />
       <item value="FastDateFormat is a fast and thread-safe version of" />
       <item value="处理" />
-      <item value="qualifier" />
-      <item value="Use {@link Connection#getAdmin()} to obtain an instance of {@link Admin} instead of constructing * an HBaseAdmin directly." />
-      <item value="HBaseAdmin is no longer a client API" />
-      <item value="The previous internal timestamp of the element, * or a negative value, if no timestamp has been assigned yet." />
-      <item value="The element that the timestamp will be assigned to." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="601" />
-        <entry key="ENGLISH" value="602" />
+        <entry key="CHINESE" value="606" />
+        <entry key="ENGLISH" value="607" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
