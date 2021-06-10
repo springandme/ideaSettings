@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="boot" />
       <item value="* This method serializes the specified object into its equivalent representation as a tree of" />
       <item value="duration" />
       <item value="Comparing unrelated types: Long and Null" />
@@ -50,11 +51,10 @@
       <item value="amount" />
       <item value=" Hostname the broker will advertise to producers and consumers. If not set, it uses the   # value for &quot;host.name&quot; if configured.  Otherwise, it will use the value returned from   # java.net.InetAddress.getCanonicalHostName()" />
       <item value="ERROR - Failed to collate messages by topic, partition due to: Failed to fetch topic metadata for topic: canal" />
-      <item value="tries" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="616" />
+        <entry key="CHINESE" value="617" />
         <entry key="ENGLISH" value="617" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
