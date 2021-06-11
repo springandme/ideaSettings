@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="personas" />
+      <item value="profile" />
+      <item value="prfile" />
       <item value="recursive value dataFrame needs type" />
       <item value="Returns the value at position i as a primitive int." />
       <item value="分隔符" />
@@ -48,13 +51,10 @@
       <item value="especially" />
       <item value="replacement" />
       <item value="&lt;p&gt;This class can be used as a direct replacement to * {@code SimpleDateFormat} in most formatting and parsing situations." />
-      <item value="direct" />
-      <item value="国家" />
-      <item value="amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="620" />
+        <entry key="CHINESE" value="621" />
         <entry key="ENGLISH" value="621" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
