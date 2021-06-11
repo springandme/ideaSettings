@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分隔符" />
       <item value="boot" />
       <item value="* This method serializes the specified object into its equivalent representation as a tree of" />
       <item value="duration" />
@@ -30,7 +31,6 @@
       <item value="genres" />
       <item value="Loads text files and returns a `DataFrame` whose schema starts with a string column named * &quot;value&quot;, and followed by partitioned columns if there are any. See the documentation on * the other overloaded `text()` method for more details." />
       <item value="Text data source only produces a single data column named &quot;value&quot;." />
-      <item value="分隔符" />
       <item value="Returns the value as a plain Java boxed value, that is, a {@code String}," />
       <item value="Returns the value as a plain Java boxed value, that is, a {@code String}, * {@code Number}, {@code Boolean}, {@code Map&lt;String,Object&gt;}, * {@code List&lt;Object&gt;}, or {@code null}, matching the {@link #valueType()} * of this {@code ConfigValue}. If the value is a {@link ConfigObject} or" />
       <item value="The origin of the value (file, line number, etc.), for debugging and * error messages." />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="617" />
-        <entry key="ENGLISH" value="617" />
+        <entry key="ENGLISH" value="618" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
