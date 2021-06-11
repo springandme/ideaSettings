@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unpacking necessary files from: file://D:/hadoop_cluster/vagrant_test_cluster1/pkgs/package.box" />
+      <item value="Box file was not detected as metadata. Adding it directly..." />
+      <item value="Attempting to find and install..." />
       <item value="amount" />
       <item value="amout" />
       <item value="personas" />
@@ -48,9 +51,6 @@
       <item value="观看记录" />
       <item value="a pattern based date/time formatter" />
       <item value="compatible" />
-      <item value="compatible * pattern" />
-      <item value="&lt;p&gt;Gets a formatter instance using the specified pattern in the * default locale.&lt;/p&gt;" />
-      <item value="especially" />
     </histories>
     <option name="languageScores">
       <map>
