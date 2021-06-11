@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="amount" />
+      <item value="amout" />
       <item value="personas" />
       <item value="profile" />
       <item value="prfile" />
@@ -49,8 +51,6 @@
       <item value="compatible * pattern" />
       <item value="&lt;p&gt;Gets a formatter instance using the specified pattern in the * default locale.&lt;/p&gt;" />
       <item value="especially" />
-      <item value="replacement" />
-      <item value="&lt;p&gt;This class can be used as a direct replacement to * {@code SimpleDateFormat} in most formatting and parsing situations." />
     </histories>
     <option name="languageScores">
       <map>
