@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expired" />
       <item value="Unpacking necessary files from: file://D:/hadoop_cluster/vagrant_test_cluster1/pkgs/package.box" />
       <item value="Box file was not detected as metadata. Adding it directly..." />
       <item value="Attempting to find and install..." />
@@ -50,7 +51,6 @@
       <item value="宣传语" />
       <item value="观看记录" />
       <item value="a pattern based date/time formatter" />
-      <item value="compatible" />
     </histories>
     <option name="languageScores">
       <map>
