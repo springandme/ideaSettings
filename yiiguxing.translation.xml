@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Get all parameters as a list of pairs" />
+      <item value="Create a SparkConf that loads defaults from system properties and the classpath" />
+      <item value="入口" />
+      <item value="口入" />
+      <item value="Create a SparkConf that loads defaults from system properties and the classpath */" />
       <item value="Create a ImmutableBytesWritable using the byte array as the initial value." />
       <item value="A context object that allows input and output from the task. It is only * supplied to the {@link Mapper} or {@link Reducer}." />
       <item value="&lt;p&gt;&lt;code&gt;WritableComparable&lt;/code&gt;s can be compared to each other, typically * via &lt;code&gt;Comparator&lt;/code&gt;s. Any type which is to be used as a * &lt;code&gt;key&lt;/code&gt; in the Hadoop Map-Reduce framework should implement this * interface.&lt;/p&gt;" />
@@ -46,16 +51,11 @@
       <item value="Drama" />
       <item value="Returns a string whose value is this string, with any leading and trailing * whitespace removed." />
       <item value="genres" />
-      <item value="Loads text files and returns a `DataFrame` whose schema starts with a string column named * &quot;value&quot;, and followed by partitioned columns if there are any. See the documentation on * the other overloaded `text()` method for more details." />
-      <item value="Text data source only produces a single data column named &quot;value&quot;." />
-      <item value="Returns the value as a plain Java boxed value, that is, a {@code String}," />
-      <item value="Returns the value as a plain Java boxed value, that is, a {@code String}, * {@code Number}, {@code Boolean}, {@code Map&lt;String,Object&gt;}, * {@code List&lt;Object&gt;}, or {@code null}, matching the {@link #valueType()} * of this {@code ConfigValue}. If the value is a {@link ConfigObject} or" />
-      <item value="The origin of the value (file, line number, etc.), for debugging and * error messages." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="626" />
-        <entry key="ENGLISH" value="627" />
+        <entry key="CHINESE" value="632" />
+        <entry key="ENGLISH" value="632" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
