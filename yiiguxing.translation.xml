@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Do a dryrun before submitting the job" />
       <item value="Added a key not lexically larger than previous" />
       <item value="Output the RDD to any Hadoop-supported file system, using a new Hadoop API `OutputFormat` * (mapreduce.OutputFormat) object supporting the key and value types K and V in this RDD." />
       <item value="Get all parameters as a list of pairs" />
@@ -50,7 +51,6 @@
       <item value="Thriller" />
       <item value="Comedy" />
       <item value="Foreign" />
-      <item value="Drama" />
     </histories>
     <option name="languageScores">
       <map>
