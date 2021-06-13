@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Added a key not lexically larger than previous" />
       <item value="Output the RDD to any Hadoop-supported file system, using a new Hadoop API `OutputFormat` * (mapreduce.OutputFormat) object supporting the key and value types K and V in this RDD." />
       <item value="Get all parameters as a list of pairs" />
       <item value="Create a SparkConf that loads defaults from system properties and the classpath" />
@@ -50,11 +51,10 @@
       <item value="Comedy" />
       <item value="Foreign" />
       <item value="Drama" />
-      <item value="Returns a string whose value is this string, with any leading and trailing * whitespace removed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="632" />
+        <entry key="CHINESE" value="633" />
         <entry key="ENGLISH" value="633" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
