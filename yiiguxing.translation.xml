@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This release is only for system testing against Spark 2.2." />
       <item value="frequency" />
       <item value="Do a dryrun before submitting the job" />
       <item value="Added a key not lexically larger than previous" />
@@ -50,11 +51,10 @@
       <item value="woman director" />
       <item value="Romance" />
       <item value="Thriller" />
-      <item value="Comedy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="633" />
+        <entry key="CHINESE" value="634" />
         <entry key="ENGLISH" value="634" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
