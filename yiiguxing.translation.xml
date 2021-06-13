@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Extends the base &lt;code&gt;Mapper&lt;/code&gt; class to add the required input key * and value classes." />
       <item value="Returns the value of a given fieldName. * For primitive types if value is null it returns 'zero value' specific for primitive * ie. 0 for Int - use isNullAt to ensure that value is not null" />
       <item value="expired" />
       <item value="Unpacking necessary files from: file://D:/hadoop_cluster/vagrant_test_cluster1/pkgs/package.box" />
@@ -50,12 +51,11 @@
       <item value="宣传" />
       <item value="Action" />
       <item value="宣传语" />
-      <item value="观看记录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="621" />
-        <entry key="ENGLISH" value="622" />
+        <entry key="CHINESE" value="622" />
+        <entry key="ENGLISH" value="623" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
