@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sperator" />
       <item value="GrepConsole plugin: processing took too long, aborting to prevent GUI freezing. Consider changing following settings: 'Match only first N characters on each line' or 'Max processing time for a line' Last expression: [pattern='.*FATAL.*', unlessPattern='null']" />
       <item value="已经存在了" />
       <item value="This release is only for system testing against Spark 2.2." />
@@ -50,17 +51,17 @@
       <item value="判断" />
       <item value="salute" />
       <item value="independent film" />
-      <item value="woman director" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="636" />
+        <entry key="CHINESE" value="637" />
         <entry key="ENGLISH" value="637" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="JAPANESE" value="10" />
         <entry key="SWEDISH" value="1" />
         <entry key="WELSH" value="3" />
