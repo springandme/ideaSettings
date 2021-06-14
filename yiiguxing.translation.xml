@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="profile" />
       <item value="separator" />
       <item value="sperator" />
       <item value="GrepConsole plugin: processing took too long, aborting to prevent GUI freezing. Consider changing following settings: 'Match only first N characters on each line' or 'Max processing time for a line' Last expression: [pattern='.*FATAL.*', unlessPattern='null']" />
@@ -28,7 +29,6 @@
       <item value="amount" />
       <item value="amout" />
       <item value="personas" />
-      <item value="profile" />
       <item value="prfile" />
       <item value="recursive value dataFrame needs type" />
       <item value="Returns the value at position i as a primitive int." />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="637" />
-        <entry key="ENGLISH" value="637" />
+        <entry key="ENGLISH" value="638" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
