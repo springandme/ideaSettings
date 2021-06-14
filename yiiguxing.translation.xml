@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error:(99, 15) reference to write is ambiguous; it is both defined in object ShcUtils and imported subsequently by  import org.json4s.jackson.Serialization.write     val str = write(obj)" />
       <item value="Unexpected custom file format" />
       <item value="profile" />
       <item value="separator" />
@@ -50,7 +51,6 @@
       <item value="assess" />
       <item value="评价" />
       <item value="Comparing unrelated types: Double and Null" />
-      <item value="判断" />
     </histories>
     <option name="languageScores">
       <map>
