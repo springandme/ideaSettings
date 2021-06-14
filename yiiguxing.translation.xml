@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="separator" />
       <item value="sperator" />
       <item value="GrepConsole plugin: processing took too long, aborting to prevent GUI freezing. Consider changing following settings: 'Match only first N characters on each line' or 'Max processing time for a line' Last expression: [pattern='.*FATAL.*', unlessPattern='null']" />
       <item value="已经存在了" />
@@ -50,7 +51,6 @@
       <item value="Comparing unrelated types: Double and Null" />
       <item value="判断" />
       <item value="salute" />
-      <item value="independent film" />
     </histories>
     <option name="languageScores">
       <map>
