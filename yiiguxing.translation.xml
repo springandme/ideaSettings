@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Preemtive Split / Merge (Even max degree only)" />
+      <item value="preemptive" />
+      <item value="Preemptive" />
+      <item value="Preemtive " />
       <item value="O2O" />
       <item value="区分大小写" />
       <item value="大小写" />
@@ -47,10 +51,6 @@
       <item value="Returns the value at position i as a primitive int." />
       <item value="分隔符" />
       <item value="boot" />
-      <item value="* This method serializes the specified object into its equivalent representation as a tree of" />
-      <item value="duration" />
-      <item value="Comparing unrelated types: Long and Null" />
-      <item value="Either" />
     </histories>
     <option name="languageScores">
       <map>
