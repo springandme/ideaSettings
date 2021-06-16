@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The data type representing `Long` values. Please use the singleton `DataTypes.LongType`." />
       <item value="PrimitiveType coder: unsupported data type null" />
       <item value="Error:(127, 19) an expression of type Null is ineligible for implicit conversion       elem.col4 = null" />
       <item value="Task Completion Listener" />
@@ -50,12 +51,11 @@
       <item value="Returns the value of a given fieldName. * For primitive types if value is null it returns 'zero value' specific for primitive * ie. 0 for Int - use isNullAt to ensure that value is not null" />
       <item value="expired" />
       <item value="Unpacking necessary files from: file://D:/hadoop_cluster/vagrant_test_cluster1/pkgs/package.box" />
-      <item value="Box file was not detected as metadata. Adding it directly..." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="647" />
-        <entry key="ENGLISH" value="648" />
+        <entry key="CHINESE" value="648" />
+        <entry key="ENGLISH" value="649" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
