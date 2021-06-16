@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Converts the number of seconds from unix epoch (1970-01-01 00:00:00 UTC) to a string * representing the timestamp of that moment in the current system time zone in the given * format." />
+      <item value="Converts the column into DateType." />
+      <item value="Converts time string in format yyyy-MM-dd HH:mm:ss to Unix timestamp (in seconds), * using the default timezone and the default locale, return null if fail." />
       <item value="periods" />
       <item value="day Pass" />
       <item value="The data type representing `Long` values. Please use the singleton `DataTypes.LongType`." />
@@ -48,14 +51,11 @@
       <item value="Create a ImmutableBytesWritable using the byte array as the initial value." />
       <item value="A context object that allows input and output from the task. It is only * supplied to the {@link Mapper} or {@link Reducer}." />
       <item value="&lt;p&gt;&lt;code&gt;WritableComparable&lt;/code&gt;s can be compared to each other, typically * via &lt;code&gt;Comparator&lt;/code&gt;s. Any type which is to be used as a * &lt;code&gt;key&lt;/code&gt; in the Hadoop Map-Reduce framework should implement this * interface.&lt;/p&gt;" />
-      <item value="Used to perform Put operations for a single row." />
-      <item value="Extends the base &lt;code&gt;Mapper&lt;/code&gt; class to add the required input key * and value classes." />
-      <item value="Returns the value of a given fieldName. * For primitive types if value is null it returns 'zero value' specific for primitive * ie. 0 for Int - use isNullAt to ensure that value is not null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="650" />
-        <entry key="ENGLISH" value="651" />
+        <entry key="CHINESE" value="655" />
+        <entry key="ENGLISH" value="655" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
