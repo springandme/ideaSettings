@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PrimitiveType coder: unsupported data type null" />
+      <item value="Error:(127, 19) an expression of type Null is ineligible for implicit conversion       elem.col4 = null" />
       <item value="Task Completion Listener" />
       <item value="21/06/16 13:49:13 WARN executor.Executor: Managed memory leak detected; size = 17039360 bytes, TID = 6" />
       <item value="EventThread shut down for session: 0x37a12987382000e" />
@@ -16,7 +18,6 @@
       <item value="O2O" />
       <item value="区分大小写" />
       <item value="大小写" />
-      <item value="PrimitiveType coder: unsupported data type null" />
       <item value="nationality" />
       <item value="citizenship" />
       <item value="Citizenship" />
@@ -50,12 +51,11 @@
       <item value="expired" />
       <item value="Unpacking necessary files from: file://D:/hadoop_cluster/vagrant_test_cluster1/pkgs/package.box" />
       <item value="Box file was not detected as metadata. Adding it directly..." />
-      <item value="Attempting to find and install..." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="645" />
-        <entry key="ENGLISH" value="646" />
+        <entry key="CHINESE" value="647" />
+        <entry key="ENGLISH" value="648" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
