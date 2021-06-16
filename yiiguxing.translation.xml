@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deploy" />
       <item value="Converts the number of seconds from unix epoch (1970-01-01 00:00:00 UTC) to a string * representing the timestamp of that moment in the current system time zone in the given * format." />
       <item value="Converts the column into DateType." />
       <item value="Converts time string in format yyyy-MM-dd HH:mm:ss to Unix timestamp (in seconds), * using the default timezone and the default locale, return null if fail." />
@@ -50,7 +51,6 @@
       <item value="Create a SparkConf that loads defaults from system properties and the classpath */" />
       <item value="Create a ImmutableBytesWritable using the byte array as the initial value." />
       <item value="A context object that allows input and output from the task. It is only * supplied to the {@link Mapper} or {@link Reducer}." />
-      <item value="&lt;p&gt;&lt;code&gt;WritableComparable&lt;/code&gt;s can be compared to each other, typically * via &lt;code&gt;Comparator&lt;/code&gt;s. Any type which is to be used as a * &lt;code&gt;key&lt;/code&gt; in the Hadoop Map-Reduce framework should implement this * interface.&lt;/p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
