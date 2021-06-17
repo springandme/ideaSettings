@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="特征编码" />
+      <item value="统计" />
       <item value="Aggregate function: returns the number of distinct items in a group." />
       <item value="Aggregate function: returns the first value in a group. * * The function by default returns the first values it sees. It will return the first non-null * value it sees when ignoreNulls is set to true. If all values are null, then null is returned." />
       <item value="NA" />
@@ -49,13 +51,11 @@
       <item value="profile" />
       <item value="separator" />
       <item value="sperator" />
-      <item value="GrepConsole plugin: processing took too long, aborting to prevent GUI freezing. Consider changing following settings: 'Match only first N characters on each line' or 'Max processing time for a line' Last expression: [pattern='.*FATAL.*', unlessPattern='null']" />
-      <item value="已经存在了" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="660" />
-        <entry key="ENGLISH" value="661" />
+        <entry key="CHINESE" value="661" />
+        <entry key="ENGLISH" value="662" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
