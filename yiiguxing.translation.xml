@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Aggregate function: returns the number of distinct items in a group." />
+      <item value="Aggregate function: returns the first value in a group. * * The function by default returns the first values it sees. It will return the first non-null * value it sees when ignoreNulls is set to true. If all values are null, then null is returned." />
+      <item value="NA" />
       <item value="识别" />
       <item value="Computes statistics for numeric and string columns, including count, mean, stddev, min, and * max. If no columns are given, this function computes statistics for all numerical or string * columns." />
       <item value="max Retries" />
@@ -48,15 +51,13 @@
       <item value="sperator" />
       <item value="GrepConsole plugin: processing took too long, aborting to prevent GUI freezing. Consider changing following settings: 'Match only first N characters on each line' or 'Max processing time for a line' Last expression: [pattern='.*FATAL.*', unlessPattern='null']" />
       <item value="已经存在了" />
-      <item value="This release is only for system testing against Spark 2.2." />
-      <item value="frequency" />
-      <item value="Do a dryrun before submitting the job" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="658" />
-        <entry key="ENGLISH" value="659" />
+        <entry key="CHINESE" value="660" />
+        <entry key="ENGLISH" value="661" />
         <entry key="ARABIC" value="1" />
+        <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="2" />
         <entry key="LITHUANIAN" value="1" />
