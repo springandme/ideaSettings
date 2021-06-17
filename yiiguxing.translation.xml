@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hadoop" />
       <item value="A label indexer that maps a string column of labels to an ML column of label indices. * If the input column is numeric, we cast it to string and index the string values. * The indices are in [0, numLabels), ordered by label frequencies. * So the most frequent label gets index 0." />
       <item value="one hot encoding" />
       <item value="one hot" />
@@ -50,11 +51,10 @@
       <item value="Citizen" />
       <item value="标签" />
       <item value="Error:(99, 15) reference to write is ambiguous; it is both defined in object ShcUtils and imported subsequently by  import org.json4s.jackson.Serialization.write     val str = write(obj)" />
-      <item value="Unexpected custom file format" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="662" />
+        <entry key="CHINESE" value="663" />
         <entry key="ENGLISH" value="663" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
