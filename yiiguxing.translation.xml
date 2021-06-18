@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="比例" />
+      <item value="practical" />
       <item value="优惠" />
       <item value="Profiler" />
       <item value="EPIC " />
@@ -49,13 +51,11 @@
       <item value="Error:(127, 19) an expression of type Null is ineligible for implicit conversion       elem.col4 = null" />
       <item value="Task Completion Listener" />
       <item value="21/06/16 13:49:13 WARN executor.Executor: Managed memory leak detected; size = 17039360 bytes, TID = 6" />
-      <item value="EventThread shut down for session: 0x37a12987382000e" />
-      <item value="Error:(26, 22) constructor FastDateFormat in class FastDateFormat cannot be accessed in object DataUtils  Access to protected constructor FastDateFormat not permitted because  enclosing object DataUtils in package utils is not a subclass of   class FastDateFormat in package time where target is defined     val dateFormat = new FastDateFormat(&quot;yyyyMMdd&quot;)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="678" />
-        <entry key="ENGLISH" value="679" />
+        <entry key="CHINESE" value="680" />
+        <entry key="ENGLISH" value="681" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
