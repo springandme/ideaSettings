@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gets current Unix timestamp in seconds." />
       <item value="We are currently doing some updates to the site.  Sorry for the inconvenience, we should be back online shortly. Thank you for your patience." />
       <item value="别名" />
       <item value="robinson" />
@@ -50,12 +51,11 @@
       <item value="O2O" />
       <item value="区分大小写" />
       <item value="大小写" />
-      <item value="nationality" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="668" />
-        <entry key="ENGLISH" value="668" />
+        <entry key="ENGLISH" value="669" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
