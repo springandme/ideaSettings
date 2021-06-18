@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="排球" />
       <item value="Values to assemble cannot be null." />
       <item value="Invalid" />
       <item value="Gets current Unix timestamp in seconds." />
@@ -50,12 +51,11 @@
       <item value="preemptive" />
       <item value="Preemptive" />
       <item value="Preemtive " />
-      <item value="O2O" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="670" />
-        <entry key="ENGLISH" value="671" />
+        <entry key="CHINESE" value="671" />
+        <entry key="ENGLISH" value="672" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
