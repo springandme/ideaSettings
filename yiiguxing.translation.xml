@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Delta" />
+      <item value="delta" />
+      <item value="Delta position" />
+      <item value="General Statistics" />
       <item value="比例" />
       <item value="practical" />
       <item value="优惠" />
@@ -47,14 +51,10 @@
       <item value="periods" />
       <item value="day Pass" />
       <item value="The data type representing `Long` values. Please use the singleton `DataTypes.LongType`." />
-      <item value="PrimitiveType coder: unsupported data type null" />
-      <item value="Error:(127, 19) an expression of type Null is ineligible for implicit conversion       elem.col4 = null" />
-      <item value="Task Completion Listener" />
-      <item value="21/06/16 13:49:13 WARN executor.Executor: Managed memory leak detected; size = 17039360 bytes, TID = 6" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="680" />
+        <entry key="CHINESE" value="681" />
         <entry key="ENGLISH" value="681" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
