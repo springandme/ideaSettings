@@ -14,6 +14,7 @@
       <mapping pattern="6c2710b1-fce7-49b0-82ac-7bd873d2083d" type="PLAIN_TEXT" />
       <mapping pattern=".part-00002-97ba0ffd-02fb-4612-9189-57064fc68d07-c000.json.crc" type="PLAIN_TEXT" />
       <mapping pattern="rdd_parctice" type="PLAIN_TEXT" />
+      <mapping pattern="null_file_test" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
