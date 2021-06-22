@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Maps a {@link List} of * {@link org.springframework.security.web.util.matcher.AntPathRequestMatcher} * instances that do not care which {@link HttpMethod} is used." />
+      <item value="for further * customization" />
+      <item value="Specify that URLs are allowed by anyone." />
+      <item value="Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [332] milliseconds." />
       <item value="Aggregate" />
       <item value="女性" />
       <item value="accuracy" />
@@ -47,15 +51,11 @@
       <item value="预测房价" />
       <item value="机器学习" />
       <item value="机器" />
-      <item value="vector" />
-      <item value="matrix" />
-      <item value="snagit" />
-      <item value="Deploy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="687" />
-        <entry key="ENGLISH" value="688" />
+        <entry key="CHINESE" value="691" />
+        <entry key="ENGLISH" value="692" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
