@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Indicates that an annotated class is a &quot;Repository&quot;, originally defined by * Domain-Driven Design (Evans, 2003) as &quot;a mechanism for encapsulating storage, * retrieval, and search behavior which emulates a collection of objects&quot;. * * &lt;p&gt;Teams implementing traditional Java EE patterns such as &quot;Data Access Object&quot; * may also apply this stereotype to DAO classes, though care should be taken to * understand the distinction between Data Access Object and DDD-style repositories * before doing so. This annotation is a general-purpose stereotype and individual teams * may narrow their semantics and use as appropriate. * * &lt;p&gt;A class thus annotated is eligible for Spring * {@link org.springframework.dao.DataAccessException DataAccessException} translation * when used in conjunction with a {@link * org.springframework.dao.annotation.PersistenceExceptionTranslationPostProcessor * PersistenceExceptionTranslationPostProcessor}. The annotated class is also clarified as * to its role in the overall application architecture for the purpose of tooling, * aspects, etc. * * &lt;p&gt;As of Spring 2.5, this annotation also serves as a specialization of * {@link Component @Component}, allowing for implementation classes to be autodetected * through classpath scanning." />
+      <item value="Marker interface for MyBatis mappers." />
+      <item value="Repository" />
       <item value="Maps a {@link List} of * {@link org.springframework.security.web.util.matcher.AntPathRequestMatcher} * instances that do not care which {@link HttpMethod} is used." />
       <item value="for further * customization" />
       <item value="Specify that URLs are allowed by anyone." />
@@ -48,14 +51,11 @@
       <item value="识别" />
       <item value="Computes statistics for numeric and string columns, including count, mean, stddev, min, and * max. If no columns are given, this function computes statistics for all numerical or string * columns." />
       <item value="max Retries" />
-      <item value="预测房价" />
-      <item value="机器学习" />
-      <item value="机器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="691" />
-        <entry key="ENGLISH" value="692" />
+        <entry key="CHINESE" value="694" />
+        <entry key="ENGLISH" value="695" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
