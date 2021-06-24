@@ -1,13 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The &lt;code&gt;doFilter&lt;/code&gt; method of the Filter is called by the container * each time a request/response pair is passed through the chain due to a * client request for a resource at the end of the chain. The FilterChain * passed in to this method allows the Filter to pass on the request and * response to the next entity in the chain." />
+      <item value="Provides access to the next filter in the chain for this * filter to pass the request and response to for further * processing" />
+      <item value="Specifies to support form based authentication. If * {@link FormLoginConfigurer#loginPage(String)} is not specified a default login page * will be generated." />
+      <item value="Specifies to support form based authentication. If" />
+      <item value="Shortcut for specifying URLs require a particular role. If you do not want to * have &quot;ROLE_&quot; automatically inserted see {@link #hasAuthority(String)}." />
+      <item value="Disables the {@link AbstractHttpConfigurer} by removing it. After doing so a fresh * version of the configuration can be applied." />
+      <item value="Adds CSRF support. This is activated by default when using" />
+      <item value="The &lt;code&gt;doFilter&lt;/code&gt; method of the Filter is called by the container * each time a request/response pair is passed through the chain due to a * client request for a resource at the end of the chain. The FilterChain * passed in to this method allows the Filter to pass on the request and * response to the next entity in the chain. * &lt;p&gt; * A typical implementation of this method would follow the following * pattern:- &lt;br&gt; * 1. Examine the request&lt;br&gt; * 2. Optionally wrap the request object with a custom implementation to * filter content or headers for input filtering &lt;br&gt; * 3. Optionally wrap the response object with a custom implementation to * filter content or headers for output filtering &lt;br&gt; * 4. a) &lt;strong&gt;Either&lt;/strong&gt; invoke the next entity in the chain using * the FilterChain object (&lt;code&gt;chain.doFilter()&lt;/code&gt;), &lt;br&gt; * 4. b) &lt;strong&gt;or&lt;/strong&gt; not pass on the request/response pair to the * next entity in the filter chain to block the request processing&lt;br&gt; * 5. Directly set headers on the response after invocation of the next * entity in the filter chain." />
+      <item value="Provides core user information. * * &lt;p&gt; * Implementations are not used directly by Spring Security for security purposes. They * simply store user information which is later encapsulated into {@link Authentication} * objects. This allows non-security related user information (such as email addresses, * telephone numbers etc) to be stored in a convenient location. * &lt;p&gt; * Concrete implementations must take particular care to ensure the non-null contract * detailed for each method is enforced. See * {@link org.springframework.security.core.userdetails.User} for a reference * implementation (which you might like to extend or use in your code)." />
+      <item value="Core interface which loads user-specific data. * &lt;p&gt; * It is used throughout the framework as a user DAO and is the strategy used by the * {@link org.springframework.security.authentication.dao.DaoAuthenticationProvider * DaoAuthenticationProvider}. * * &lt;p&gt; * The interface requires only one read-only method, which simplifies support for new * data-access strategies. *" />
+      <item value="a fully populated user record (never &lt;code&gt;null&lt;/code&gt;)" />
+      <item value="username the username identifying the user whose data is required." />
+      <item value="Locates the user based on the username. In the actual implementation, the search * may possibly be case sensitive, or case insensitive depending on how the * implementation instance is configured. In this case, the &lt;code&gt;UserDetails&lt;/code&gt; * object that comes back may have a username that is of a different case than what * was actually requested.." />
+      <item value="ant Matchers" />
+      <item value="Can't configure antMatchers after anyRequest" />
+      <item value="Maps a {@link List} of * {@link org.springframework.security.web.util.matcher.AntPathRequestMatcher} * instances that do not care which {@link HttpMethod} is used." />
+      <item value="Specify that URLs are allowed by anyone." />
+      <item value="thymeleaf" />
       <item value="Catalyst" />
       <item value="Indicates that an annotated class is a &quot;Repository&quot;, originally defined by * Domain-Driven Design (Evans, 2003) as &quot;a mechanism for encapsulating storage, * retrieval, and search behavior which emulates a collection of objects&quot;. * * &lt;p&gt;Teams implementing traditional Java EE patterns such as &quot;Data Access Object&quot; * may also apply this stereotype to DAO classes, though care should be taken to * understand the distinction between Data Access Object and DDD-style repositories * before doing so. This annotation is a general-purpose stereotype and individual teams * may narrow their semantics and use as appropriate. * * &lt;p&gt;A class thus annotated is eligible for Spring * {@link org.springframework.dao.DataAccessException DataAccessException} translation * when used in conjunction with a {@link * org.springframework.dao.annotation.PersistenceExceptionTranslationPostProcessor * PersistenceExceptionTranslationPostProcessor}. The annotated class is also clarified as * to its role in the overall application architecture for the purpose of tooling, * aspects, etc. * * &lt;p&gt;As of Spring 2.5, this annotation also serves as a specialization of * {@link Component @Component}, allowing for implementation classes to be autodetected * through classpath scanning." />
       <item value="Marker interface for MyBatis mappers." />
       <item value="Repository" />
-      <item value="Maps a {@link List} of * {@link org.springframework.security.web.util.matcher.AntPathRequestMatcher} * instances that do not care which {@link HttpMethod} is used." />
       <item value="for further * customization" />
-      <item value="Specify that URLs are allowed by anyone." />
       <item value="Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [332] milliseconds." />
       <item value="Aggregate" />
       <item value="女性" />
@@ -35,27 +51,11 @@
       <item value="Gets current Unix timestamp in seconds." />
       <item value="We are currently doing some updates to the site.  Sorry for the inconvenience, we should be back online shortly. Thank you for your patience." />
       <item value="别名" />
-      <item value="robinson" />
-      <item value="white" />
-      <item value="predication" />
-      <item value="prediction" />
-      <item value="Warning:scalac: there was one deprecation warning; re-run with -deprecation for details" />
-      <item value="Hadoop" />
-      <item value="A label indexer that maps a string column of labels to an ML column of label indices. * If the input column is numeric, we cast it to string and index the string values. * The indices are in [0, numLabels), ordered by label frequencies. * So the most frequent label gets index 0." />
-      <item value="one hot encoding" />
-      <item value="one hot" />
-      <item value="特征编码" />
-      <item value="统计" />
-      <item value="Aggregate function: returns the number of distinct items in a group." />
-      <item value="Aggregate function: returns the first value in a group. * * The function by default returns the first values it sees. It will return the first non-null * value it sees when ignoreNulls is set to true. If all values are null, then null is returned." />
-      <item value="NA" />
-      <item value="识别" />
-      <item value="Computes statistics for numeric and string columns, including count, mean, stddev, min, and * max. If no columns are given, this function computes statistics for all numerical or string * columns." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="695" />
-        <entry key="ENGLISH" value="695" />
+        <entry key="CHINESE" value="712" />
+        <entry key="ENGLISH" value="713" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
@@ -64,7 +64,7 @@
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="JAPANESE" value="10" />
-        <entry key="SWEDISH" value="1" />
+        <entry key="SWEDISH" value="2" />
         <entry key="WELSH" value="3" />
       </map>
     </option>
