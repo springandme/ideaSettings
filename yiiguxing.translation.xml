@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Does not contain a valid host:port authority" />
       <item value="Specify that URLs are allowed by any authenticated user." />
       <item value="the object that is chained after creating the {@link RequestMatcher}" />
       <item value="Maps any request." />
@@ -50,11 +51,10 @@
       <item value="优惠" />
       <item value="Profiler" />
       <item value="EPIC " />
-      <item value="活跃" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="722" />
+        <entry key="CHINESE" value="723" />
         <entry key="ENGLISH" value="723" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
