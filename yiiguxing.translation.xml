@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tracker" />
+      <item value="JobTracker" />
+      <item value="Container" />
       <item value="The authenticity of host '1.15.154.233 (1.15.154.233)' can't be established" />
       <item value="Does not contain a valid host:port authority" />
       <item value="Specify that URLs are allowed by any authenticated user." />
@@ -48,9 +51,6 @@
       <item value="Delta position" />
       <item value="General Statistics" />
       <item value="比例" />
-      <item value="practical" />
-      <item value="优惠" />
-      <item value="Profiler" />
     </histories>
     <option name="languageScores">
       <map>
