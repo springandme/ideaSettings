@@ -16,7 +16,24 @@
           <option name="fqn" value="org.jetbrains.hdfsplugin.hdfs.settings.HdfsJavaConnectionData" />
           <option name="groupId" value="HdfsJavaConnectionGroup" />
           <option name="innerId" value="HDFS@HdfsJavaConnectionGroup@-3156650815818977585" />
-          <option name="name" value="HDFS" />
+          <option name="name" value="node01" />
+          <option name="pluginId" value="com.intellij.bigdatatools" />
+        </ExtendedConnectionData>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="address" value="rO0ABXQAETEuMTUuMTU0LjIzMzo4MDIw" />
+              <entry key="authenticationType" value="rO0ABXQADEV4cGxpY2l0IHVyaQ==" />
+              <entry key="configsPath" value="rO0ABXQAETEuMTUuMTU0LjIzMzo4MDIw" />
+              <entry key="rootPath" value="rO0ABXQABi4uLy4uLw==" />
+              <entry key="timeout" value="rO0ABXNyABFqYXZhLmxhbmcuSW50ZWdlchLioKT3gYc4AgABSQAFdmFsdWV4cgAQamF2YS5sYW5nLk51bWJlcoaslR0LlOCLAgAAeHAAADqY" />
+              <entry key="userName" value="rO0ABXQABHJvb3Q=" />
+            </map>
+          </option>
+          <option name="fqn" value="org.jetbrains.hdfsplugin.hdfs.settings.HdfsJavaConnectionData" />
+          <option name="groupId" value="HdfsJavaConnectionGroup" />
+          <option name="innerId" value="HDFS@HdfsJavaConnectionGroup@-5658850407741569279" />
+          <option name="name" value="cvm-node01" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
         </ExtendedConnectionData>
       </list>

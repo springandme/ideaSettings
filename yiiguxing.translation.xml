@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Obtains the message entity of this response, if any. * The entity is provided by calling {@link #setEntity setEntity}." />
       <item value="Initial job has not accepted any resources; check your cluster UI to ensure that workers are registered and have sufficient resources" />
       <item value="available" />
       <item value="Cannot assign requested address" />
@@ -50,12 +51,11 @@
       <item value="accuracy" />
       <item value="Randomly splits this Dataset with the provided weights." />
       <item value="性别" />
-      <item value="Software caused connection abort" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="724" />
-        <entry key="ENGLISH" value="724" />
+        <entry key="ENGLISH" value="725" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
