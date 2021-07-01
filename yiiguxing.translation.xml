@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The message is 142772 bytes when serialized which is larger than the total memory buffer you have configured with the buffer.memory configuration." />
+      <item value="Can't convert key of class java.lang.String to class org.apache.kafka.common.serialization.IntegerSerializer specified in key.serializer" />
+      <item value="Unchecked call to 'send(String, K, V)' as a member of raw type" />
+      <item value="boostrap-server is not a recognized option" />
       <item value="Cannot allocate memory" />
       <item value="Generates getters for all fields, a useful toString method, and hashCode and equals implementations that check * all non-transient fields. Will also generate setters for all non-final fields, as well as a constructor. * &lt;p&gt; * Equivalent to {@code @Getter @Setter @RequiredArgsConstructor @ToString @EqualsAndHashCode}. * &lt;p&gt; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/Data&quot;&gt;the project lombok features page for &amp;#64;Data&lt;/a&gt;." />
       <item value="vaccination" />
@@ -47,15 +51,11 @@
       <item value="The &lt;code&gt;doFilter&lt;/code&gt; method of the Filter is called by the container * each time a request/response pair is passed through the chain due to a * client request for a resource at the end of the chain. The FilterChain * passed in to this method allows the Filter to pass on the request and * response to the next entity in the chain. * &lt;p&gt; * A typical implementation of this method would follow the following * pattern:- &lt;br&gt; * 1. Examine the request&lt;br&gt; * 2. Optionally wrap the request object with a custom implementation to * filter content or headers for input filtering &lt;br&gt; * 3. Optionally wrap the response object with a custom implementation to * filter content or headers for output filtering &lt;br&gt; * 4. a) &lt;strong&gt;Either&lt;/strong&gt; invoke the next entity in the chain using * the FilterChain object (&lt;code&gt;chain.doFilter()&lt;/code&gt;), &lt;br&gt; * 4. b) &lt;strong&gt;or&lt;/strong&gt; not pass on the request/response pair to the * next entity in the filter chain to block the request processing&lt;br&gt; * 5. Directly set headers on the response after invocation of the next * entity in the filter chain." />
       <item value="Provides core user information. * * &lt;p&gt; * Implementations are not used directly by Spring Security for security purposes. They * simply store user information which is later encapsulated into {@link Authentication} * objects. This allows non-security related user information (such as email addresses, * telephone numbers etc) to be stored in a convenient location. * &lt;p&gt; * Concrete implementations must take particular care to ensure the non-null contract * detailed for each method is enforced. See * {@link org.springframework.security.core.userdetails.User} for a reference * implementation (which you might like to extend or use in your code)." />
       <item value="a fully populated user record (never &lt;code&gt;null&lt;/code&gt;)" />
-      <item value="username the username identifying the user whose data is required." />
-      <item value="ant Matchers" />
-      <item value="Can't configure antMatchers after anyRequest" />
-      <item value="Maps a {@link List} of * {@link org.springframework.security.web.util.matcher.AntPathRequestMatcher} * instances that do not care which {@link HttpMethod} is used." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="735" />
-        <entry key="ENGLISH" value="735" />
+        <entry key="CHINESE" value="736" />
+        <entry key="ENGLISH" value="737" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
