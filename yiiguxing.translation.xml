@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Execute the annotated method with a fixed period in milliseconds between the * end of the last invocation and the start of the next. * @return the delay in milliseconds" />
+      <item value="Masteria" />
       <item value="fixed" />
+      <item value="Execute the annotated method with a fixed period in milliseconds between the * end of the last invocation and the start of the next. * @return the delay in milliseconds" />
       <item value="The message is 142772 bytes when serialized which is larger than the total memory buffer you have configured with the buffer.memory configuration." />
       <item value="Can't convert key of class java.lang.String to class org.apache.kafka.common.serialization.IntegerSerializer specified in key.serializer" />
       <item value="Unchecked call to 'send(String, K, V)' as a member of raw type" />
@@ -50,12 +51,11 @@
       <item value="Shortcut for specifying URLs require a particular role. If you do not want to * have &quot;ROLE_&quot; automatically inserted see {@link #hasAuthority(String)}." />
       <item value="Disables the {@link AbstractHttpConfigurer} by removing it. After doing so a fresh * version of the configuration can be applied." />
       <item value="Adds CSRF support. This is activated by default when using" />
-      <item value="The &lt;code&gt;doFilter&lt;/code&gt; method of the Filter is called by the container * each time a request/response pair is passed through the chain due to a * client request for a resource at the end of the chain. The FilterChain * passed in to this method allows the Filter to pass on the request and * response to the next entity in the chain. * &lt;p&gt; * A typical implementation of this method would follow the following * pattern:- &lt;br&gt; * 1. Examine the request&lt;br&gt; * 2. Optionally wrap the request object with a custom implementation to * filter content or headers for input filtering &lt;br&gt; * 3. Optionally wrap the response object with a custom implementation to * filter content or headers for output filtering &lt;br&gt; * 4. a) &lt;strong&gt;Either&lt;/strong&gt; invoke the next entity in the chain using * the FilterChain object (&lt;code&gt;chain.doFilter()&lt;/code&gt;), &lt;br&gt; * 4. b) &lt;strong&gt;or&lt;/strong&gt; not pass on the request/response pair to the * next entity in the filter chain to block the request processing&lt;br&gt; * 5. Directly set headers on the response after invocation of the next * entity in the filter chain." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="737" />
-        <entry key="ENGLISH" value="738" />
+        <entry key="CHINESE" value="739" />
+        <entry key="ENGLISH" value="740" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
