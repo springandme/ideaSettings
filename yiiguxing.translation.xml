@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Raw use of parameterized class 'KafkaTemplate'" />
+      <item value=" Due to limitations in metric names, topics with a period ('.') or underscore ('_') could collide. To avoid issues it is best to use either, but not both" />
       <item value="Masteria" />
       <item value="fixed" />
       <item value="Execute the annotated method with a fixed period in milliseconds between the * end of the last invocation and the start of the next. * @return the delay in milliseconds" />
@@ -49,12 +51,10 @@
       <item value="Specifies to support form based authentication. If * {@link FormLoginConfigurer#loginPage(String)} is not specified a default login page * will be generated." />
       <item value="Specifies to support form based authentication. If" />
       <item value="Shortcut for specifying URLs require a particular role. If you do not want to * have &quot;ROLE_&quot; automatically inserted see {@link #hasAuthority(String)}." />
-      <item value="Disables the {@link AbstractHttpConfigurer} by removing it. After doing so a fresh * version of the configuration can be applied." />
-      <item value="Adds CSRF support. This is activated by default when using" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="739" />
+        <entry key="CHINESE" value="740" />
         <entry key="ENGLISH" value="740" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
