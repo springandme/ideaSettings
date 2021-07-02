@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sensor" />
       <item value="base" />
       <item value="basic" />
       <item value="Complete output mode not supported when there are no streaming aggregations on streaming DataFrames/Datasets;;" />
@@ -50,7 +51,6 @@
       <item value="redirect" />
       <item value="form" />
       <item value="Core interface which loads user-specific data. * &lt;p&gt; * It is used throughout the framework as a user DAO and is the strategy used by the * {@link org.springframework.security.authentication.dao.DaoAuthenticationProvider * DaoAuthenticationProvider}. * * &lt;p&gt; * The interface requires only one read-only method, which simplifies support for new * data-access strategies. *" />
-      <item value="Locates the user based on the username. In the actual implementation, the search * may possibly be case sensitive, or case insensitive depending on how the * implementation instance is configured. In this case, the &lt;code&gt;UserDetails&lt;/code&gt; * object that comes back may have a username that is of a different case than what * was actually requested.." />
     </histories>
     <option name="languageScores">
       <map>
