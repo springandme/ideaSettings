@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Complete output mode not supported when there are no streaming aggregations on streaming DataFrames/Datasets;;" />
       <item value="Cannot resolve overloaded method 'updateStateByKey" />
       <item value="Unused expression without side effects" />
       <item value="Raw use of parameterized class 'KafkaTemplate'" />
@@ -50,7 +51,6 @@
       <item value="Locates the user based on the username. In the actual implementation, the search * may possibly be case sensitive, or case insensitive depending on how the * implementation instance is configured. In this case, the &lt;code&gt;UserDetails&lt;/code&gt; * object that comes back may have a username that is of a different case than what * was actually requested.." />
       <item value="The &lt;code&gt;doFilter&lt;/code&gt; method of the Filter is called by the container * each time a request/response pair is passed through the chain due to a * client request for a resource at the end of the chain. The FilterChain * passed in to this method allows the Filter to pass on the request and * response to the next entity in the chain." />
       <item value="Provides access to the next filter in the chain for this * filter to pass the request and response to for further * processing" />
-      <item value="Specifies to support form based authentication. If * {@link FormLoginConfigurer#loginPage(String)} is not specified a default login page * will be generated." />
     </histories>
     <option name="languageScores">
       <map>
