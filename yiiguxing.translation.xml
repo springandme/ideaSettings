@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="segment" />
+      <item value="broker" />
       <item value="消费者" />
       <item value="polling" />
       <item value="sensor" />
@@ -49,12 +51,10 @@
       <item value="热量" />
       <item value="卡路里" />
       <item value="Cannot resolve view 'books1'" />
-      <item value="Add the supplied attribute under the supplied name." />
-      <item value="redirect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="740" />
+        <entry key="CHINESE" value="741" />
         <entry key="ENGLISH" value="741" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
