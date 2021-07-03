@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The interval at which log segments are checked to see if they can be deleted according to the retention policies" />
+      <item value="If log.cleaner.enable=true is set the cleaner will be enabled and individual logs can then be marked for log compaction." />
+      <item value="The maximum size of a log segment file. When this size is reached a new log segment will be created." />
+      <item value="The minimum age of a log file to be eligible for deletion" />
+      <item value="rebalance" />
+      <item value="List all topic meta information. Here -1 indicates that the result is not available or is empty." />
+      <item value="partition" />
+      <item value=" Select kafka topic, then edit the simulation message, and then click send to produce the message." />
+      <item value="Mock " />
+      <item value=" Made up of letters and digits or underscores . Such as &quot;demo_kafka_topic_1&quot; ." />
+      <item value=" Display system resource module, you can add, modify and delete it." />
+      <item value="alarm" />
       <item value="segment" />
       <item value="broker" />
       <item value="消费者" />
@@ -39,18 +51,6 @@
       <item value="Cannot assign requested address" />
       <item value="僵尸" />
       <item value="植物" />
-      <item value="Tracker" />
-      <item value="JobTracker" />
-      <item value="Container" />
-      <item value="The authenticity of host '1.15.154.233 (1.15.154.233)' can't be established" />
-      <item value="Does not contain a valid host:port authority" />
-      <item value="Specify that URLs are allowed by any authenticated user." />
-      <item value="the object that is chained after creating the {@link RequestMatcher}" />
-      <item value="Maps any request." />
-      <item value="Provides a convenient base class for creating a {@link WebSecurityConfigurer} instance. * The implementation allows customization by overriding methods." />
-      <item value="热量" />
-      <item value="卡路里" />
-      <item value="Cannot resolve view 'books1'" />
     </histories>
     <option name="languageScores">
       <map>
