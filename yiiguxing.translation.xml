@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="polling" />
       <item value="sensor" />
       <item value="base" />
       <item value="basic" />
@@ -50,7 +51,6 @@
       <item value="Add the supplied attribute under the supplied name." />
       <item value="redirect" />
       <item value="form" />
-      <item value="Core interface which loads user-specific data. * &lt;p&gt; * It is used throughout the framework as a user DAO and is the strategy used by the * {@link org.springframework.security.authentication.dao.DaoAuthenticationProvider * DaoAuthenticationProvider}. * * &lt;p&gt; * The interface requires only one read-only method, which simplifies support for new * data-access strategies. *" />
     </histories>
     <option name="languageScores">
       <map>
