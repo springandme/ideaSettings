@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The metadata for a record that has been acknowledged by the server" />
       <item value="A {@code Future} represents the result of an asynchronous * computation. Methods are provided to check if the computation is * complete, to wait for its completion, and to retrieve the result of * the computation. The result can only be retrieved using method * {@code get} when the computation has completed, blocking if * necessary until it is ready. Cancellation is performed by the * {@code cancel} method. Additional methods are provided to * determine if the task completed normally or was cancelled. Once a * computation has completed, the computation cannot be cancelled. * If you would like to use a {@code Future} for the sake * of cancellability but not provide a usable result, you can * declare types of the form {@code Future&lt;?&gt;} and * return {@code null} as a result of the underlying task." />
       <item value="Asynchronously send a record to a topic. Equivalent to &lt;code&gt;send(record, null)&lt;/code&gt;." />
       <item value="The interval at which log segments are checked to see if they can be deleted according to the retention policies" />
@@ -50,12 +51,11 @@
       <item value="Obtains the message entity of this response, if any. * The entity is provided by calling {@link #setEntity setEntity}." />
       <item value="Initial job has not accepted any resources; check your cluster UI to ensure that workers are registered and have sufficient resources" />
       <item value="available" />
-      <item value="Cannot assign requested address" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="742" />
-        <entry key="ENGLISH" value="743" />
+        <entry key="CHINESE" value="743" />
+        <entry key="ENGLISH" value="744" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
