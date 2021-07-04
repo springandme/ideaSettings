@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lag" />
+      <item value="metadata Future" />
+      <item value="ZooKeeper" />
       <item value="Fetch" />
       <item value="Election" />
       <item value="Configure logging for testing: optionally with log file" />
@@ -48,14 +51,11 @@
       <item value=" Due to limitations in metric names, topics with a period ('.') or underscore ('_') could collide. To avoid issues it is best to use either, but not both" />
       <item value="Masteria" />
       <item value="fixed" />
-      <item value="Execute the annotated method with a fixed period in milliseconds between the * end of the last invocation and the start of the next. * @return the delay in milliseconds" />
-      <item value="The message is 142772 bytes when serialized which is larger than the total memory buffer you have configured with the buffer.memory configuration." />
-      <item value="Can't convert key of class java.lang.String to class org.apache.kafka.common.serialization.IntegerSerializer specified in key.serializer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="748" />
-        <entry key="ENGLISH" value="748" />
+        <entry key="ENGLISH" value="749" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
