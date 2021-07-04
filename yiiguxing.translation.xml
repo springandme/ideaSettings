@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <histories>
       <item value="lag" />
+      <item value="retention" />
+      <item value="Byzantine" />
       <item value="metadata Future" />
       <item value="ZooKeeper" />
       <item value="Fetch" />
@@ -49,13 +51,11 @@
       <item value="Unused expression without side effects" />
       <item value="Raw use of parameterized class 'KafkaTemplate'" />
       <item value=" Due to limitations in metric names, topics with a period ('.') or underscore ('_') could collide. To avoid issues it is best to use either, but not both" />
-      <item value="Masteria" />
-      <item value="fixed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="748" />
-        <entry key="ENGLISH" value="749" />
+        <entry key="CHINESE" value="749" />
+        <entry key="ENGLISH" value="750" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
