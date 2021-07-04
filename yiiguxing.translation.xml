@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Election" />
+      <item value="Configure logging for testing: optionally with log file" />
+      <item value="Infinity" />
+      <item value="divisor / dividend': integer division in floating-point context" />
+      <item value="除法" />
+      <item value="被除数" />
+      <item value="除数" />
+      <item value="处说" />
+      <item value="计算" />
+      <item value="Replication" />
       <item value=" There is insufficient memory for the Java Runtime Environment to continue. # Native memory allocation (mmap) failed to map 1073741824 bytes for committing reserved memory. # An error report file with more information is saved as:" />
       <item value="The checksum (CRC32) of the record." />
       <item value="delivery  guarantee" />
@@ -41,21 +51,11 @@
       <item value="The message is 142772 bytes when serialized which is larger than the total memory buffer you have configured with the buffer.memory configuration." />
       <item value="Can't convert key of class java.lang.String to class org.apache.kafka.common.serialization.IntegerSerializer specified in key.serializer" />
       <item value="Unchecked call to 'send(String, K, V)' as a member of raw type" />
-      <item value="boostrap-server is not a recognized option" />
-      <item value="Cannot allocate memory" />
-      <item value="Generates getters for all fields, a useful toString method, and hashCode and equals implementations that check * all non-transient fields. Will also generate setters for all non-final fields, as well as a constructor. * &lt;p&gt; * Equivalent to {@code @Getter @Setter @RequiredArgsConstructor @ToString @EqualsAndHashCode}. * &lt;p&gt; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/Data&quot;&gt;the project lombok features page for &amp;#64;Data&lt;/a&gt;." />
-      <item value="vaccination" />
-      <item value="detect" />
-      <item value="detect Org" />
-      <item value="cured" />
-      <item value="suspected" />
-      <item value="随意" />
-      <item value="任意" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="745" />
-        <entry key="ENGLISH" value="745" />
+        <entry key="CHINESE" value="748" />
+        <entry key="ENGLISH" value="748" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
