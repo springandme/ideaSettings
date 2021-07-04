@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unreachable statement" />
+      <item value="Variable 'running' is not updated inside loop" />
       <item value="More arguments provided (5) than placeholders specified (0)" />
       <item value="&gt;This form avoids superfluous string concatenation when the logger * is disabled for the INFO level. However, this variant incurs the hidden * (and relatively small) cost of creating an &lt;code&gt;Object[]&lt;/code&gt; before invoking the method, * even if this logger is disabled for INFO. The variants taking * {@link #info(String, Object) one} and {@link #info(String, Object, Object) two} * arguments exist solely in order to avoid this hidden cost.&lt;/p&gt;" />
       <item value="Log a message at the INFO level according to the specified format * and arguments." />
@@ -49,8 +51,6 @@
       <item value=" Select kafka topic, then edit the simulation message, and then click send to produce the message." />
       <item value="Mock " />
       <item value=" Made up of letters and digits or underscores . Such as &quot;demo_kafka_topic_1&quot; ." />
-      <item value=" Display system resource module, you can add, modify and delete it." />
-      <item value="alarm" />
     </histories>
     <option name="languageScores">
       <map>
