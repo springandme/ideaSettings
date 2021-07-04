@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The znode will be deleted upon the client's disconnect." />
+      <item value="force" />
+      <item value="滴滴答答的响" />
+      <item value="tick" />
+      <item value="tick time" />
+      <item value="ticktime" />
       <item value="lag" />
       <item value="retention" />
       <item value="Byzantine" />
@@ -45,17 +51,11 @@
       <item value="polling" />
       <item value="sensor" />
       <item value="base" />
-      <item value="basic" />
-      <item value="Complete output mode not supported when there are no streaming aggregations on streaming DataFrames/Datasets;;" />
-      <item value="Cannot resolve overloaded method 'updateStateByKey" />
-      <item value="Unused expression without side effects" />
-      <item value="Raw use of parameterized class 'KafkaTemplate'" />
-      <item value=" Due to limitations in metric names, topics with a period ('.') or underscore ('_') could collide. To avoid issues it is best to use either, but not both" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="749" />
-        <entry key="ENGLISH" value="750" />
+        <entry key="CHINESE" value="751" />
+        <entry key="ENGLISH" value="751" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
