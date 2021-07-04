@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="endpoints" />
+      <item value="epoch" />
       <item value="The znode will be deleted upon the client's disconnect." />
       <item value="force" />
       <item value="滴滴答答的响" />
@@ -49,8 +51,6 @@
       <item value="broker" />
       <item value="消费者" />
       <item value="polling" />
-      <item value="sensor" />
-      <item value="base" />
     </histories>
     <option name="languageScores">
       <map>
