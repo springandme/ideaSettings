@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The number of acknowledgments the producer requires the leader to have received before considering a request complete. This controls the &quot; + &quot; durability of records that are sent. The following settings are common: &quot; + &quot; &lt;ul&gt;&quot; + &quot; &lt;li&gt;&lt;code&gt;acks=0&lt;/code&gt; If set to zero then the producer will not wait for any acknowledgment from the&quot; + &quot; server at all. The record will be immediately added to the socket buffer and considered sent. No guarantee can be&quot; + &quot; made that the server has received the record in this case, and the &lt;code&gt;retries&lt;/code&gt; configuration will not&quot; + &quot; take effect (as the client won't generally know of any failures). The offset given back for each record will&quot; + &quot; always be set to -1.&quot; + &quot; &lt;li&gt;&lt;code&gt;acks=1&lt;/code&gt; This will mean the leader will write the record to its local log but will respond&quot; + &quot; without awaiting full acknowledgement from all followers. In this case should the leader fail immediately after&quot; + &quot; acknowledging the record but before the followers have replicated it then the record will be lost.&quot; + &quot; &lt;li&gt;&lt;code&gt;acks=all&lt;/code&gt; This means the leader will wait for the full set of in-sync replicas to&quot; + &quot; acknowledge the record. This guarantees that the record will not be lost as long as at least one in-sync replica&quot; + &quot; remains alive. This is the strongest available guarantee." />
+      <item value="Accumulator" />
       <item value="Unreachable statement" />
       <item value="Variable 'running' is not updated inside loop" />
       <item value="More arguments provided (5) than placeholders specified (0)" />
@@ -49,13 +51,11 @@
       <item value="List all topic meta information. Here -1 indicates that the result is not available or is empty." />
       <item value="partition" />
       <item value=" Select kafka topic, then edit the simulation message, and then click send to produce the message." />
-      <item value="Mock " />
-      <item value=" Made up of letters and digits or underscores . Such as &quot;demo_kafka_topic_1&quot; ." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="753" />
-        <entry key="ENGLISH" value="753" />
+        <entry key="ENGLISH" value="754" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
