@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Facade" />
+      <item value="Raw use of parameterized class 'List'" />
+      <item value="操作成功" />
+      <item value="操作" />
       <item value="FastJsonConfig' is already defined in this compilation unit" />
       <item value="converter" />
       <item value="Could not write JSON: Can not write a string, expecting field name (context: Object); nested exception is com.fasterxml.jackson.core.JsonGenerationException: Can not write a string, expecting field name (context: Object)" />
@@ -47,15 +51,11 @@
       <item value="除数" />
       <item value="处说" />
       <item value="计算" />
-      <item value="Replication" />
-      <item value=" There is insufficient memory for the Java Runtime Environment to continue. # Native memory allocation (mmap) failed to map 1073741824 bytes for committing reserved memory. # An error report file with more information is saved as:" />
-      <item value="The checksum (CRC32) of the record." />
-      <item value="delivery  guarantee" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="763" />
-        <entry key="ENGLISH" value="763" />
+        <entry key="CHINESE" value="764" />
+        <entry key="ENGLISH" value="764" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
