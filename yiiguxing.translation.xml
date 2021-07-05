@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="action" />
+      <item value="爱好" />
       <item value="coordinate" />
       <item value="coordinator" />
       <item value="协调" />
@@ -49,13 +51,11 @@
       <item value="Asynchronously send a record to a topic. Equivalent to &lt;code&gt;send(record, null)&lt;/code&gt;." />
       <item value="The interval at which log segments are checked to see if they can be deleted according to the retention policies" />
       <item value="If log.cleaner.enable=true is set the cleaner will be enabled and individual logs can then be marked for log compaction." />
-      <item value="The maximum size of a log segment file. When this size is reached a new log segment will be created." />
-      <item value="The minimum age of a log file to be eligible for deletion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="755" />
-        <entry key="ENGLISH" value="755" />
+        <entry key="CHINESE" value="756" />
+        <entry key="ENGLISH" value="756" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
