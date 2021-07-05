@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="coordinate" />
+      <item value="coordinator" />
+      <item value="协调" />
       <item value="Edition" />
       <item value="The number of acknowledgments the producer requires the leader to have received before considering a request complete. This controls the &quot; + &quot; durability of records that are sent. The following settings are common: &quot; + &quot; &lt;ul&gt;&quot; + &quot; &lt;li&gt;&lt;code&gt;acks=0&lt;/code&gt; If set to zero then the producer will not wait for any acknowledgment from the&quot; + &quot; server at all. The record will be immediately added to the socket buffer and considered sent. No guarantee can be&quot; + &quot; made that the server has received the record in this case, and the &lt;code&gt;retries&lt;/code&gt; configuration will not&quot; + &quot; take effect (as the client won't generally know of any failures). The offset given back for each record will&quot; + &quot; always be set to -1.&quot; + &quot; &lt;li&gt;&lt;code&gt;acks=1&lt;/code&gt; This will mean the leader will write the record to its local log but will respond&quot; + &quot; without awaiting full acknowledgement from all followers. In this case should the leader fail immediately after&quot; + &quot; acknowledging the record but before the followers have replicated it then the record will be lost.&quot; + &quot; &lt;li&gt;&lt;code&gt;acks=all&lt;/code&gt; This means the leader will wait for the full set of in-sync replicas to&quot; + &quot; acknowledge the record. This guarantees that the record will not be lost as long as at least one in-sync replica&quot; + &quot; remains alive. This is the strongest available guarantee." />
       <item value="Accumulator" />
@@ -48,14 +51,11 @@
       <item value="If log.cleaner.enable=true is set the cleaner will be enabled and individual logs can then be marked for log compaction." />
       <item value="The maximum size of a log segment file. When this size is reached a new log segment will be created." />
       <item value="The minimum age of a log file to be eligible for deletion" />
-      <item value="rebalance" />
-      <item value="List all topic meta information. Here -1 indicates that the result is not available or is empty." />
-      <item value="partition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="754" />
-        <entry key="ENGLISH" value="754" />
+        <entry key="CHINESE" value="755" />
+        <entry key="ENGLISH" value="755" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
