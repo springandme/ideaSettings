@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsupported Media Type" />
+      <item value="Required request body is missing: public com.hliushi.learn.response.JsonResult&lt;java.lang.String&gt; com.hliushi.learn.controller.MVCAnnotationController.testRequestBody(java.lang.String)" />
       <item value="mentor" />
       <item value="Required String parameter 'password' is not present" />
       <item value="注解" />
@@ -49,8 +51,6 @@
       <item value="Configure logging for testing: optionally with log file" />
       <item value="Infinity" />
       <item value="divisor / dividend': integer division in floating-point context" />
-      <item value="除法" />
-      <item value="被除数" />
     </histories>
     <option name="languageScores">
       <map>
