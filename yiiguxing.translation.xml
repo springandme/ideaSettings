@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Predicate that evaluates the supplied ant pattern" />
+      <item value="Any path satisfies this condition" />
+      <item value="A builder which is intended to be the primary interface into the swagger-springmvc framework. * Provides sensible defaults and convenience methods for configuration." />
+      <item value="chunked" />
       <item value="Unsupported Media Type" />
       <item value="Required request body is missing: public com.hliushi.learn.response.JsonResult&lt;java.lang.String&gt; com.hliushi.learn.controller.MVCAnnotationController.testRequestBody(java.lang.String)" />
       <item value="mentor" />
@@ -47,15 +51,11 @@
       <item value="metadata Future" />
       <item value="ZooKeeper" />
       <item value="Fetch" />
-      <item value="Election" />
-      <item value="Configure logging for testing: optionally with log file" />
-      <item value="Infinity" />
-      <item value="divisor / dividend': integer division in floating-point context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="766" />
-        <entry key="ENGLISH" value="766" />
+        <entry key="CHINESE" value="768" />
+        <entry key="ENGLISH" value="769" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
