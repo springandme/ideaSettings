@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The {@code Void} class is an uninstantiable placeholder class to hold a * reference to the {@code Class} object representing the Java keyword * void." />
+      <item value="Annotation-specified bean name 'swagger2Controller' for bean class [springfox.documentation.swagger2.web.Swagger2Controller] conflicts with existing, non-compatible bean definition of same name and class [com.hliushi.learn.controller.Swagger2Controller]" />
       <item value="Predicate that evaluates the supplied ant pattern" />
       <item value="Any path satisfies this condition" />
       <item value="A builder which is intended to be the primary interface into the swagger-springmvc framework. * Provides sensible defaults and convenience methods for configuration." />
@@ -49,13 +51,11 @@
       <item value="retention" />
       <item value="Byzantine" />
       <item value="metadata Future" />
-      <item value="ZooKeeper" />
-      <item value="Fetch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="768" />
-        <entry key="ENGLISH" value="769" />
+        <entry key="CHINESE" value="769" />
+        <entry key="ENGLISH" value="770" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
