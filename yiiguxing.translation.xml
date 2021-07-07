@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="found" />
       <item value="Returns the identifier part of this signature. For methods this * will return the method name." />
       <item value="Returns the fully-qualified name of the declaring type. This is * equivalent to calling getDeclaringType().getName(), but caches * the result for greater efficiency." />
       <item value="Declaring" />
@@ -12,7 +13,6 @@
       <item value="handle" />
       <item value="Catdea Plugin intended to match Android Logcat log entries with the source code that emit these entries, thereby providing navigation and interactivity, in order to simplify debugging or reverse engineering. Plugin uses pre-compile-time calculations to identify log emitters in the source code, thus, no RegExp patterns required. Features" />
       <item value="Code highlighting based of log level: error, warn, info, etc. Intention to highlight columns (time, category, threads, stack frames) in log file editor. Folding of uninteresting events Hyperlinks of stack traces in log Navigation to source code that emit log events (F7). Go to next error action (Shift + F7) Extends selection Intention tp highlight distance between events (marks time as red) Advanced error stripe (heat map) Custom log format more info:" />
-      <item value="found" />
       <item value="fount" />
       <item value="find" />
       <item value="The {@code Void} class is an uninstantiable placeholder class to hold a * reference to the {@code Class} object representing the Java keyword * void." />
