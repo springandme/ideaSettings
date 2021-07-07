@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the identifier part of this signature. For methods this * will return the method name." />
+      <item value="Returns the fully-qualified name of the declaring type. This is * equivalent to calling getDeclaringType().getName(), but caches * the result for greater efficiency." />
+      <item value="Declaring" />
+      <item value="navigate" />
+      <item value="Navigate To Advised Methods" />
+      <item value="p&gt;Provides reflective access to both the state available at a join point and * static information about it. This information is available from the body * of advice using the special form &lt;code&gt;thisJoinPoint&lt;/code&gt;. The primary * use of this reflective information is for tracing and logging applications. * &lt;/p&gt;" />
       <item value="aspect" />
       <item value="Readable" />
       <item value="handle" />
@@ -45,17 +51,11 @@
       <item value="Variable 'running' is not updated inside loop" />
       <item value="More arguments provided (5) than placeholders specified (0)" />
       <item value="&gt;This form avoids superfluous string concatenation when the logger * is disabled for the INFO level. However, this variant incurs the hidden * (and relatively small) cost of creating an &lt;code&gt;Object[]&lt;/code&gt; before invoking the method, * even if this logger is disabled for INFO. The variants taking * {@link #info(String, Object) one} and {@link #info(String, Object, Object) two} * arguments exist solely in order to avoid this hidden cost.&lt;/p&gt;" />
-      <item value="Log a message at the INFO level according to the specified format * and arguments." />
-      <item value="生产者" />
-      <item value="endpoints" />
-      <item value="epoch" />
-      <item value="The znode will be deleted upon the client's disconnect." />
-      <item value="force" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="772" />
-        <entry key="ENGLISH" value="772" />
+        <entry key="CHINESE" value="774" />
+        <entry key="ENGLISH" value="775" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
