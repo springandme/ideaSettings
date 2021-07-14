@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="brain" />
       <item value="SonarLint: This block of commented-out lines of code should be removed. [+4 locations]" />
       <item value="found" />
       <item value="Returns the identifier part of this signature. For methods this * will return the method name." />
@@ -50,7 +51,6 @@
       <item value="Accumulator" />
       <item value="Unreachable statement" />
       <item value="Variable 'running' is not updated inside loop" />
-      <item value="More arguments provided (5) than placeholders specified (0)" />
     </histories>
     <option name="languageScores">
       <map>
