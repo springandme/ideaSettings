@@ -1,15 +1,15 @@
 <templateSet group="other">
-  <template name="logger" value="private static final Logger LOGGER = LoggerFactory.getLogger($CLASS_NAME$.class);" description="生成LOGGER" toReformat="false" toShortenFQNames="true">
+  <template name="log" value="private static final Logger LOGGER = LoggerFactory.getLogger($CLASS_NAME$.class);" description="生成LOGGER" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
   <template name="test" value="@Test&#10;public void test$VAR1$(){&#10;    $VAR2$    &#10;}" description="生成测试方法" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
 </templateSet>
