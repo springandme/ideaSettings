@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SonarLint: This block of commented-out lines of code should be removed. [+4 locations]" />
       <item value="found" />
       <item value="Returns the identifier part of this signature. For methods this * will return the method name." />
       <item value="Returns the fully-qualified name of the declaring type. This is * equivalent to calling getDeclaringType().getName(), but caches * the result for greater efficiency." />
@@ -50,11 +51,10 @@
       <item value="Unreachable statement" />
       <item value="Variable 'running' is not updated inside loop" />
       <item value="More arguments provided (5) than placeholders specified (0)" />
-      <item value="&gt;This form avoids superfluous string concatenation when the logger * is disabled for the INFO level. However, this variant incurs the hidden * (and relatively small) cost of creating an &lt;code&gt;Object[]&lt;/code&gt; before invoking the method, * even if this logger is disabled for INFO. The variants taking * {@link #info(String, Object) one} and {@link #info(String, Object, Object) two} * arguments exist solely in order to avoid this hidden cost.&lt;/p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="774" />
+        <entry key="CHINESE" value="775" />
         <entry key="ENGLISH" value="775" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
