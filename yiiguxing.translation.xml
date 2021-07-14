@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="persistence" />
       <item value="Generates an inner type, containing String constants containing the field name for each field. Alternatively, generates an inner enum with enum values matching each field name." />
+      <item value="chain" />
+      <item value="路径" />
+      <item value="Indicates that the persistence provider must assign * primary keys for the entity using a database identity column" />
+      <item value="persistence" />
       <item value="Generates implementations for the {@code equals} and {@code hashCode} methods inherited by all objects, based on relevant fields. * &lt;p&gt; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/EqualsAndHashCode&quot;&gt;the project lombok features page for &amp;#64;EqualsAndHashCode&lt;/a&gt;." />
       <item value="Specifies that the class is an entity. This annotation is applied to the * entity class." />
       <item value="您的账号已被锁定" />
@@ -48,14 +51,11 @@
       <item value="Method that can be used to specify serializer that will be * used to write JSON values matching Java null values * instead of default one (which simply writes JSON null)." />
       <item value="Accessor for the &quot;blueprint&quot; (or, factory) instance, from which instances * are created by calling {@link DefaultSerializerProvider#createInstance}. * Note that returned instance cannot be directly used as it is not properly * configured: to get a properly configured instance to call, use * {@link #getSerializerProviderInstance()} instead." />
       <item value="action" />
-      <item value="爱好" />
-      <item value="coordinate" />
-      <item value="coordinator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="779" />
-        <entry key="ENGLISH" value="779" />
+        <entry key="CHINESE" value="781" />
+        <entry key="ENGLISH" value="782" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
