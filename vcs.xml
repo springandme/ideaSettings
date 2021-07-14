@@ -50,6 +50,18 @@
           <option name="url" value="https://gitee.com/hliushi/springboot-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.iflytek.com/HY_bp/bp-usercenter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.iflytek.com" />
+          <option name="userName" value="llhuang10@iflytek.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.iflytek.com:HY_bp/bp-usercenter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
