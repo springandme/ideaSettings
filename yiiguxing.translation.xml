@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="array of property names to ignore" />
+      <item value="Defines size for batch loading of collections or lazy entities. For example... * &lt;blockquote&gt;&lt;pre&gt; * &amp;#064;Entity * &amp;#064;BatchSize(size=100) * class Product { * ... * } * &lt;/pre&gt;&lt;/blockquote&gt; * will initialize up to 100 lazy Product entity proxies at a time. * * &lt;blockquote&gt;&lt;pre&gt; * &amp;#064;OneToMany * &amp;#064;BatchSize(size = 5) / * Set&lt;Product&gt; getProducts() { ... }; * &lt;/pre&gt;&lt;/blockquote&gt; * will initialize up to 5 lazy collections of products at a time *" />
+      <item value="Defines size for batch loading of collections or lazy entities. For example..." />
+      <item value="inverse" />
       <item value="composite" />
       <item value="anonymous" />
       <item value="valid" />
@@ -47,15 +51,11 @@
       <item value="Facade" />
       <item value="Raw use of parameterized class 'List'" />
       <item value="操作成功" />
-      <item value="操作" />
-      <item value="FastJsonConfig' is already defined in this compilation unit" />
-      <item value="converter" />
-      <item value="Could not write JSON: Can not write a string, expecting field name (context: Object); nested exception is com.fasterxml.jackson.core.JsonGenerationException: Can not write a string, expecting field name (context: Object)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="787" />
-        <entry key="ENGLISH" value="787" />
+        <entry key="CHINESE" value="790" />
+        <entry key="ENGLISH" value="791" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
