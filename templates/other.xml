@@ -5,7 +5,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="test" value="@Test&#10;public void test$VAR1$(){&#10;    $VAR2$    &#10;}" description="生成测试方法" toReformat="false" toShortenFQNames="true">
+  <template name="test" value="@Test&#10;public void test$VAR1$() {&#10;    $VAR2$    &#10;}" description="生成测试方法" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
