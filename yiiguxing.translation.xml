@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="valid" />
+      <item value="The annotated element must not be {@code null} nor empty. Supported types are:" />
       <item value="Waiting for changelog lock" />
       <item value="Where clause to add to the element Entity or target entity of a collection. The clause is written in SQL. * A common use case here is for soft-deletes." />
       <item value="transient" />
@@ -49,13 +51,11 @@
       <item value="Could not write JSON: Can not write a string, expecting field name (context: Object); nested exception is com.fasterxml.jackson.core.JsonGenerationException: Can not write a string, expecting field name (context: Object)" />
       <item value="* Method for outputting a String value. Depending on context * this means either array element, (object) field value or * a stand alone String; but in all cases, String will be * surrounded in double quotes, and contents will be properly * escaped as required by JSON specification." />
       <item value="Method that can be used to specify serializer to use for serializing * all non-null JSON property names, unless more specific key serializer * is found (i.e. if not custom key serializer has been registered for * Java type)." />
-      <item value="which gets called once per each" />
-      <item value="Note that you can get finer control over serializer to use by overriding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="784" />
-        <entry key="ENGLISH" value="785" />
+        <entry key="CHINESE" value="786" />
+        <entry key="ENGLISH" value="787" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
