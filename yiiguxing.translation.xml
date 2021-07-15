@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not autowire. No beans of 'RedisTemplate&lt;String, Object&gt;' type found." />
+      <item value="operate" />
+      <item value="操作" />
+      <item value="Expire" />
+      <item value="expire make a mistake" />
       <item value="Increment an integer value stored as string value under {@code key} by {@code delta}." />
       <item value="MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error." />
       <item value="Options to be used for with {@literal SCAN} command." />
@@ -46,16 +51,11 @@
       <item value="aspect" />
       <item value="Readable" />
       <item value="handle" />
-      <item value="Catdea Plugin intended to match Android Logcat log entries with the source code that emit these entries, thereby providing navigation and interactivity, in order to simplify debugging or reverse engineering. Plugin uses pre-compile-time calculations to identify log emitters in the source code, thus, no RegExp patterns required. Features" />
-      <item value="Code highlighting based of log level: error, warn, info, etc. Intention to highlight columns (time, category, threads, stack frames) in log file editor. Folding of uninteresting events Hyperlinks of stack traces in log Navigation to source code that emit log events (F7). Go to next error action (Shift + F7) Extends selection Intention tp highlight distance between events (marks time as red) Advanced error stripe (heat map) Custom log format more info:" />
-      <item value="fount" />
-      <item value="find" />
-      <item value="The {@code Void} class is an uninstantiable placeholder class to hold a * reference to the {@code Class} object representing the Java keyword * void." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="803" />
-        <entry key="ENGLISH" value="804" />
+        <entry key="CHINESE" value="807" />
+        <entry key="ENGLISH" value="807" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
