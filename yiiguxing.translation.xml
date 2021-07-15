@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constant" />
       <item value="Could not autowire. No beans of 'RedisTemplate&lt;String, Object&gt;' type found." />
       <item value="operate" />
       <item value="操作" />
@@ -50,12 +51,11 @@
       <item value="p&gt;Provides reflective access to both the state available at a join point and * static information about it. This information is available from the body * of advice using the special form &lt;code&gt;thisJoinPoint&lt;/code&gt;. The primary * use of this reflective information is for tracing and logging applications. * &lt;/p&gt;" />
       <item value="aspect" />
       <item value="Readable" />
-      <item value="handle" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="807" />
-        <entry key="ENGLISH" value="807" />
+        <entry key="ENGLISH" value="808" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
