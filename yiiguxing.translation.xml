@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Increment an integer value stored as string value under {@code key} by {@code delta}." />
+      <item value="Options to be used for with {@literal SCAN} command." />
+      <item value="Executes the given action within a Redis connection. Application exceptions thrown by the action object get * propagated to the caller (can only be unchecked) whenever possible. Redis exceptions are transformed into * appropriate DAO ones. Allows for returning a result object, that is a domain object or a collection of domain * objects. Performs automatic serialization/deserialization for the given objects to and from binary data suitable * for the Redis storage. Note: Callback code is not supposed to handle transactions itself! Use an appropriate * transaction manager. Generally, callback code must not touch any Connection lifecycle methods, like close, to let * the template do its work." />
+      <item value="Executes the given action object within a connection, which can be exposed or not." />
+      <item value="Decodes a Base64 String into octets. * &lt;p&gt; * &lt;b&gt;Note:&lt;/b&gt; this method seamlessly handles data encoded in URL-safe or normal mode. * &lt;/p&gt;" />
+      <item value="ALGORITHM" />
+      <item value="decrypt" />
+      <item value="encrypt" />
       <item value="SonarLint: Replace this use of System.out or System.err by a logger" />
       <item value="Autowired members must be defined in valid Spring bean (@Component|@Service|...) " />
       <item value="provision" />
@@ -43,19 +51,11 @@
       <item value="find" />
       <item value="The {@code Void} class is an uninstantiable placeholder class to hold a * reference to the {@code Class} object representing the Java keyword * void." />
       <item value="Annotation-specified bean name 'swagger2Controller' for bean class [springfox.documentation.swagger2.web.Swagger2Controller] conflicts with existing, non-compatible bean definition of same name and class [com.hliushi.learn.controller.Swagger2Controller]" />
-      <item value="Predicate that evaluates the supplied ant pattern" />
-      <item value="Any path satisfies this condition" />
-      <item value="A builder which is intended to be the primary interface into the swagger-springmvc framework. * Provides sensible defaults and convenience methods for configuration." />
-      <item value="chunked" />
-      <item value="Unsupported Media Type" />
-      <item value="Required request body is missing: public com.hliushi.learn.response.JsonResult&lt;java.lang.String&gt; com.hliushi.learn.controller.MVCAnnotationController.testRequestBody(java.lang.String)" />
-      <item value="mentor" />
-      <item value="Required String parameter 'password' is not present" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="793" />
-        <entry key="ENGLISH" value="793" />
+        <entry key="CHINESE" value="801" />
+        <entry key="ENGLISH" value="802" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
