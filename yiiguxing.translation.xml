@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Annotation for externalized configuration. Add this to a class definition or a * {@code @Bean} method in a {@code @Configuration} class if you want to bind and validate * some external Properties (e.g. from a .properties file)." />
+      <item value="border" />
+      <item value="Create an image which will have written a distorted text." />
+      <item value="Responsible for creating captcha image with a text drawn on it." />
+      <item value="kaptcha" />
+      <item value="Kaptcha" />
+      <item value="Default {@link Producer} implementation which draws a captcha image using * {@link WordRenderer}, {@link GimpyEngine}, {@link BackgroundProducer}. * Text creation uses {@link TextProducer}." />
+      <item value="Forbidden" />
+      <item value="Public constant media type for {@code application/problem+json}." />
+      <item value="A String equivalent of {@link MediaType#APPLICATION_PROBLEM_JSON_UTF8}." />
+      <item value="PROBLEM" />
+      <item value="extract" />
+      <item value="Enables Spring's annotation-driven transaction management capability, similar to * the support found in Spring's {@code &lt;tx:*&gt;} XML namespace. To be used on * {@link org.springframework.context.annotation.Configuration @Configuration} * classes as follows:" />
+      <item value="Annotation to enable JPA repositories. Will scan the package of the annotated configuration class for Spring Data * repositories by default." />
+      <item value="criteria" />
+      <item value="PORTAL" />
+      <item value="release" />
+      <item value="Aborted" />
+      <item value="Ensures that the entity content is fully consumed and the content stream, if exists, * is closed." />
       <item value="A {@code Closeable} is a source or destination of data that can be closed. * The close method is invoked to release resources that the object is * holding (such as open files)." />
       <item value="This interface represents only the most basic contract for HTTP request * execution. It imposes no restrictions or particular details on the request * execution process and leaves the specifics of state management, * authentication and redirect handling up to individual implementations." />
       <item value="Constant" />
@@ -32,30 +51,11 @@
       <item value="The annotated element must not be {@code null} nor empty. Supported types are:" />
       <item value="Waiting for changelog lock" />
       <item value="Where clause to add to the element Entity or target entity of a collection. The clause is written in SQL. * A common use case here is for soft-deletes." />
-      <item value="transient" />
-      <item value="Generates an inner type, containing String constants containing the field name for each field. Alternatively, generates an inner enum with enum values matching each field name." />
-      <item value="chain" />
-      <item value="路径" />
-      <item value="Indicates that the persistence provider must assign * primary keys for the entity using a database identity column" />
-      <item value="persistence" />
-      <item value="Generates implementations for the {@code equals} and {@code hashCode} methods inherited by all objects, based on relevant fields. * &lt;p&gt; * Complete documentation is found at &lt;a href=&quot;https://projectlombok.org/features/EqualsAndHashCode&quot;&gt;the project lombok features page for &amp;#64;EqualsAndHashCode&lt;/a&gt;." />
-      <item value="Specifies that the class is an entity. This annotation is applied to the * entity class." />
-      <item value="您的账号已被锁定" />
-      <item value="EXPIRE" />
-      <item value="brain" />
-      <item value="SonarLint: This block of commented-out lines of code should be removed. [+4 locations]" />
-      <item value="found" />
-      <item value="Returns the identifier part of this signature. For methods this * will return the method name." />
-      <item value="Returns the fully-qualified name of the declaring type. This is * equivalent to calling getDeclaringType().getName(), but caches * the result for greater efficiency." />
-      <item value="Declaring" />
-      <item value="navigate" />
-      <item value="Navigate To Advised Methods" />
-      <item value="p&gt;Provides reflective access to both the state available at a join point and * static information about it. This information is available from the body * of advice using the special form &lt;code&gt;thisJoinPoint&lt;/code&gt;. The primary * use of this reflective information is for tracing and logging applications. * &lt;/p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="810" />
-        <entry key="ENGLISH" value="811" />
+        <entry key="CHINESE" value="831" />
+        <entry key="ENGLISH" value="832" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
