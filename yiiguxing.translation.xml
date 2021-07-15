@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="anonymous" />
       <item value="valid" />
       <item value="The annotated element must not be {@code null} nor empty. Supported types are:" />
       <item value="Waiting for changelog lock" />
@@ -50,11 +51,10 @@
       <item value="converter" />
       <item value="Could not write JSON: Can not write a string, expecting field name (context: Object); nested exception is com.fasterxml.jackson.core.JsonGenerationException: Can not write a string, expecting field name (context: Object)" />
       <item value="* Method for outputting a String value. Depending on context * this means either array element, (object) field value or * a stand alone String; but in all cases, String will be * surrounded in double quotes, and contents will be properly * escaped as required by JSON specification." />
-      <item value="Method that can be used to specify serializer to use for serializing * all non-null JSON property names, unless more specific key serializer * is found (i.e. if not custom key serializer has been registered for * Java type)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="786" />
+        <entry key="CHINESE" value="787" />
         <entry key="ENGLISH" value="787" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
