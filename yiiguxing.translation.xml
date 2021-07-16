@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="(Optional) The catalog of the table. Defaults to the default catalog." />
+      <item value="The simplest type of mapping to a database column. The Basic annotation can be applied to a persistent property or instance variable of any of the following types: Java primitive types, wrappers of the primitive types, String, java.math.BigInteger, java.math.BigDecimal, java.util.Date, java.util.Calendar, java.sql.Date, java.sql.Time, java.sql.Timestamp, byte[], Byte[], char[], Character[], enums, and any other type that implements java.io.Serializable. The use of the Basic annotation is optional for persistent fields and properties of these types. If the Basic annotation is not specified for such a field or property, the default values of the Basic annotation will apply." />
       <item value="(Optional) The name of the primary key generator to use as specified in the SequenceGenerator or TableGenerator annotation. Defaults to the id generator supplied by persistence provider." />
       <item value="Register OpenEntityManagerInViewInterceptor. Binds a JPA EntityManager to the thread for the entire processing of the request" />
       <item value="Error executing DDL via JDBC Statement" />
@@ -49,8 +51,6 @@
       <item value="operate" />
       <item value="操作" />
       <item value="Expire" />
-      <item value="expire make a mistake" />
-      <item value="Increment an integer value stored as string value under {@code key} by {@code delta}." />
     </histories>
     <option name="languageScores">
       <map>
