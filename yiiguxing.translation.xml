@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Internal" />
+      <item value="Could not autowire. There is more than one bean of 'UserDetailsService' type" />
+      <item value="This is ultimately a JSON map and any values can be added to it, but JWT standard names are provided as type-safe getters and setters for convenience. Because this interface extends Map&amp;lt;String, Object&amp;gt;, if you would like to add your own properties, you simply use map methods, for example" />
       <item value="patch" />
       <item value="major" />
       <item value="major\" />
@@ -48,14 +51,11 @@
       <item value="ALGORITHM" />
       <item value="decrypt" />
       <item value="encrypt" />
-      <item value="SonarLint: Replace this use of System.out or System.err by a logger" />
-      <item value="Autowired members must be defined in valid Spring bean (@Component|@Service|...) " />
-      <item value="provision" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="833" />
-        <entry key="ENGLISH" value="833" />
+        <entry key="ENGLISH" value="834" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
