@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="There is one change and one conflict left unprocessed. Save changes and mark the conflict resolved anyway?" />
+      <item value="Vertical alignment in cells" />
       <item value="URI is not registered (Settings | Languages &amp; Frameworks | Schemas and DTDs" />
       <item value="Learn basic shortcuts and essential features interactively - right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, and open with the Help | IDE Features Trainer menu item" />
       <item value="Annotation for externalized configuration. Add this to a class definition or a * {@code @Bean} method in a {@code @Configuration} class if you want to bind and validate * some external Properties (e.g. from a .properties file)." />
@@ -49,8 +51,6 @@
       <item value="inverse" />
       <item value="composite" />
       <item value="anonymous" />
-      <item value="valid" />
-      <item value="The annotated element must not be {@code null} nor empty. Supported types are:" />
     </histories>
     <option name="languageScores">
       <map>
