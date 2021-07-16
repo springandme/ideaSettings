@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The string has to be a well-formed email address. Exact semantics of what makes up a valid email address are left to Bean Validation providers. Accepts CharSequence." />
+      <item value="The annotated element size must be between the specified boundaries (included)." />
       <item value="数据校验" />
       <item value="validation" />
       <item value="Internal" />
@@ -49,12 +51,10 @@
       <item value="Options to be used for with {@literal SCAN} command." />
       <item value="Executes the given action within a Redis connection. Application exceptions thrown by the action object get * propagated to the caller (can only be unchecked) whenever possible. Redis exceptions are transformed into * appropriate DAO ones. Allows for returning a result object, that is a domain object or a collection of domain * objects. Performs automatic serialization/deserialization for the given objects to and from binary data suitable * for the Redis storage. Note: Callback code is not supposed to handle transactions itself! Use an appropriate * transaction manager. Generally, callback code must not touch any Connection lifecycle methods, like close, to let * the template do its work." />
       <item value="Executes the given action object within a connection, which can be exposed or not." />
-      <item value="Decodes a Base64 String into octets. * &lt;p&gt; * &lt;b&gt;Note:&lt;/b&gt; this method seamlessly handles data encoded in URL-safe or normal mode. * &lt;/p&gt;" />
-      <item value="ALGORITHM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="834" />
+        <entry key="CHINESE" value="835" />
         <entry key="ENGLISH" value="835" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
