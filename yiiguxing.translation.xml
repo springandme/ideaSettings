@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error executing DDL via JDBC Statement" />
       <item value="Constraint" />
       <item value="The string has to be a well-formed email address. Exact semantics of what makes up a valid email address are left to Bean Validation providers. Accepts CharSequence." />
       <item value="The annotated element size must be between the specified boundaries (included)." />
@@ -50,7 +51,6 @@
       <item value="Increment an integer value stored as string value under {@code key} by {@code delta}." />
       <item value="MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error." />
       <item value="Options to be used for with {@literal SCAN} command." />
-      <item value="Executes the given action within a Redis connection. Application exceptions thrown by the action object get * propagated to the caller (can only be unchecked) whenever possible. Redis exceptions are transformed into * appropriate DAO ones. Allows for returning a result object, that is a domain object or a collection of domain * objects. Performs automatic serialization/deserialization for the given objects to and from binary data suitable * for the Redis storage. Note: Callback code is not supposed to handle transactions itself! Use an appropriate * transaction manager. Generally, callback code must not touch any Connection lifecycle methods, like close, to let * the template do its work." />
     </histories>
     <option name="languageScores">
       <map>
