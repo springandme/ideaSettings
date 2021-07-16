@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Learn basic shortcuts and essential features interactively - right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, and open with the Help | IDE Features Trainer menu item" />
       <item value="Annotation for externalized configuration. Add this to a class definition or a * {@code @Bean} method in a {@code @Configuration} class if you want to bind and validate * some external Properties (e.g. from a .properties file)." />
       <item value="border" />
       <item value="Create an image which will have written a distorted text." />
@@ -50,11 +51,10 @@
       <item value="valid" />
       <item value="The annotated element must not be {@code null} nor empty. Supported types are:" />
       <item value="Waiting for changelog lock" />
-      <item value="Where clause to add to the element Entity or target entity of a collection. The clause is written in SQL. * A common use case here is for soft-deletes." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="831" />
+        <entry key="CHINESE" value="832" />
         <entry key="ENGLISH" value="832" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
