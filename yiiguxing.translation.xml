@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Code analysis can't be performed while IDEA updates the indices in background. You can commit the changes without running inspections, or you can wait until indices are built." />
+      <item value="specified" />
       <item value="ManyToOne" />
       <item value="Annotation to exclude repository interfaces from being picked up and thus in consequence getting an instance being created. This will typically be used when providing an extended base interface for all repositories in combination with a custom repository base class to implement methods declared in that intermediate interface. In this case you typically derive your concrete repository interfaces from the intermediate one but don't want to create a Spring bean for the intermediate interface" />
       <item value="(Optional) Whether the association should be lazily loaded or must be eagerly fetched. The EAGER strategy is a requirement on the persistence provider runtime that the associated entities must be eagerly fetched. The LAZY strategy is a hint to the persistence provider runtime." />
@@ -49,8 +51,6 @@
       <item value="PORTAL" />
       <item value="release" />
       <item value="Aborted" />
-      <item value="Ensures that the entity content is fully consumed and the content stream, if exists, * is closed." />
-      <item value="A {@code Closeable} is a source or destination of data that can be closed. * The close method is invoked to release resources that the object is * holding (such as open files)." />
     </histories>
     <option name="languageScores">
       <map>
