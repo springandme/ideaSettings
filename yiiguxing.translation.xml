@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="(Optional) Whether the database column is nullable." />
       <item value="// Cannot add or update a child row: a foreign key constraint fails (`jpa`.`cst_linkman`, CONSTRAINT `FK_cst_linkman_lkm_cust_id` FOREIGN KEY (`lkm_cust_id`) REFERENCES `cst_customer` (`cust_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)" />
       <item value="he simplest type of mapping to a database column. The Basic annotation can be applied to a persistent property or instance variable of any of the following types: Java primitive types, wrappers of the primitive types, String, java.math.BigInteger, java.math.BigDecimal, java.util.Date, java.util.Calendar, java.sql.Date, java.sql.Time, java.sql.Timestamp, byte[], Byte[], char[], Character[], enums, and any other type that implements java.io.Serializable. The use of the Basic annotation is optional for persistent fields and properties of these types. If the Basic annotation is not specified for such a field or property, the default values of the Basic annotation will apply." />
       <item value="nested exception is org.hibernate.MappingException: Repeated column in mapping for entity: com.hliushi.demo.entity.CstLinkman column: lkm_cust_id (should be mapped with insert=&quot;false&quot; update=&quot;false&quot;)" />
@@ -50,12 +51,11 @@
       <item value="Kaptcha" />
       <item value="Default {@link Producer} implementation which draws a captcha image using * {@link WordRenderer}, {@link GimpyEngine}, {@link BackgroundProducer}. * Text creation uses {@link TextProducer}." />
       <item value="Forbidden" />
-      <item value="Public constant media type for {@code application/problem+json}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="838" />
-        <entry key="ENGLISH" value="839" />
+        <entry key="CHINESE" value="839" />
+        <entry key="ENGLISH" value="840" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
