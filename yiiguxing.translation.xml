@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Criterion" />
+      <item value="A boolean flag that can be set to true if the transaction is effectively read-only, allowing for corresponding optimizations at runtime. Defaults to false. This just serves as a hint for the actual transaction subsystem; it will not necessarily cause failure of write access attempts. A transaction manager which cannot interpret the read-only hint will not throw an exception when asked for a read-only transaction but rather silently ignore the hint." />
+      <item value="vm" />
+      <item value="参数" />
+      <item value="访问成功" />
       <item value="Annotation to set defaults when injecting a org.springframework.data.domain.Pageable into a controller method. Instead of configuring sort() and direction() you can also use SortDefault or SortDefault.SortDefaults" />
       <item value="Obtains the current date-time from the system clock in the default time-zone. This will query the system clock in the default time-zone to obtain the current date-time. Using this method will prevent the ability to use an alternate clock for testing because the clock is hard-coded." />
       <item value="Check whether the given String contains actual text. More specifically, this method returns true if the String is not null, its length is greater than 0, and it contains at least one non-whitespace character." />
@@ -46,16 +51,11 @@
       <item value="(Optional) The name of the primary key generator to use as specified in the SequenceGenerator or TableGenerator annotation. Defaults to the id generator supplied by persistence provider." />
       <item value="Register OpenEntityManagerInViewInterceptor. Binds a JPA EntityManager to the thread for the entire processing of the request" />
       <item value="Error executing DDL via JDBC Statement" />
-      <item value="Constraint" />
-      <item value="The string has to be a well-formed email address. Exact semantics of what makes up a valid email address are left to Bean Validation providers. Accepts CharSequence." />
-      <item value="The annotated element size must be between the specified boundaries (included)." />
-      <item value="数据校验" />
-      <item value="validation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="849" />
-        <entry key="ENGLISH" value="848" />
+        <entry key="CHINESE" value="851" />
+        <entry key="ENGLISH" value="851" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
@@ -73,5 +73,6 @@
     <option name="ignoreRegExp" value="" />
     <option name="phoneticFontFamily" value="Consolas" />
     <option name="primaryFontFamily" value="Consolas" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
