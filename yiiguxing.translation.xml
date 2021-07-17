@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="failed to lazily initialize a collection of role: com.hliushi.demo.entity.CstCustomer.linkmanSet, could not initialize proxy - no Session" />
       <item value="test Add No Cascade" />
       <item value="test Add Cascade" />
       <item value="Cascade Type" />
@@ -50,12 +51,11 @@
       <item value="MINOR" />
       <item value="terminated" />
       <item value="There is one change and one conflict left unprocessed. Save changes and mark the conflict resolved anyway?" />
-      <item value="Vertical alignment in cells" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="846" />
-        <entry key="ENGLISH" value="847" />
+        <entry key="CHINESE" value="847" />
+        <entry key="ENGLISH" value="848" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
