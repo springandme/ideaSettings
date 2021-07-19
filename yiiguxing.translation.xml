@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Base64-encoded key bytes may only be specified for HMAC signatures. If using RSA or Elliptic Curve, use the signWith(SignatureAlgorithm, Key) method instead" />
+      <item value="claim" />
       <item value="'tokenStore()' has private access in 'org.springframework.security.oauth2.config.annotation.web.configurers.AuthorizationServerEndpointsConfigurer'" />
       <item value="Principal" />
       <item value="Duplicated string literals make the process of refactoring error-prone, since you must be sure to update all occurrences. On the other hand, constants can be referenced from many places, but only need to be updated in a single place." />
@@ -49,13 +51,11 @@
       <item value="nested exception is org.hibernate.MappingException: Repeated column in mapping for entity: com.hliushi.demo.entity.CstLinkman column: lkm_cust_id (should be mapped with insert=&quot;false&quot; update=&quot;false&quot;)" />
       <item value="(Optional) The column length. (Applies only if a string-valued column is used.)" />
       <item value="(Optional) Whether the database column is nullable" />
-      <item value="(should be mapped with insert=&quot;false&quot; update=&quot;false&quot;" />
-      <item value="Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Repeated column in mapping for entity: com.hliushi.demo.entity.CstLinkman column: lkm_cust_id (should be mapped with insert=&quot;false&quot; update=&quot;false&quot;)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="857" />
-        <entry key="ENGLISH" value="857" />
+        <entry key="ENGLISH" value="858" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
