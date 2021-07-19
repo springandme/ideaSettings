@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Principal" />
       <item value="Duplicated string literals make the process of refactoring error-prone, since you must be sure to update all occurrences. On the other hand, constants can be referenced from many places, but only need to be updated in a single place." />
       <item value="unsupported response type" />
       <item value="SonarLint: Replace this persistent entity with a simple POJO or DTO object." />
@@ -50,12 +51,11 @@
       <item value="(should be mapped with insert=&quot;false&quot; update=&quot;false&quot;" />
       <item value="Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Repeated column in mapping for entity: com.hliushi.demo.entity.CstLinkman column: lkm_cust_id (should be mapped with insert=&quot;false&quot; update=&quot;false&quot;)" />
       <item value="Whether to initialize the schema on startup" />
-      <item value="'Basic' attribute type should not be a container" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="856" />
-        <entry key="ENGLISH" value="856" />
+        <entry key="ENGLISH" value="857" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
