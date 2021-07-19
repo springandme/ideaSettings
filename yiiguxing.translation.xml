@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SonarLint: Replace this persistent entity with a simple POJO or DTO object." />
       <item value="User must be authenticated with Spring Security before authorization can be completed." />
       <item value="例会" />
       <item value="authorize" />
@@ -50,11 +51,10 @@
       <item value="'Basic' attribute type should not be a container" />
       <item value="Code analysis can't be performed while IDEA updates the indices in background. You can commit the changes without running inspections, or you can wait until indices are built." />
       <item value="specified" />
-      <item value="ManyToOne" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="854" />
+        <entry key="CHINESE" value="855" />
         <entry key="ENGLISH" value="855" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
