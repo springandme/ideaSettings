@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SonarLint: Add at least one assertion to this test case." />
       <item value="Base64-encoded key bytes may only be specified for HMAC signatures. If using RSA or Elliptic Curve, use the signWith(SignatureAlgorithm, Key) method instead" />
       <item value="claim" />
       <item value="'tokenStore()' has private access in 'org.springframework.security.oauth2.config.annotation.web.configurers.AuthorizationServerEndpointsConfigurer'" />
@@ -50,11 +51,10 @@
       <item value="he simplest type of mapping to a database column. The Basic annotation can be applied to a persistent property or instance variable of any of the following types: Java primitive types, wrappers of the primitive types, String, java.math.BigInteger, java.math.BigDecimal, java.util.Date, java.util.Calendar, java.sql.Date, java.sql.Time, java.sql.Timestamp, byte[], Byte[], char[], Character[], enums, and any other type that implements java.io.Serializable. The use of the Basic annotation is optional for persistent fields and properties of these types. If the Basic annotation is not specified for such a field or property, the default values of the Basic annotation will apply." />
       <item value="nested exception is org.hibernate.MappingException: Repeated column in mapping for entity: com.hliushi.demo.entity.CstLinkman column: lkm_cust_id (should be mapped with insert=&quot;false&quot; update=&quot;false&quot;)" />
       <item value="(Optional) The column length. (Applies only if a string-valued column is used.)" />
-      <item value="(Optional) Whether the database column is nullable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="857" />
+        <entry key="CHINESE" value="858" />
         <entry key="ENGLISH" value="858" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
