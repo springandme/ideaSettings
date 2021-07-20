@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not read from remote repository. Please make sure you have the correct access rights and the repository exists." />
+      <item value="Generate Java and Kotlin POJO files from JSON: GSON, FastJSON, AutoValue (GSON), Logan Square, Jackson, Lombok, empty annotations template. Supports: primitive types, multiple inner JSONArrays. key words: JsonToPojo, Json2Pojo, Kotlin, GSON, FastJSON, AutoValue, Jackson, LoganSquare, Moshi, Parcelable, Lombok" />
       <item value="feature" />
       <item value="feat" />
       <item value="fix" />
@@ -49,8 +51,6 @@
       <item value="validate" />
       <item value="wrong column type encountered" />
       <item value="Optional) The operations that must be cascaded to the target of the association. Defaults to no operations being cascaded. When the target collection is a java.util.Map, the cascade element applies to the map value." />
-      <item value="Defines the set of cascadable operations that are propagated to the associated entity. The value cascade=ALL is equivalent to cascade={PERSIST, MERGE, REMOVE, REFRESH, DETACH}." />
-      <item value="Cascade persist operation" />
     </histories>
     <option name="languageScores">
       <map>
