@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="close Channel" />
+      <item value="Geo Lite" />
       <item value="Frequent" />
       <item value="Declared" />
       <item value="NON SET FIELD" />
@@ -49,13 +51,11 @@
       <item value="Defines size for batch loading of collections or lazy entities. For example.." />
       <item value="Annotation used to indicate that associated property is part of two-way linkage between fields; and that its role is &quot;child&quot; (or &quot;back&quot;) link. Value type of the property must be a bean: it can not be a Collection, Map, Array or enumeration. Linkage is handled such that the property annotated with this annotation is not serialized; and during deserialization, its value is set to instance that has the &quot;managed&quot; (forward) link." />
       <item value="failed to lazily initialize a collection of role: com.hliushi.demo.entity.CstCustomer.linkmanSet, could not initialize proxy - no Session" />
-      <item value="test Add No Cascade" />
-      <item value="test Add Cascade" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="865" />
-        <entry key="ENGLISH" value="866" />
+        <entry key="CHINESE" value="867" />
+        <entry key="ENGLISH" value="868" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
