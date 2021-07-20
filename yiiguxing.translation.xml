@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Frequent" />
       <item value="Declared" />
       <item value="NON SET FIELD" />
       <item value="closeChannel: close the connection to remote address[172.31.129.50:9876] result: true" />
@@ -50,12 +51,11 @@
       <item value="failed to lazily initialize a collection of role: com.hliushi.demo.entity.CstCustomer.linkmanSet, could not initialize proxy - no Session" />
       <item value="test Add No Cascade" />
       <item value="test Add Cascade" />
-      <item value="Cascade Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="864" />
-        <entry key="ENGLISH" value="865" />
+        <entry key="CHINESE" value="865" />
+        <entry key="ENGLISH" value="866" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
