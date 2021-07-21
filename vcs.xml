@@ -90,6 +90,10 @@
           <option name="url" value="https://gitclone.com/github.com/apache/rocketmq-externals.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/dromara/sa-token.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\code" />
