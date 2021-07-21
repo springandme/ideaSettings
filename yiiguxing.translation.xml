@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="字典" />
+      <item value="儿童" />
+      <item value="脑科" />
+      <item value="脑" />
+      <item value="审计" />
+      <item value="日志" />
+      <item value="biims" />
       <item value="Abstract Auditing Entity" />
       <item value="snowflake" />
       <item value="flake" />
@@ -44,18 +51,11 @@
       <item value="vm" />
       <item value="参数" />
       <item value="访问成功" />
-      <item value="Annotation to set defaults when injecting a org.springframework.data.domain.Pageable into a controller method. Instead of configuring sort() and direction() you can also use SortDefault or SortDefault.SortDefaults" />
-      <item value="Obtains the current date-time from the system clock in the default time-zone. This will query the system clock in the default time-zone to obtain the current date-time. Using this method will prevent the ability to use an alternate clock for testing because the clock is hard-coded." />
-      <item value="Check whether the given String contains actual text. More specifically, this method returns true if the String is not null, its length is greater than 0, and it contains at least one non-whitespace character." />
-      <item value="Encode the raw password. Generally, a good encoding algorithm applies a SHA-1 or greater hash combined with an 8-byte or greater randomly generated salt." />
-      <item value="Verify the encoded password obtained from storage matches the submitted raw password after it too is encoded. Returns true if the passwords match, false if they do not. The stored password itself is never decoded." />
-      <item value="Return the contained value, if present, otherwise throw an exception to be created by the provided supplier." />
-      <item value="BI audit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="869" />
-        <entry key="ENGLISH" value="870" />
+        <entry key="CHINESE" value="870" />
+        <entry key="ENGLISH" value="871" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
