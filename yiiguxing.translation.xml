@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="static&quot; base class members should not be accessed via derived types" />
+      <item value="Use static access with &quot;com.alibaba.fastjson.JSON&quot; for &quot;parseObject&quot;." />
       <item value="addr is of illegal length" />
       <item value="SonarLint: Define and throw a dedicated exception instead of using a generic one" />
       <item value="xample must not be null!" />
@@ -49,12 +51,10 @@
       <item value="unsupported response type" />
       <item value="SonarLint: Replace this persistent entity with a simple POJO or DTO object." />
       <item value="User must be authenticated with Spring Security before authorization can be completed." />
-      <item value="例会" />
-      <item value="authorize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="880" />
+        <entry key="CHINESE" value="881" />
         <entry key="ENGLISH" value="881" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
