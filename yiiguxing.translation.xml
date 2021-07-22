@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="plain" />
+      <item value="boundary" />
+      <item value="&lt;calculated when request is sent&gt;" />
       <item value="The value type from DB is illegal, for the enum class is '{}' and the current value is '{}'" />
       <item value="Learn basic shortcuts and essential features interactively - right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, and open with the Help | IDE Features Trainer menu item." />
       <item value="Illegal forward reference" />
@@ -48,13 +51,10 @@
       <item value="feat" />
       <item value="fix" />
       <item value="captcha" />
-      <item value="Authorization" />
-      <item value="delegates" />
-      <item value="Enhancer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="882" />
+        <entry key="CHINESE" value="883" />
         <entry key="ENGLISH" value="883" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
