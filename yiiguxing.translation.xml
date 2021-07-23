@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Eeg" />
       <item value="SNAPSHOT" />
       <item value="No corresponding experimental paradigm" />
       <item value="internationalization" />
@@ -50,11 +51,10 @@
       <item value="snow" />
       <item value="No operations allowed after connection closed." />
       <item value="close Channel" />
-      <item value="Geo Lite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="890" />
+        <entry key="CHINESE" value="891" />
         <entry key="ENGLISH" value="891" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -65,6 +65,7 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="JAPANESE" value="10" />
         <entry key="SWEDISH" value="2" />
+        <entry key="SOMALI" value="1" />
         <entry key="WELSH" value="3" />
       </map>
     </option>
