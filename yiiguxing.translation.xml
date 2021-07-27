@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986" />
       <item value="这个文件成功写入到response" />
       <item value="系统找不到指定的文件" />
       <item value="生成" />
@@ -50,12 +51,11 @@
       <item value="refactor" />
       <item value="字典" />
       <item value="儿童" />
-      <item value="脑科" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="893" />
-        <entry key="ENGLISH" value="894" />
+        <entry key="CHINESE" value="894" />
+        <entry key="ENGLISH" value="895" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
