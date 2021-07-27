@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SonarLint: Extract this nested try block into a separate method. [+1 location]" />
+      <item value="SonarLint: A &quot;NullPointerException&quot; could be thrown; &quot;conn&quot; is nullable here. [+2 flows]" />
+      <item value="SonarLint: Use try-with-resources or close this &quot;FileOutputStream&quot; in a &quot;finally&quot; clause" />
       <item value="Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986" />
       <item value="这个文件成功写入到response" />
       <item value="系统找不到指定的文件" />
@@ -48,13 +51,10 @@
       <item value="Failed to create query for method public abstract java.lang.Long com.hliushi.demo.common.repository.BpJpaRepository.sum(com.hliushi.demo.common.repository.Criteria,java.lang.String)! No property sum found for type CityDictionary!" />
       <item value="比较" />
       <item value="o property sum found for type CityDictionary!" />
-      <item value="refactor" />
-      <item value="字典" />
-      <item value="儿童" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="894" />
+        <entry key="CHINESE" value="895" />
         <entry key="ENGLISH" value="895" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
