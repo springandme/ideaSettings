@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="师范大学" />
+      <item value="normal school" />
+      <item value="normal " />
+      <item value="师范" />
       <item value="SonarLint: Extract this nested try block into a separate method. [+1 location]" />
       <item value="SonarLint: A &quot;NullPointerException&quot; could be thrown; &quot;conn&quot; is nullable here. [+2 flows]" />
       <item value="SonarLint: Use try-with-resources or close this &quot;FileOutputStream&quot; in a &quot;finally&quot; clause" />
@@ -47,15 +51,11 @@
       <item value="桃子" />
       <item value="Unsatisfied dependency expressed through field 'dictionaryService';" />
       <item value="No property sum found for type CityDictionary!" />
-      <item value="Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Failed to create query for method public abstract java.lang.Long com.hliushi.demo.common.repository.BpJpaRepository.sum(com.hliushi.demo.common.repository.Criteria,java.lang.String)! No property sum found for type CityDictionary!" />
-      <item value="Failed to create query for method public abstract java.lang.Long com.hliushi.demo.common.repository.BpJpaRepository.sum(com.hliushi.demo.common.repository.Criteria,java.lang.String)! No property sum found for type CityDictionary!" />
-      <item value="比较" />
-      <item value="o property sum found for type CityDictionary!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="895" />
-        <entry key="ENGLISH" value="895" />
+        <entry key="CHINESE" value="896" />
+        <entry key="ENGLISH" value="897" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
