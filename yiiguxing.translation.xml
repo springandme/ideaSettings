@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="audit" />
       <item value="checkout" />
       <item value="Consider defining a bean of type 'com.iflytek.biims.audit.service.FrequentService' in your configuration." />
       <item value="Check if the file's name contains invalid characters" />
@@ -50,7 +51,6 @@
       <item value="Non-static field 'amapConfiguration' cannot be referenced from a static context" />
       <item value="In the interest of code clarity, static members of a base class should never be accessed using a derived type's name. Doing so is confusing and could create the illusion that two different static members exist." />
       <item value="Code smell" />
-      <item value="SonarLint: Define and throw a dedicated exception instead of using a generic one" />
     </histories>
     <option name="languageScores">
       <map>
