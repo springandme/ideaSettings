@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Check if the file's name contains invalid characters" />
+      <item value="normalize" />
+      <item value="Normalize file" />
+      <item value="Normalize" />
+      <item value="Normalize file name" />
       <item value="BusinessMsgEnum(java.lang.String, java.lang.String)' has private access in 'com.hliushi.learn.exception.BusinessMsgEnum'" />
       <item value="Required request part 'file' is not present" />
       <item value="Normal University" />
@@ -46,11 +51,6 @@
       <item value="SonarLint: Define and throw a dedicated exception instead of using a generic one" />
       <item value="Remove this useless assignment to local variable &quot;url&quot;." />
       <item value="Target host is not specified" />
-      <item value="static&quot; base class members should not be accessed via derived types" />
-      <item value="Use static access with &quot;com.alibaba.fastjson.JSON&quot; for &quot;parseObject&quot;." />
-      <item value="addr is of illegal length" />
-      <item value="xample must not be null!" />
-      <item value="Page index must not be less than zero" />
     </histories>
     <option name="languageScores">
       <map>
