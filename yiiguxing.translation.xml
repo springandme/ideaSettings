@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Project-wide analysis for Java projects More actions triggered upon saving changes New UI to manage Gradle and Maven dependencies Quick way to access Eclipse projects stored locally Use-case specific advanced settings Ability to visually distinguish public, protected, and private Java members (methods, fields, and classes) Support for Async Profiler 2.0 Git commit signing with GPG Microservice diagram in the Endpoints tool window Easy migration from Java EE to Jakarta EE" />
       <item value=" Merge remote-tracking branch 'origin/master'" />
       <item value="Kex_exchange_identification: Connection closed by remote host Connection closed by 10.103.57.10 port 22 Could not read from remote repository. Please make sure you have the correct access rights and the repository exists." />
       <item value="preview" />
@@ -50,7 +51,6 @@
       <item value="plain" />
       <item value="boundary" />
       <item value="&lt;calculated when request is sent&gt;" />
-      <item value="The value type from DB is illegal, for the enum class is '{}' and the current value is '{}'" />
     </histories>
     <option name="languageScores">
       <map>
