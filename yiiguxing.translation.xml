@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SonarLint: Define and throw a dedicated exception instead of using a generic one." />
+      <item value="Generate 'proceed' sequence diagra" />
       <item value="SonarLint: A &quot;NullPointerException&quot; could be thrown; &quot;result&quot; is nullable here. [+2 flows]" />
       <item value="Unhandled exception: java.lang.Throwable" />
       <item value="Project-wide analysis for Java projects More actions triggered upon saving changes New UI to manage Gradle and Maven dependencies Quick way to access Eclipse projects stored locally Use-case specific advanced settings Ability to visually distinguish public, protected, and private Java members (methods, fields, and classes) Support for Async Profiler 2.0 Git commit signing with GPG Microservice diagram in the Endpoints tool window Easy migration from Java EE to Jakarta EE" />
@@ -49,8 +51,6 @@
       <item value="Bundled" />
       <item value="Credentials" />
       <item value="sendDefaultImpl call timeout" />
-      <item value="No route info of this topic:" />
-      <item value="plain" />
     </histories>
     <option name="languageScores">
       <map>
