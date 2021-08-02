@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="throwable" />
       <item value="Result of 'IntStream.map()' is ignored" />
       <item value="Not a statement" />
       <item value="Bad return type in lambda expression: int cannot be converted to void" />
@@ -50,7 +51,6 @@
       <item value="小数位数" />
       <item value="位数" />
       <item value="小数" />
-      <item value="precimal" />
     </histories>
     <option name="languageScores">
       <map>
