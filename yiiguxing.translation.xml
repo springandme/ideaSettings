@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Result of 'IntStream.map()' is ignored" />
+      <item value="Not a statement" />
+      <item value="Bad return type in lambda expression: int cannot be converted to void" />
+      <item value="ever" />
       <item value="abuse" />
       <item value="horrible abuse of exceptions" />
       <item value="horrible" />
@@ -47,10 +51,6 @@
       <item value="位数" />
       <item value="小数" />
       <item value="precimal" />
-      <item value="Eeg" />
-      <item value="No corresponding experimental paradigm" />
-      <item value="internationalization" />
-      <item value="Warning, Liquibase too long to start， take 5000 seconds!" />
     </histories>
     <option name="languageScores">
       <map>
