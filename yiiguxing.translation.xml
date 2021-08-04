@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mapper method 'com.hliushi.redis.mapper.UsersMapper.updateByPrimaryKey' has an unsupported return type: class com.hliushi.redis.entity.Users" />
+      <item value="has an unsupported return type: class com.hliushi.redis.entity.Users" />
+      <item value="DefaultSerializer requires a Serializable payload but received an object of type" />
       <item value="SonarLint: Rename this variable to not match a restricted identifier." />
       <item value="simple Name" />
       <item value="Increment" />
@@ -48,14 +51,11 @@
       <item value="SonarLint: Use try-with-resources or close this &quot;FileOutputStream&quot; in a &quot;finally&quot; clause" />
       <item value="Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986" />
       <item value="这个文件成功写入到response" />
-      <item value="系统找不到指定的文件" />
-      <item value="生成" />
-      <item value="onarLint: Reorder the modifiers to comply with the Java Language Specification." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="904" />
-        <entry key="ENGLISH" value="904" />
+        <entry key="CHINESE" value="906" />
+        <entry key="ENGLISH" value="907" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
