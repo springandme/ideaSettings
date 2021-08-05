@@ -101,6 +101,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.avro">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.bigdatatools" />
+              <option name="myPluginName" value="Big Data Tools" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.bash">
           <value>
             <plugin>
@@ -206,6 +214,14 @@
               <option name="myPluginId" value="com.intellij.database" />
               <option name="myPluginName" value="Database Tools and SQL" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.csv(downloaded)">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.bigdatatools" />
+              <option name="myPluginName" value="Big Data Tools" />
             </plugin>
           </value>
         </entry>
@@ -1055,6 +1071,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.orc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.bigdatatools" />
+              <option name="myPluginName" value="Big Data Tools" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.otf">
           <value>
             <plugin>
@@ -1070,6 +1094,14 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.parquet">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.bigdatatools" />
+              <option name="myPluginName" value="Big Data Tools" />
             </plugin>
           </value>
         </entry>
@@ -1541,6 +1573,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tsv(downloaded)">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.bigdatatools" />
+              <option name="myPluginName" value="Big Data Tools" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tsx">
           <value>
             <plugin>
@@ -1790,6 +1830,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.zpln">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.bigdatatools" />
+              <option name="myPluginName" value="Big Data Tools" />
             </plugin>
           </value>
         </entry>
@@ -2433,6 +2481,11 @@
                   <entry key="ShConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
+                    </value>
+                  </entry>
+                  <entry key="SparkSubmitConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Spark Submit" pluginName="Big Data Tools" pluginId="com.intellij.bigdatatools" />
                     </value>
                   </entry>
                   <entry key="Specs2RunConfiguration">
