@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="693" />
     <option name="newTranslationDialogY" value="432" />
     <histories>
+      <item value="CDN" />
       <item value="Raw use of parameterized class 'RedisTemplate' SonarLint: Provide the parametrized type for this generic." />
       <item value="Unchecked call to 'size(H)' as a member of raw type 'org.springframework.data.redis.core.HashOperations'" />
       <item value="SonarLint: Complete the task associated to this TODO comment." />
@@ -53,11 +54,10 @@
       <item value="Required request part 'file' is not present" />
       <item value="Normal University" />
       <item value="normal school" />
-      <item value="师范大学" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="914" />
+        <entry key="CHINESE" value="915" />
         <entry key="ENGLISH" value="909" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
