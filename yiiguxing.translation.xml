@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="693" />
     <option name="newTranslationDialogY" value="432" />
     <histories>
+      <item value="red packet" />
+      <item value="redpacket" />
+      <item value="redpack" />
+      <item value="red" />
       <item value="CDN" />
       <item value="Raw use of parameterized class 'RedisTemplate' SonarLint: Provide the parametrized type for this generic." />
       <item value="Unchecked call to 'size(H)' as a member of raw type 'org.springframework.data.redis.core.HashOperations'" />
@@ -50,15 +54,11 @@
       <item value="Normalize file" />
       <item value="Normalize" />
       <item value="Normalize file name" />
-      <item value="BusinessMsgEnum(java.lang.String, java.lang.String)' has private access in 'com.hliushi.learn.exception.BusinessMsgEnum'" />
-      <item value="Required request part 'file' is not present" />
-      <item value="Normal University" />
-      <item value="normal school" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="915" />
-        <entry key="ENGLISH" value="909" />
+        <entry key="CHINESE" value="917" />
+        <entry key="ENGLISH" value="910" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
