@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="693" />
     <option name="newTranslationDialogY" value="432" />
     <histories>
+      <item value="顺序" />
+      <item value="s" />
+      <item value="shunx" />
       <item value="SonarLint: %n should be used in place of \n to produce the platform-specific line separator." />
       <item value="SonarLint: Either re-interrupt this method or rethrow the &quot;InterruptedException&quot; that can be caught here." />
       <item value="async" />
@@ -51,14 +54,11 @@
       <item value="SNAPSHOT" />
       <item value="IntelliJ IDEA 2019.3.5 is here! It brings a variety of updates and bug fixes. We've fixed the regression that caused v2019.3.4 not to start when installed in a path with non-ASCII characters: IDEA-235754. The IDE now shows the confirmation dialog when deleting a directory which is under SVN: IDEA-228828. The Gradle daemon no longer starts with debugging enabled when debugging tests and delegating to Gradle: IDEA-235648. The JBR has been updated to v11.0.6+8-b520.66. For more details please refer to the blog post." />
       <item value="SonarLint: This file &quot;Phone.java&quot; should be located in &quot;com\hliushi\learn\annotation\valid&quot; directory, not in &quot;D:\IdeaProjects\springboot-demo\springboot_learn\src\main\java\com\hliushi\learn\annotation&quot;." />
-      <item value="接口路径" />
-      <item value="audit" />
-      <item value="checkout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="922" />
-        <entry key="ENGLISH" value="911" />
+        <entry key="CHINESE" value="925" />
+        <entry key="ENGLISH" value="914" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
