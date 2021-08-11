@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="693" />
     <option name="newTranslationDialogY" value="432" />
     <histories>
+      <item value="SonarLint: %n should be used in place of \n to produce the platform-specific line separator." />
+      <item value="SonarLint: Either re-interrupt this method or rethrow the &quot;InterruptedException&quot; that can be caught here." />
       <item value="async" />
       <item value="asy" />
       <item value="sync" />
@@ -52,12 +54,10 @@
       <item value="接口路径" />
       <item value="audit" />
       <item value="checkout" />
-      <item value="Consider defining a bean of type 'com.iflytek.biims.audit.service.FrequentService' in your configuration." />
-      <item value="Check if the file's name contains invalid characters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="920" />
+        <entry key="CHINESE" value="922" />
         <entry key="ENGLISH" value="911" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
