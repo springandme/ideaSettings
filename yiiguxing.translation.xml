@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="693" />
     <option name="newTranslationDialogY" value="432" />
     <histories>
+      <item value="container" />
+      <item value="notify monitor" />
+      <item value="notify " />
+      <item value="notify" />
       <item value="lookup parent from repository" />
       <item value="顺序" />
       <item value="s" />
@@ -50,14 +54,10 @@
       <item value="Unhandled exception: java.lang.Throwable" />
       <item value="Project-wide analysis for Java projects More actions triggered upon saving changes New UI to manage Gradle and Maven dependencies Quick way to access Eclipse projects stored locally Use-case specific advanced settings Ability to visually distinguish public, protected, and private Java members (methods, fields, and classes) Support for Async Profiler 2.0 Git commit signing with GPG Microservice diagram in the Endpoints tool window Easy migration from Java EE to Jakarta EE" />
       <item value=" Merge remote-tracking branch 'origin/master'" />
-      <item value="Kex_exchange_identification: Connection closed by remote host Connection closed by 10.103.57.10 port 22 Could not read from remote repository. Please make sure you have the correct access rights and the repository exists." />
-      <item value="preview" />
-      <item value="SNAPSHOT" />
-      <item value="IntelliJ IDEA 2019.3.5 is here! It brings a variety of updates and bug fixes. We've fixed the regression that caused v2019.3.4 not to start when installed in a path with non-ASCII characters: IDEA-235754. The IDE now shows the confirmation dialog when deleting a directory which is under SVN: IDEA-228828. The Gradle daemon no longer starts with debugging enabled when debugging tests and delegating to Gradle: IDEA-235648. The JBR has been updated to v11.0.6+8-b520.66. For more details please refer to the blog post." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="925" />
+        <entry key="CHINESE" value="927" />
         <entry key="ENGLISH" value="915" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
