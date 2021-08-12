@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="693" />
     <option name="newTranslationDialogY" value="432" />
     <histories>
+      <item value="division" />
+      <item value="div" />
+      <item value="divs" />
       <item value="container" />
       <item value="notify monitor" />
       <item value="notify " />
@@ -51,14 +55,11 @@
       <item value="'catch' parameter named 'ignored' is used" />
       <item value="Generate 'proceed' sequence diagra" />
       <item value="SonarLint: A &quot;NullPointerException&quot; could be thrown; &quot;result&quot; is nullable here. [+2 flows]" />
-      <item value="Unhandled exception: java.lang.Throwable" />
-      <item value="Project-wide analysis for Java projects More actions triggered upon saving changes New UI to manage Gradle and Maven dependencies Quick way to access Eclipse projects stored locally Use-case specific advanced settings Ability to visually distinguish public, protected, and private Java members (methods, fields, and classes) Support for Async Profiler 2.0 Git commit signing with GPG Microservice diagram in the Endpoints tool window Easy migration from Java EE to Jakarta EE" />
-      <item value=" Merge remote-tracking branch 'origin/master'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="927" />
-        <entry key="ENGLISH" value="915" />
+        <entry key="CHINESE" value="929" />
+        <entry key="ENGLISH" value="917" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
