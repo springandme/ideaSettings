@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="693" />
     <option name="newTranslationDialogY" value="432" />
     <histories>
+      <item value="敏感" />
+      <item value="铭感" />
       <item value="convert" />
       <item value="moneypaid " />
       <item value="moneypaid" />
@@ -53,8 +55,6 @@
       <item value="Result of 'IntStream.map()' is ignored" />
       <item value="Not a statement" />
       <item value="Bad return type in lambda expression: int cannot be converted to void" />
-      <item value="ever" />
-      <item value="abuse" />
     </histories>
     <option name="languageScores">
       <map>
