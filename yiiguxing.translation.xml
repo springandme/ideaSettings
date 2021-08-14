@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="693" />
     <option name="newTranslationDialogY" value="432" />
     <histories>
+      <item value="Unchecked assignment: 'java.util.List' to 'java.util.List&lt;java.lang.String&gt;'. Reason: 'redisTemplate.opsForSet()' has raw type, so result of pop is erased" />
+      <item value="SonarLint: End this switch case with an unconditional break, return or throw statement." />
+      <item value="Incompatible types. Found: 'java.lang.Long', required: 'char, byte, short, int, Character, Byte, Short, Integer, String, or an enum'" />
       <item value="t" />
       <item value="tui" />
       <item value="敏感" />
@@ -52,13 +55,10 @@
       <item value="simple Name" />
       <item value="Increment" />
       <item value="Decrement" />
-      <item value="Exception 'java.lang.Exception' is never thrown in the method" />
-      <item value="throwable" />
-      <item value="Result of 'IntStream.map()' is ignored" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="935" />
+        <entry key="CHINESE" value="938" />
         <entry key="ENGLISH" value="922" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
