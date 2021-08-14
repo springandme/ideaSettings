@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="693" />
-    <option name="newTranslationDialogY" value="432" />
+    <option name="newTranslationDialogY" value="338" />
     <histories>
+      <item value="帖子" />
+      <item value="post" />
+      <item value="点赞" />
+      <item value="like" />
       <item value="Unboxing of 'redisTemplate.hasKey(Constants.PRICE_KEY)' may produce 'NullPointerException'" />
       <item value="SonarLint: Remove this expression which always evaluates to &quot;true&quot; [+3 locations]" />
       <item value="Unboxing of 'bool' may produce 'NullPointerException'" />
@@ -51,15 +55,11 @@
       <item value="Unchecked call to 'get(H, Object)' as a member of raw type 'org.springframework.data.redis.core.HashOperations'" />
       <item value="users Service" />
       <item value="Starting without optional epoll library" />
-      <item value="Mapper method 'com.hliushi.redis.mapper.UsersMapper.updateByPrimaryKey' has an unsupported return type: class com.hliushi.redis.entity.Users" />
-      <item value="has an unsupported return type: class com.hliushi.redis.entity.Users" />
-      <item value="DefaultSerializer requires a Serializable payload but received an object of type" />
-      <item value="SonarLint: Rename this variable to not match a restricted identifier." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="942" />
-        <entry key="ENGLISH" value="922" />
+        <entry key="CHINESE" value="944" />
+        <entry key="ENGLISH" value="924" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
