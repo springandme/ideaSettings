@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="693" />
     <option name="newTranslationDialogY" value="432" />
     <histories>
+      <item value="Unboxing of 'redisTemplate.hasKey(Constants.PRICE_KEY)' may produce 'NullPointerException'" />
+      <item value="SonarLint: Remove this expression which always evaluates to &quot;true&quot; [+3 locations]" />
+      <item value="Unboxing of 'bool' may produce 'NullPointerException'" />
       <item value="Unchecked assignment: 'java.util.List' to 'java.util.List&lt;java.lang.String&gt;'. Reason: 'redisTemplate.opsForSet()' has raw type, so result of pop is erased" />
       <item value="SonarLint: End this switch case with an unconditional break, return or throw statement." />
       <item value="Incompatible types. Found: 'java.lang.Long', required: 'char, byte, short, int, Character, Byte, Short, Integer, String, or an enum'" />
@@ -52,13 +55,10 @@
       <item value="has an unsupported return type: class com.hliushi.redis.entity.Users" />
       <item value="DefaultSerializer requires a Serializable payload but received an object of type" />
       <item value="SonarLint: Rename this variable to not match a restricted identifier." />
-      <item value="simple Name" />
-      <item value="Increment" />
-      <item value="Decrement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="938" />
+        <entry key="CHINESE" value="942" />
         <entry key="ENGLISH" value="922" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
