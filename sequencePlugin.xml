@@ -1,5 +1,12 @@
 <application>
+  <component name="sequenceParams">
+    <option name="callDepth" value="6" />
+    <option name="projectClassesOnly" value="false" />
+    <option name="noGetterSetters" value="false" />
+    <option name="noConstructors" value="true" />
+  </component>
   <component name="sequencePlugin">
+    <option name="USE_3D_VIEW" value="true" />
     <option name="FONT_NAME" value="Consolas" />
     <option name="FONT_SIZE" value="14" />
   </component>
