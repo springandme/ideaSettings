@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="693" />
     <option name="newTranslationDialogY" value="338" />
     <histories>
+      <item value="Redundant declaration: @SpringBootApplication already applies @EnableAutoConfiguration" />
       <item value="invalid IPv6 address" />
       <item value="抽奖配置中心" />
       <item value="抽奖配置" />
@@ -54,11 +55,10 @@
       <item value="red packet" />
       <item value="redpacket" />
       <item value="redpack" />
-      <item value="red" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="948" />
+        <entry key="CHINESE" value="949" />
         <entry key="ENGLISH" value="926" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
