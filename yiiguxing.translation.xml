@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="693" />
     <option name="newTranslationDialogY" value="338" />
     <histories>
+      <item value="调度器&#10;" />
       <item value="Modifier 'abstract' is redundant for interface methods" />
       <item value="Elastic" />
       <item value="Redundant declaration: @SpringBootApplication already applies @EnableAutoConfiguration" />
@@ -54,7 +55,6 @@
       <item value="asy" />
       <item value="sync" />
       <item value="Condition 'integer != null' is always 'false'" />
-      <item value="red packet" />
     </histories>
     <option name="languageScores">
       <map>
