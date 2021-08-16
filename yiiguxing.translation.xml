@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="693" />
     <option name="newTranslationDialogY" value="338" />
     <histories>
+      <item value="annot resolve constructor 'FileCustom(java.lang.String, java.lang.String, java.lang.String, java.lang.String)'" />
       <item value="调度器&#10;" />
       <item value="Modifier 'abstract' is redundant for interface methods" />
       <item value="Elastic" />
@@ -54,11 +55,10 @@
       <item value="async" />
       <item value="asy" />
       <item value="sync" />
-      <item value="Condition 'integer != null' is always 'false'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="950" />
+        <entry key="CHINESE" value="951" />
         <entry key="ENGLISH" value="927" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
