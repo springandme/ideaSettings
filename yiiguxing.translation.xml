@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="693" />
     <option name="newTranslationDialogY" value="338" />
     <histories>
+      <item value="抽奖配置中心" />
+      <item value="抽奖配置" />
       <item value="SonarLint: Reorder the modifiers to comply with the Java Language Specification." />
       <item value="Your password does not satisfy the current policy requirements" />
       <item value="regenerate" />
@@ -53,8 +55,6 @@
       <item value="redpack" />
       <item value="red" />
       <item value="CDN" />
-      <item value="Raw use of parameterized class 'RedisTemplate' SonarLint: Provide the parametrized type for this generic." />
-      <item value="Unchecked call to 'size(H)' as a member of raw type 'org.springframework.data.redis.core.HashOperations'" />
     </histories>
     <option name="languageScores">
       <map>
