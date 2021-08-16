@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="693" />
     <option name="newTranslationDialogY" value="338" />
     <histories>
+      <item value="SonarLint: Reorder the modifiers to comply with the Java Language Specification." />
       <item value="Your password does not satisfy the current policy requirements" />
       <item value="regenerate" />
       <item value="Enroll" />
@@ -54,11 +55,10 @@
       <item value="CDN" />
       <item value="Raw use of parameterized class 'RedisTemplate' SonarLint: Provide the parametrized type for this generic." />
       <item value="Unchecked call to 'size(H)' as a member of raw type 'org.springframework.data.redis.core.HashOperations'" />
-      <item value="SonarLint: Complete the task associated to this TODO comment." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="947" />
+        <entry key="CHINESE" value="948" />
         <entry key="ENGLISH" value="925" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
