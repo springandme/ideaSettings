@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="693" />
     <option name="newTranslationDialogY" value="338" />
     <histories>
+      <item value="Modifier 'abstract' is redundant for interface methods" />
+      <item value="Elastic" />
       <item value="Redundant declaration: @SpringBootApplication already applies @EnableAutoConfiguration" />
       <item value="invalid IPv6 address" />
       <item value="抽奖配置中心" />
@@ -53,13 +55,11 @@
       <item value="sync" />
       <item value="Condition 'integer != null' is always 'false'" />
       <item value="red packet" />
-      <item value="redpacket" />
-      <item value="redpack" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="949" />
-        <entry key="ENGLISH" value="926" />
+        <entry key="CHINESE" value="950" />
+        <entry key="ENGLISH" value="927" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
