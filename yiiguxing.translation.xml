@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="693" />
     <option name="newTranslationDialogY" value="338" />
     <histories>
+      <item value="SonarLint: Add at least one assertion to this test case." />
+      <item value="Ordering direction is redundant here" />
+      <item value="SonarLint: Reorder the modifiers to comply with the Java Language Specification." />
+      <item value="onarLint: Reorder the modifiers to comply with the Java Language Specification." />
       <item value="SonarLint: Make files a static final constant or non-public and provide accessors if needed. SonarLint: Make this &quot;public static files&quot; field final SonarLint: Make this member &quot;protected&quot;." />
       <item value="sharding Context" />
       <item value="CronExpression '03 ' is invalid" />
@@ -20,7 +24,6 @@
       <item value="invalid IPv6 address" />
       <item value="抽奖配置中心" />
       <item value="抽奖配置" />
-      <item value="SonarLint: Reorder the modifiers to comply with the Java Language Specification." />
       <item value="Your password does not satisfy the current policy requirements" />
       <item value="regenerate" />
       <item value="Enroll" />
@@ -52,13 +55,10 @@
       <item value="container" />
       <item value="notify monitor" />
       <item value="notify " />
-      <item value="notify" />
-      <item value="lookup parent from repository" />
-      <item value="顺序" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="954" />
+        <entry key="CHINESE" value="958" />
         <entry key="ENGLISH" value="930" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
