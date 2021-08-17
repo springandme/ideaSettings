@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1026" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="Unchecked assignment: 'com.itheima.prize.commons.utils.ApiResult' to 'com.itheima.prize.commons.utils.ApiResult&lt;java.lang.Object&gt;'" />
       <item value="Removing no longer available peer nodes" />
       <item value="SonarLint: Save and re-use this &quot;Random&quot;." />
       <item value="SonarLint: Use isEmpty() to check whether the collection is empty or not." />
@@ -54,11 +55,10 @@
       <item value="coupon" />
       <item value="cou" />
       <item value="division" />
-      <item value="div" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="960" />
+        <entry key="CHINESE" value="961" />
         <entry key="ENGLISH" value="932" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
