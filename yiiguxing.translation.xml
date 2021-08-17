@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="576" />
-    <option name="newTranslationDialogX" value="693" />
-    <option name="newTranslationDialogY" value="338" />
+    <option name="newTranslationDialogWidth" value="574" />
+    <option name="newTranslationDialogX" value="1026" />
+    <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="SonarLint: Use isEmpty() to check whether the collection is empty or not." />
       <item value="sharding" />
       <item value="SonarLint: Add at least one assertion to this test case." />
       <item value="Ordering direction is redundant here" />
@@ -54,11 +55,10 @@
       <item value="div" />
       <item value="divs" />
       <item value="container" />
-      <item value="notify monitor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="958" />
+        <entry key="CHINESE" value="959" />
         <entry key="ENGLISH" value="931" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
