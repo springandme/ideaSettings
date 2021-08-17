@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="693" />
     <option name="newTranslationDialogY" value="338" />
     <histories>
+      <item value="CronExpression '03 ' is invalid" />
       <item value="Actual value of parameter 'cron' is always '03 '" />
       <item value="Lite" />
       <item value="Coordinator" />
@@ -54,12 +55,11 @@
       <item value="顺序" />
       <item value="s" />
       <item value="shunx" />
-      <item value="SonarLint: %n should be used in place of \n to produce the platform-specific line separator." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="953" />
-        <entry key="ENGLISH" value="928" />
+        <entry key="ENGLISH" value="929" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
