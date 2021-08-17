@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="693" />
     <option name="newTranslationDialogY" value="338" />
     <histories>
+      <item value="sharding" />
       <item value="SonarLint: Add at least one assertion to this test case." />
       <item value="Ordering direction is redundant here" />
       <item value="SonarLint: Reorder the modifiers to comply with the Java Language Specification." />
@@ -54,12 +55,11 @@
       <item value="divs" />
       <item value="container" />
       <item value="notify monitor" />
-      <item value="notify " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="958" />
-        <entry key="ENGLISH" value="930" />
+        <entry key="ENGLISH" value="931" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
