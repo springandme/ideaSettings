@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1026" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="Method invocation 'forEach' may produce 'NullPointerException'" />
       <item value="preserve" />
       <item value="via" />
       <item value="Resolving eureka endpoints via configuration" />
@@ -54,11 +55,10 @@
       <item value="moneypaid " />
       <item value="moneypaid" />
       <item value="money" />
-      <item value="Criteria" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="962" />
+        <entry key="CHINESE" value="963" />
         <entry key="ENGLISH" value="934" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
