@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="1026" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="频繁访问" />
+      <item value="频繁" />
       <item value="10周年庆典" />
       <item value="Unimplemented for prizeapi,devfoo" />
       <item value="Method invocation 'forEach' may produce 'NullPointerException'" />
@@ -53,13 +55,11 @@
       <item value="tui" />
       <item value="敏感" />
       <item value="铭感" />
-      <item value="convert" />
-      <item value="moneypaid " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="963" />
-        <entry key="ENGLISH" value="935" />
+        <entry key="CHINESE" value="964" />
+        <entry key="ENGLISH" value="936" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />

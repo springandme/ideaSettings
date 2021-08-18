@@ -999,6 +999,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.lua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="au.com.glassechidna.luanalysis" />
+              <option name="myPluginName" value="Luanalysis" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.markdown">
           <value>
             <plugin>
@@ -1596,6 +1604,14 @@
               <option name="myPluginId" value="org.jetbrains.android" />
               <option name="myPluginName" value="Android" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ttslua">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="au.com.glassechidna.luanalysis" />
+              <option name="myPluginName" value="Luanalysis" />
             </plugin>
           </value>
         </entry>
