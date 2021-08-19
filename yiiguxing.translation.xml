@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogWidth" value="566" />
     <option name="newTranslationDialogX" value="1026" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="创建型" />
+      <item value="创建" />
+      <item value="设计模式" />
       <item value="snapshot Repository" />
       <item value="频繁访问" />
       <item value="频繁" />
@@ -52,14 +55,11 @@
       <item value="Unchecked assignment: 'java.util.List' to 'java.util.List&lt;java.lang.String&gt;'. Reason: 'redisTemplate.opsForSet()' has raw type, so result of pop is erased" />
       <item value="SonarLint: End this switch case with an unconditional break, return or throw statement." />
       <item value="Incompatible types. Found: 'java.lang.Long', required: 'char, byte, short, int, Character, Byte, Short, Integer, String, or an enum'" />
-      <item value="t" />
-      <item value="tui" />
-      <item value="敏感" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="964" />
-        <entry key="ENGLISH" value="937" />
+        <entry key="CHINESE" value="965" />
+        <entry key="ENGLISH" value="938" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
