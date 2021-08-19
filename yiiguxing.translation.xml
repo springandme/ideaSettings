@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1026" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="pointcut" />
       <item value="正方形" />
       <item value="zhe" />
       <item value="长方形" />
@@ -54,12 +55,11 @@
       <item value="帖子" />
       <item value="post" />
       <item value="点赞" />
-      <item value="like" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="968" />
-        <entry key="ENGLISH" value="941" />
+        <entry key="ENGLISH" value="942" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
