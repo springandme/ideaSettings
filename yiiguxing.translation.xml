@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1026" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="A cross-cluster call occurs，name = user-service, clusterName = HZ, instance = [Instance{instanceId='10.3.16.188080SHDEFAULT_GROUP@@user-service', ip='10.3.16.18', port=8080, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='SH', serviceName='DEFAULT_GROUP@@user-service', metadata={preserved.register.source=SPRING_CLOUD}}]" />
       <item value="&quot;server.port&quot; from property source &quot;systemProperties&quot;" />
       <item value="discovery" />
       <item value="roundrobin" />
@@ -54,12 +55,11 @@
       <item value="sharding" />
       <item value="SonarLint: Add at least one assertion to this test case." />
       <item value="Ordering direction is redundant here" />
-      <item value="SonarLint: Reorder the modifiers to comply with the Java Language Specification." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="977" />
-        <entry key="ENGLISH" value="958" />
+        <entry key="ENGLISH" value="959" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
