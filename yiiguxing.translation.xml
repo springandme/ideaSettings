@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="558" />
+    <option name="newTranslationDialogWidth" value="554" />
     <option name="newTranslationDialogX" value="1026" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="排除" />
+      <item value="excludes" />
+      <item value="execution" />
+      <item value="exclude" />
+      <item value="exclude&#10;" />
       <item value="surefire" />
       <item value="validate" />
       <item value="enforcer" />
@@ -50,16 +55,11 @@
       <item value="Redundant declaration: @SpringBootApplication already applies @EnableAutoConfiguration" />
       <item value="invalid IPv6 address" />
       <item value="抽奖配置中心" />
-      <item value="抽奖配置" />
-      <item value="Your password does not satisfy the current policy requirements" />
-      <item value="regenerate" />
-      <item value="Enroll" />
-      <item value="Unchecked call to 'isMember(K, Object)' as a member of raw type 'org.springframework.data.redis.core.SetOperations' " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="969" />
-        <entry key="ENGLISH" value="944" />
+        <entry key="CHINESE" value="971" />
+        <entry key="ENGLISH" value="946" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
