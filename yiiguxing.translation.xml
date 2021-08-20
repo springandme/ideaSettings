@@ -1,10 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="554" />
+    <option name="newTranslationDialogWidth" value="552" />
     <option name="newTranslationDialogX" value="1026" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="roundrobin" />
+      <item value="round robin" />
+      <item value="round r" />
+      <item value="round " />
+      <item value="轮询" />
+      <item value="roundrebin" />
+      <item value="round" />
+      <item value="retry" />
+      <item value="re" />
       <item value="detection" />
       <item value="Sevice" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.8.2:deploy (default-deploy) on project biims-audit-client: Failed to deploy artifacts: Could not transfer artifact com.iflytek:biims-audit-client:jar:0.0.4-20210820.014945-1 fromto ifly-snapshots (https:artifacts.iflytek.comartifactoryhy-mvn-snapshot-private): Transfer failed for https:artifacts.iflytek.comartifactoryhy-mvn-snapshot-privatecomiflytekbiims-audit-client0.0.4-SNAPSHOTbiims-audit-client-0.0.4-20210820.014945-1.jar 401 Unauthorized" />
@@ -46,20 +55,11 @@
       <item value="SonarLint: Reorder the modifiers to comply with the Java Language Specification." />
       <item value="onarLint: Reorder the modifiers to comply with the Java Language Specification." />
       <item value="SonarLint: Make files a static final constant or non-public and provide accessors if needed. SonarLint: Make this &quot;public static files&quot; field final SonarLint: Make this member &quot;protected&quot;." />
-      <item value="sharding Context" />
-      <item value="CronExpression '03 ' is invalid" />
-      <item value="Actual value of parameter 'cron' is always '03 '" />
-      <item value="Lite" />
-      <item value="Coordinator" />
-      <item value="onarLint: Use the primitive boolean expression her" />
-      <item value="annot resolve constructor 'FileCustom(java.lang.String, java.lang.String, java.lang.String, java.lang.String)'" />
-      <item value="调度器&#10;" />
-      <item value="Modifier 'abstract' is redundant for interface methods" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="971" />
-        <entry key="ENGLISH" value="951" />
+        <entry key="CHINESE" value="977" />
+        <entry key="ENGLISH" value="956" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
