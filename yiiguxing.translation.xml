@@ -1,10 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="550" />
+    <option name="newTranslationDialogWidth" value="546" />
     <option name="newTranslationDialogX" value="1026" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="freaking awesome" />
+      <item value="freaking " />
+      <item value="freaking" />
+      <item value="frea" />
+      <item value="f" />
+      <item value="reak" />
+      <item value="re" />
+      <item value="Flipping" />
       <item value="耦合" />
       <item value="coupling" />
       <item value="coupl" />
@@ -26,7 +34,6 @@
       <item value="roundrebin" />
       <item value="round" />
       <item value="retry" />
-      <item value="re" />
       <item value="detection" />
       <item value="Sevice" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.8.2:deploy (default-deploy) on project biims-audit-client: Failed to deploy artifacts: Could not transfer artifact com.iflytek:biims-audit-client:jar:0.0.4-20210820.014945-1 fromto ifly-snapshots (https:artifacts.iflytek.comartifactoryhy-mvn-snapshot-private): Transfer failed for https:artifacts.iflytek.comartifactoryhy-mvn-snapshot-privatecomiflytekbiims-audit-client0.0.4-SNAPSHOTbiims-audit-client-0.0.4-20210820.014945-1.jar 401 Unauthorized" />
@@ -48,18 +55,11 @@
       <item value="图形" />
       <item value="创建型" />
       <item value="创建" />
-      <item value="设计模式" />
-      <item value="snapshot Repository" />
-      <item value="频繁访问" />
-      <item value="频繁" />
-      <item value="10周年庆典" />
-      <item value="Unimplemented for prizeapi,devfoo" />
-      <item value="Method invocation 'forEach' may produce 'NullPointerException'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="980" />
-        <entry key="ENGLISH" value="962" />
+        <entry key="CHINESE" value="988" />
+        <entry key="ENGLISH" value="968" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
