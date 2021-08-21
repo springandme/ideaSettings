@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="552" />
+    <option name="newTranslationDialogWidth" value="550" />
     <option name="newTranslationDialogX" value="1026" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="耦合" />
+      <item value="coupling" />
+      <item value="coupl" />
+      <item value="coup" />
+      <item value="cou" />
+      <item value=" tight " />
+      <item value="it introduces tight " />
+      <item value="it introduces tight coupling" />
+      <item value="it introduces tight c" />
+      <item value="it introduces" />
       <item value="A cross-cluster call occurs，name = user-service, clusterName = HZ, instance = [Instance{instanceId='10.3.16.188080SHDEFAULT_GROUP@@user-service', ip='10.3.16.18', port=8080, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='SH', serviceName='DEFAULT_GROUP@@user-service', metadata={preserved.register.source=SPRING_CLOUD}}]" />
       <item value="&quot;server.port&quot; from property source &quot;systemProperties&quot;" />
       <item value="discovery" />
@@ -45,21 +55,11 @@
       <item value="10周年庆典" />
       <item value="Unimplemented for prizeapi,devfoo" />
       <item value="Method invocation 'forEach' may produce 'NullPointerException'" />
-      <item value="preserve" />
-      <item value="via" />
-      <item value="Resolving eureka endpoints via configuration" />
-      <item value="Unchecked assignment: 'com.itheima.prize.commons.utils.ApiResult' to 'com.itheima.prize.commons.utils.ApiResult&lt;java.lang.Object&gt;'" />
-      <item value="Removing no longer available peer nodes" />
-      <item value="SonarLint: Save and re-use this &quot;Random&quot;." />
-      <item value="SonarLint: Use isEmpty() to check whether the collection is empty or not." />
-      <item value="sharding" />
-      <item value="SonarLint: Add at least one assertion to this test case." />
-      <item value="Ordering direction is redundant here" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="977" />
-        <entry key="ENGLISH" value="959" />
+        <entry key="CHINESE" value="980" />
+        <entry key="ENGLISH" value="962" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
