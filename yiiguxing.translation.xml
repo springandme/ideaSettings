@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="540" />
+    <option name="newTranslationDialogWidth" value="538" />
     <option name="newTranslationDialogX" value="1026" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="该方法执行10秒钟" />
+      <item value="该方法执行10" />
+      <item value="该方法执行" />
+      <item value="该方法" />
       <item value="Audit" />
       <item value="lanjieqi" />
       <item value="lanj" />
@@ -51,10 +55,6 @@
       <item value="Sevice" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.8.2:deploy (default-deploy) on project biims-audit-client: Failed to deploy artifacts: Could not transfer artifact com.iflytek:biims-audit-client:jar:0.0.4-20210820.014945-1 fromto ifly-snapshots (https:artifacts.iflytek.comartifactoryhy-mvn-snapshot-private): Transfer failed for https:artifacts.iflytek.comartifactoryhy-mvn-snapshot-privatecomiflytekbiims-audit-client0.0.4-SNAPSHOTbiims-audit-client-0.0.4-20210820.014945-1.jar 401 Unauthorized" />
       <item value="File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent! File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!" />
-      <item value="排除" />
-      <item value="excludes" />
-      <item value="execution" />
-      <item value="exclude" />
     </histories>
     <option name="languageScores">
       <map>
