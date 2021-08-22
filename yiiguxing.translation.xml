@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="532" />
-    <option name="newTranslationDialogX" value="1026" />
-    <option name="newTranslationDialogY" value="321" />
+    <option name="newTranslationDialogHeight" value="300" />
+    <option name="newTranslationDialogWidth" value="614" />
+    <option name="newTranslationDialogX" value="768" />
+    <option name="newTranslationDialogY" value="366" />
     <histories>
+      <item value="show toolbar" />
+      <item value="show toolar" />
+      <item value="UI fixes and improvements" />
+      <item value="Editing functionality for constant pool, attributes and bytecode" />
+      <item value="By setting the custom VM option -Djclasslib.locale=en (or another supported locale), the displayed language can be changed regardless of the default locale" />
       <item value="jclasslib is a bytecode viewer for Java class files" />
       <item value="omitted" />
       <item value="omitted for duplicate" />
@@ -50,16 +56,11 @@
       <item value="reak" />
       <item value="re" />
       <item value="Flipping" />
-      <item value="耦合" />
-      <item value="coupling" />
-      <item value="coupl" />
-      <item value="coup" />
-      <item value="cou" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1006" />
-        <entry key="ENGLISH" value="983" />
+        <entry key="CHINESE" value="1011" />
+        <entry key="ENGLISH" value="984" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
