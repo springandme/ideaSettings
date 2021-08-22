@@ -1,10 +1,23 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="538" />
+    <option name="newTranslationDialogWidth" value="534" />
     <option name="newTranslationDialogX" value="1026" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="candidates" />
+      <item value="candiadates" />
+      <item value="autowired" />
+      <item value="navigate to autowired candidates" />
+      <item value="navigate to autowired candi" />
+      <item value="navigate to autowired cand" />
+      <item value="navigate to autowired ca" />
+      <item value="navigate to autowired " />
+      <item value="navigate to autowired acan" />
+      <item value="navi" />
+      <item value="na" />
+      <item value="navigate to registration" />
+      <item value="navigate" />
       <item value="该方法执行10秒钟" />
       <item value="该方法执行10" />
       <item value="该方法执行" />
@@ -42,24 +55,11 @@
       <item value="it introduces" />
       <item value="A cross-cluster call occurs，name = user-service, clusterName = HZ, instance = [Instance{instanceId='10.3.16.188080SHDEFAULT_GROUP@@user-service', ip='10.3.16.18', port=8080, weight=1.0, healthy=true, enabled=true, ephemeral=true, clusterName='SH', serviceName='DEFAULT_GROUP@@user-service', metadata={preserved.register.source=SPRING_CLOUD}}]" />
       <item value="&quot;server.port&quot; from property source &quot;systemProperties&quot;" />
-      <item value="discovery" />
-      <item value="roundrobin" />
-      <item value="round robin" />
-      <item value="round r" />
-      <item value="round " />
-      <item value="轮询" />
-      <item value="roundrebin" />
-      <item value="round" />
-      <item value="retry" />
-      <item value="detection" />
-      <item value="Sevice" />
-      <item value="Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.8.2:deploy (default-deploy) on project biims-audit-client: Failed to deploy artifacts: Could not transfer artifact com.iflytek:biims-audit-client:jar:0.0.4-20210820.014945-1 fromto ifly-snapshots (https:artifacts.iflytek.comartifactoryhy-mvn-snapshot-private): Transfer failed for https:artifacts.iflytek.comartifactoryhy-mvn-snapshot-privatecomiflytekbiims-audit-client0.0.4-SNAPSHOTbiims-audit-client-0.0.4-20210820.014945-1.jar 401 Unauthorized" />
-      <item value="File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent! File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="999" />
-        <entry key="ENGLISH" value="981" />
+        <entry key="CHINESE" value="1004" />
+        <entry key="ENGLISH" value="983" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
