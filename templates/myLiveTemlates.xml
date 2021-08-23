@@ -13,7 +13,7 @@
   </template>
   <template name="main" value="public static void main(String[] args){&#10;    $END$&#10;}" description="生成main" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
   <template name="while" value="while ($END$) {&#10;&#10;}" description="完整的while" toReformat="false" toShortenFQNames="true">
@@ -29,7 +29,7 @@
     <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
     <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
   <template name="liushi" value="/**&#10;*@ClassName $ClassName$&#10;*@Description TODO&#10;*@Author liushi&#10;*@Date $DATE$ $TIME$&#10;*@Version V1.0&#10;**/" description="生成类注释模板" toReformat="false" toShortenFQNames="true">
@@ -37,7 +37,7 @@
     <variable name="DATE" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="TIME" expression="time" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
   <template name="method" value="/**&#10; * &#10; * @param &#10; * @return &#10; */&#10;public void $VAR1$($VAR2$) {&#10;            &#10;}" description="生成方法" toReformat="false" toShortenFQNames="true">
