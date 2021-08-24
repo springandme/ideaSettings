@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="Wrapper" />
       <item value="The goal you specified requires a project to execute but there is no POM in this directory" />
       <item value="Some problems were encountered while building the effective settings" />
       <item value="Back-off restarting failed container" />
@@ -55,12 +56,11 @@
       <item value="navigate to autowired cand" />
       <item value="navigate to autowired ca" />
       <item value="navigate to autowired " />
-      <item value="navigate to autowired acan" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1025" />
-        <entry key="ENGLISH" value="998" />
+        <entry key="ENGLISH" value="999" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
