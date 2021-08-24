@@ -70,7 +70,7 @@
                           </option>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-14121370" />
+                              <option name="color" value="-16150400" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -132,7 +132,6 @@
               </GrepExpressionGroup>
             </list>
           </option>
-          <option name="maxLengthToMatch" value="200" />
           <option name="name" value="default" />
         </Profile>
       </list>
