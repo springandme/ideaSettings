@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="Back-off restarting failed container" />
       <item value="邮箱格式无效" />
       <item value="邮箱格式不正确" />
       <item value="邮箱格式" />
@@ -55,11 +56,10 @@
       <item value="navigate to autowired acan" />
       <item value="navi" />
       <item value="na" />
-      <item value="navigate to registration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1022" />
+        <entry key="CHINESE" value="1023" />
         <entry key="ENGLISH" value="998" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
