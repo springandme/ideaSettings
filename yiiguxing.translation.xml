@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="300" />
-    <option name="newTranslationDialogWidth" value="606" />
+    <option name="newTranslationDialogWidth" value="604" />
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="The goal you specified requires a project to execute but there is no POM in this directory" />
+      <item value="Some problems were encountered while building the effective settings" />
       <item value="Back-off restarting failed container" />
       <item value="邮箱格式无效" />
       <item value="邮箱格式不正确" />
@@ -54,12 +56,10 @@
       <item value="navigate to autowired ca" />
       <item value="navigate to autowired " />
       <item value="navigate to autowired acan" />
-      <item value="navi" />
-      <item value="na" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1023" />
+        <entry key="CHINESE" value="1025" />
         <entry key="ENGLISH" value="998" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
