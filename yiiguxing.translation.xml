@@ -6,6 +6,12 @@
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="decode" />
+      <item value="encode" />
+      <item value="base 64 Encoded Secret Key" />
+      <item value="Illegal Argument" />
+      <item value="Argument" />
+      <item value="Illegal" />
       <item value="claim" />
       <item value="Claim" />
       <item value="Claims" />
@@ -50,17 +56,11 @@
       <item value="Chain" />
       <item value="链式" />
       <item value="show toolbar" />
-      <item value="show toolar" />
-      <item value="UI fixes and improvements" />
-      <item value="Editing functionality for constant pool, attributes and bytecode" />
-      <item value="By setting the custom VM option -Djclasslib.locale=en (or another supported locale), the displayed language can be changed regardless of the default locale" />
-      <item value="jclasslib is a bytecode viewer for Java class files" />
-      <item value="omitted" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1031" />
-        <entry key="ENGLISH" value="1003" />
+        <entry key="ENGLISH" value="1009" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
