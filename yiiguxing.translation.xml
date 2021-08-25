@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="300" />
-    <option name="newTranslationDialogWidth" value="604" />
+    <option name="newTranslationDialogWidth" value="602" />
     <option name="newTranslationDialogX" value="1033" />
-    <option name="newTranslationDialogY" value="303" />
+    <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="release " />
+      <item value="snapshot" />
       <item value="validate" />
       <item value="valida" />
       <item value="Wrapper" />
@@ -54,13 +56,11 @@
       <item value="candiadates" />
       <item value="autowired" />
       <item value="navigate to autowired candidates" />
-      <item value="navigate to autowired candi" />
-      <item value="navigate to autowired cand" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1026" />
-        <entry key="ENGLISH" value="999" />
+        <entry key="CHINESE" value="1028" />
+        <entry key="ENGLISH" value="1000" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
