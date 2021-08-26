@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="Unchecked cast: 'java.lang.Object' to 'java.util.List&lt;java.lang.String&gt;'" />
       <item value="网络" />
       <item value="Insight " />
       <item value="Caching Operation Name Generator" />
@@ -55,11 +56,10 @@
       <item value="kn" />
       <item value="Illegal DefaultValue null for parameter type integer" />
       <item value="tenant name" />
-      <item value="tenant_name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1034" />
+        <entry key="CHINESE" value="1035" />
         <entry key="ENGLISH" value="1010" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
