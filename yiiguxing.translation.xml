@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="验证码" />
       <item value="Generating equalshashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type." />
       <item value="bit" />
       <item value="evict" />
@@ -55,7 +56,6 @@
       <item value="aw" />
       <item value="tuo" />
       <item value="knifj" />
-      <item value="knif" />
     </histories>
     <option name="languageScores">
       <map>
