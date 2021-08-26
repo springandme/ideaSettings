@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="SonarLint: Convert the abstract class &quot;BaseConfig&quot; into an interface." />
       <item value="captcha" />
       <item value="appender" />
       <item value="Sections of code should not be commented out" />
@@ -55,11 +56,10 @@
       <item value="作用域" />
       <item value="Unable to determine time in millis of source object" />
       <item value="lookup parent from repository" />
-      <item value="Could not find artifact com.itheima:pd-apps:pom:1.0-SNAPSHOT in mvn-repo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1041" />
+        <entry key="CHINESE" value="1042" />
         <entry key="ENGLISH" value="1014" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
