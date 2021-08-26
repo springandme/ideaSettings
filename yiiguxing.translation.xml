@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="网络" />
       <item value="Insight " />
       <item value="Caching Operation Name Generator" />
       <item value="Failed to resolve '^HEAD' as a valid revision." />
@@ -55,7 +56,6 @@
       <item value="Illegal DefaultValue null for parameter type integer" />
       <item value="tenant name" />
       <item value="tenant_name" />
-      <item value="tenant" />
     </histories>
     <option name="languageScores">
       <map>
