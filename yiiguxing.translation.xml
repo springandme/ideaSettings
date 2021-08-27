@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="300" />
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="External" />
+      <item value="suan" />
+      <item value="sua" />
+      <item value="验证码" />
       <item value="(Do not use @ for indentation" />
       <item value="hile scanning for the next token found character '@' that cannot start any token." />
       <item value="actuator" />
@@ -18,7 +22,6 @@
       <item value="Sections of code should not be commented out" />
       <item value="Utility classes should not have public constructors" />
       <item value="Analysing all files may take a considerable amount of time to complete. To get the best from SonarLint, you should preferably use the automatic analysis of the file you're working on." />
-      <item value="验证码" />
       <item value="Generating equalshashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type." />
       <item value="bit" />
       <item value="evict" />
@@ -53,14 +56,11 @@
       <item value="Back-off restarting failed container" />
       <item value="邮箱格式无效" />
       <item value="邮箱格式不正确" />
-      <item value="邮箱格式" />
-      <item value="Invalid phone number" />
-      <item value="constraint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1045" />
-        <entry key="ENGLISH" value="1017" />
+        <entry key="CHINESE" value="1049" />
+        <entry key="ENGLISH" value="1022" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
