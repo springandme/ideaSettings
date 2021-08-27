@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="Method reference expression is not expected here" />
       <item value="Provided:" />
       <item value="Required type" />
       <item value="Wrapper" />
@@ -55,11 +56,10 @@
       <item value="snapshot" />
       <item value="validate" />
       <item value="valida" />
-      <item value="The goal you specified requires a project to execute but there is no POM in this directory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1052" />
+        <entry key="CHINESE" value="1053" />
         <entry key="ENGLISH" value="1024" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
