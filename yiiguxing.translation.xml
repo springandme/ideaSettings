@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="Provided:" />
+      <item value="Required type" />
       <item value="Wrapper" />
       <item value="Required String parameter 'key' is not present" />
       <item value="no instance(s) of type variable(s) exist so that LoginDTO conforms to UserDTO" />
@@ -54,12 +56,10 @@
       <item value="validate" />
       <item value="valida" />
       <item value="The goal you specified requires a project to execute but there is no POM in this directory" />
-      <item value="Some problems were encountered while building the effective settings" />
-      <item value="Back-off restarting failed container" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1050" />
+        <entry key="CHINESE" value="1052" />
         <entry key="ENGLISH" value="1024" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
