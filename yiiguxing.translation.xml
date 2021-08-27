@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="no instance(s) of type variable(s) exist so that LoginDTO conforms to UserDTO" />
       <item value="External" />
       <item value="suan" />
       <item value="sua" />
@@ -55,11 +56,10 @@
       <item value="Some problems were encountered while building the effective settings" />
       <item value="Back-off restarting failed container" />
       <item value="邮箱格式无效" />
-      <item value="邮箱格式不正确" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1049" />
+        <entry key="CHINESE" value="1050" />
         <entry key="ENGLISH" value="1022" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
