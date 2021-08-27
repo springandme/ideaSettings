@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="300" />
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="(Do not use @ for indentation" />
+      <item value="hile scanning for the next token found character '@' that cannot start any token." />
+      <item value="actuator" />
       <item value="Failed to load property source from location 'classpath:bootstrap.yml'" />
       <item value="SonarLint: Use the primitive boolean expression here." />
       <item value="SonarLint: Make isBlockAttack a static final constant or non-public and provide accessors if needed" />
@@ -53,14 +56,11 @@
       <item value="邮箱格式" />
       <item value="Invalid phone number" />
       <item value="constraint" />
-      <item value="Constraint" />
-      <item value="actuate" />
-      <item value="Application context not configured for this file" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1044" />
-        <entry key="ENGLISH" value="1015" />
+        <entry key="CHINESE" value="1045" />
+        <entry key="ENGLISH" value="1017" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
