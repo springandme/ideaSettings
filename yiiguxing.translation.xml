@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="At least one base package must be specified" />
       <item value="Talk is cheap. Show me the code." />
       <item value=" extraction" />
       <item value="Reflection extraction" />
@@ -55,12 +56,11 @@
       <item value="Failed to resolve '^HEAD' as a valid revision." />
       <item value="Duplicated prefix" />
       <item value="decode" />
-      <item value="encode" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1060" />
-        <entry key="ENGLISH" value="1033" />
+        <entry key="ENGLISH" value="1034" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
