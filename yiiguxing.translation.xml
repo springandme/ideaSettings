@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="inject" />
       <item value="equal" />
       <item value="greater" />
       <item value="大于" />
@@ -55,12 +56,11 @@
       <item value="evict" />
       <item value="Unchecked cast: 'java.lang.Object' to 'java.util.List&lt;java.lang.String&gt;'" />
       <item value="网络" />
-      <item value="Insight " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1060" />
-        <entry key="ENGLISH" value="1037" />
+        <entry key="ENGLISH" value="1038" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
