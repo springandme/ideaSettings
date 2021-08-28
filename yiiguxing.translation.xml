@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="300" />
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value=" extraction" />
+      <item value="Reflection extraction" />
+      <item value="Reflection lextraction" />
       <item value="not exec" />
       <item value="depends on" />
       <item value="depends" />
@@ -53,14 +56,11 @@
       <item value="decode" />
       <item value="encode" />
       <item value="base 64 Encoded Secret Key" />
-      <item value="Illegal Argument" />
-      <item value="Argument" />
-      <item value="Illegal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1058" />
-        <entry key="ENGLISH" value="1031" />
+        <entry key="CHINESE" value="1060" />
+        <entry key="ENGLISH" value="1032" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
