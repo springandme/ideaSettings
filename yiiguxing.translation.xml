@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="underscore" />
+      <item value="because it exists, maybe from xml file" />
       <item value="The content of element type &quot;configuration&quot; must match &quot;(properties?,settings?,typeAliases?,typeHandlers?,objectFactory?,objectWrapperFactory?,reflectorFactory?,plugins?,environments?,databaseIdProvider?,mappers?)&quot;." />
       <item value="inject" />
       <item value="equal" />
@@ -54,13 +56,11 @@
       <item value="Analysing all files may take a considerable amount of time to complete. To get the best from SonarLint, you should preferably use the automatic analysis of the file you're working on." />
       <item value="Generating equalshashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type." />
       <item value="bit" />
-      <item value="evict" />
-      <item value="Unchecked cast: 'java.lang.Object' to 'java.util.List&lt;java.lang.String&gt;'" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1061" />
-        <entry key="ENGLISH" value="1038" />
+        <entry key="ENGLISH" value="1040" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
