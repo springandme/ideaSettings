@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="The content of element type &quot;configuration&quot; must match &quot;(properties?,settings?,typeAliases?,typeHandlers?,objectFactory?,objectWrapperFactory?,reflectorFactory?,plugins?,environments?,databaseIdProvider?,mappers?)&quot;." />
       <item value="inject" />
       <item value="equal" />
       <item value="greater" />
@@ -55,11 +56,10 @@
       <item value="bit" />
       <item value="evict" />
       <item value="Unchecked cast: 'java.lang.Object' to 'java.util.List&lt;java.lang.String&gt;'" />
-      <item value="网络" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1060" />
+        <entry key="CHINESE" value="1061" />
         <entry key="ENGLISH" value="1038" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
