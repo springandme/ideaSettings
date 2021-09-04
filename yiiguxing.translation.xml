@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1033" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="call before with try catch" />
       <item value="认证&#10;" />
       <item value="strategy" />
       <item value="underscore" />
@@ -55,12 +56,11 @@
       <item value="appender" />
       <item value="Sections of code should not be commented out" />
       <item value="Utility classes should not have public constructors" />
-      <item value="Analysing all files may take a considerable amount of time to complete. To get the best from SonarLint, you should preferably use the automatic analysis of the file you're working on." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1062" />
-        <entry key="ENGLISH" value="1040" />
+        <entry key="ENGLISH" value="1041" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629941773419" />
+    <option name="lastTrimTime" value="1630746906034" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="Consolas" />
