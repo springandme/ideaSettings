@@ -2,10 +2,17 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="300" />
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="513" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="CONDITIONS EVALUATION REPORT" />
+      <item value="@ConditionalOnProperty (spring.aop.auto=true) matched (OnPropertyCondition)" />
+      <item value="Negative matches:" />
+      <item value="Did not match: - @ConditionalOnClass did not find required class 'org.springframework.web.reactive.function.client.WebClient' (OnClassCondition)" />
+      <item value="Unconditional classes:" />
+      <item value="Exclusions" />
+      <item value="来查看自动配置报告" />
       <item value="Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed" />
       <item value="Condition '!(handler instanceof HandlerMethod)' is always 'false' Condition 'handler instanceof HandlerMethod' is always 'true'" />
       <item value="station" />
@@ -49,18 +56,11 @@
       <item value="Required type" />
       <item value="Wrapper" />
       <item value="Required String parameter 'key' is not present" />
-      <item value="no instance(s) of type variable(s) exist so that LoginDTO conforms to UserDTO" />
-      <item value="External" />
-      <item value="suan" />
-      <item value="sua" />
-      <item value="验证码" />
-      <item value="(Do not use @ for indentation" />
-      <item value="hile scanning for the next token found character '@' that cannot start any token." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1070" />
-        <entry key="ENGLISH" value="1051" />
+        <entry key="ENGLISH" value="1057" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
