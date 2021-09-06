@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="513" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="toplink" />
+      <item value="topline" />
+      <item value="toppling" />
       <item value=".Dispatcher" />
       <item value="Mapped" />
       <item value="Resource Http Request Handler" />
@@ -53,18 +56,16 @@
       <item value="Error creating bean with name 'iLoginLogService' defined in class path resource [comitheimapindaauthorityconfigSysLogConfiguration.class]: Unsatisfied dependency expressed through method 'loginListener' parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.itheima.pinda.authority.biz.service.auth.ILoginLogService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Qualifier(value=iLoginLogService)}" />
       <item value="No qualifying bean of type 'com.itheima.pinda.authority.biz.service.auth.ILoginLogService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Qualifier(value=iLoginLogService)}" />
       <item value="Could not autowire. Qualified bean must be of 'ILoginLogService' type." />
-      <item value="Could not autowire. There is more than one bean of 'ILoginLogService' type. Beans: ILoginLogService   (ILoginLogService.java) ILoginLogServiceImpl   (ILoginLogServiceImpl.java)" />
-      <item value="Invalid bound statement (not found):" />
-      <item value="Invalid bound statement (not found): com.itheima.pinda.authority.biz.dao.auth.ResourceMapper.findVisibleResource" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1071" />
-        <entry key="ENGLISH" value="1061" />
+        <entry key="ENGLISH" value="1063" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
-        <entry key="CROATIAN" value="1" />
+        <entry key="CZECH" value="1" />
+        <entry key="CROATIAN" value="3" />
         <entry key="LATIN" value="2" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
