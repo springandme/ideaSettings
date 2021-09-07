@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="300" />
-    <option name="newTranslationDialogWidth" value="576" />
-    <option name="newTranslationDialogX" value="513" />
-    <option name="newTranslationDialogY" value="321" />
+    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogX" value="957" />
+    <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="Convert elements to strings and concatenate them, separated by commas" />
+      <item value="Accumulate" />
+      <item value="Accumulate names into a List" />
       <item value="indices" />
       <item value="普通" />
       <item value="put" />
@@ -53,13 +56,10 @@
       <item value="Reflection extraction" />
       <item value="Reflection lextraction" />
       <item value="not exec" />
-      <item value="depends on" />
-      <item value="depends" />
-      <item value="injected into" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1075" />
+        <entry key="CHINESE" value="1078" />
         <entry key="ENGLISH" value="1067" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
