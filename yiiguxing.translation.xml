@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="957" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="Actual value of parameter 'highLightField' is always 'name'" />
+      <item value="@param highLightField' tag description is missing" />
       <item value="Convert elements to strings and concatenate them, separated by commas" />
       <item value="Accumulate" />
       <item value="Accumulate names into a List" />
@@ -54,12 +56,10 @@
       <item value="Talk is cheap. Show me the code." />
       <item value=" extraction" />
       <item value="Reflection extraction" />
-      <item value="Reflection lextraction" />
-      <item value="not exec" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1078" />
+        <entry key="CHINESE" value="1081" />
         <entry key="ENGLISH" value="1067" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
