@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="513" />
     <option name="newTranslationDialogY" value="321" />
     <histories>
+      <item value="普通" />
+      <item value="put" />
+      <item value="poji" />
+      <item value="po" />
       <item value="com.mysql.cj.jdbc.Driver is not assignable to java.sql.Driver" />
       <item value="toplink" />
       <item value="topline" />
@@ -52,15 +56,11 @@
       <item value="depends" />
       <item value="injected into" />
       <item value="injected " />
-      <item value="injec" />
-      <item value="Redundant default parameter value assignment" />
-      <item value="Error creating bean with name 'iLoginLogService' defined in class path resource [comitheimapindaauthorityconfigSysLogConfiguration.class]: Unsatisfied dependency expressed through method 'loginListener' parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.itheima.pinda.authority.biz.service.auth.ILoginLogService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Qualifier(value=iLoginLogService)}" />
-      <item value="No qualifying bean of type 'com.itheima.pinda.authority.biz.service.auth.ILoginLogService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Qualifier(value=iLoginLogService)}" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1072" />
-        <entry key="ENGLISH" value="1063" />
+        <entry key="CHINESE" value="1075" />
+        <entry key="ENGLISH" value="1066" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
