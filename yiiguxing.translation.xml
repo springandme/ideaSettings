@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="957" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="handle Marker Focus" />
+      <item value="Cannot perform refactoring. Caret should be positioned at the name of local variable or expression to be refactored" />
       <item value="org.apache.tomcat.util.compat.Jre9Compat - Class not found so assuming code is running on a pre-Java 9 JVM" />
       <item value="Actual value of parameter 'highLightField' is always 'name'" />
       <item value="@param highLightField' tag description is missing" />
@@ -54,13 +56,11 @@
       <item value="greater" />
       <item value="大于" />
       <item value="Accessors" />
-      <item value="Talk is cheap. Show me the code." />
-      <item value=" extraction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1081" />
-        <entry key="ENGLISH" value="1068" />
+        <entry key="CHINESE" value="1082" />
+        <entry key="ENGLISH" value="1069" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
