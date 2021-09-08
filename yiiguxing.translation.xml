@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="957" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="Input is not in the .gz format" />
       <item value="INSUFFICIENT_ABROAD_PRIVILEGES" />
       <item value="handle Marker Focus" />
       <item value="Cannot perform refactoring. Caret should be positioned at the name of local variable or expression to be refactored" />
@@ -55,11 +56,10 @@
       <item value="inject" />
       <item value="equal" />
       <item value="greater" />
-      <item value="大于" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1083" />
+        <entry key="CHINESE" value="1084" />
         <entry key="ENGLISH" value="1069" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
