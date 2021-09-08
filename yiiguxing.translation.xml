@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="300" />
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="957" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="INSUFFICIENT_ABROAD_PRIVILEGES" />
       <item value="handle Marker Focus" />
       <item value="Cannot perform refactoring. Caret should be positioned at the name of local variable or expression to be refactored" />
       <item value="org.apache.tomcat.util.compat.Jre9Compat - Class not found so assuming code is running on a pre-Java 9 JVM" />
@@ -55,11 +56,10 @@
       <item value="equal" />
       <item value="greater" />
       <item value="大于" />
-      <item value="Accessors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1082" />
+        <entry key="CHINESE" value="1083" />
         <entry key="ENGLISH" value="1069" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
