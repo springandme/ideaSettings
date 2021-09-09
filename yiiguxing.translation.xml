@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="807" />
     <option name="newTranslationDialogY" value="353" />
     <histories>
+      <item value="auto Delete" />
+      <item value="durable" />
       <item value="公司内网" />
       <item value="内网" />
       <item value="gist" />
@@ -54,13 +56,11 @@
       <item value="At least one base package must be specified" />
       <item value="Invalid bean definition with name 'myMetaObjectHandler' defined in class path resource [comhliushimpconfigMybatisMpAutoConfiguration.class]: Cannot register bean definition [Root bean: class [null]; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=mybatisMpAutoConfiguration; factoryMethodName=getMyMetaObjectHandler; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [comhliushimpconfigMybatisMpAutoConfiguration.class]] for bean 'myMetaObjectHandler': There is already [Generic bean: class [com.hliushi.mp.handler.MyMetaObjectHandler]; scope=singleton; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [D:\IdeaProjects\springboot-demo\mybatis-plus-learn\target\classes\com\hliushi\mp\handler\MyMetaObjectHandler.class]] bound." />
       <item value="排除" />
-      <item value="shared-dataids" />
-      <item value="descrip" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1090" />
-        <entry key="ENGLISH" value="1072" />
+        <entry key="ENGLISH" value="1073" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
@@ -74,6 +74,7 @@
         <entry key="SWEDISH" value="3" />
         <entry key="SOMALI" value="1" />
         <entry key="WELSH" value="3" />
+        <entry key="GREEK" value="1" />
       </map>
     </option>
   </component>
