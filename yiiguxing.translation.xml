@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="957" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="gist" />
       <item value="ethod parseSuggestion should have no parameters" />
       <item value="Error: [circuit_breaking_exception]: [parent] Data too large, data for [\u003chttp_request\u003e] would be [257846792/245.9mb], which is larger than the limit of [255013683/243.1mb], real usage: [257839384/245.8mb]" />
       <item value=" Unable to complete saved object migrations for the [.kibana] index. Please check the health of your Elasticsearch cluster and try again. Error: [circuit_breaking_exception]: [parent] Data too large" />
@@ -55,11 +56,10 @@
       <item value="descrip" />
       <item value="descript" />
       <item value="描述" />
-      <item value="call before with try catch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1089" />
+        <entry key="CHINESE" value="1090" />
         <entry key="ENGLISH" value="1072" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
