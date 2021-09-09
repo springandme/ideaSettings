@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="300" />
-    <option name="newTranslationDialogWidth" value="566" />
-    <option name="newTranslationDialogX" value="807" />
-    <option name="newTranslationDialogY" value="353" />
+    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogX" value="1111" />
+    <option name="newTranslationDialogY" value="359" />
     <histories>
+      <item value="全量" />
       <item value="auto Delete" />
       <item value="durable" />
       <item value="公司内网" />
@@ -55,7 +56,6 @@
       <item value="station" />
       <item value="At least one base package must be specified" />
       <item value="Invalid bean definition with name 'myMetaObjectHandler' defined in class path resource [comhliushimpconfigMybatisMpAutoConfiguration.class]: Cannot register bean definition [Root bean: class [null]; scope=; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=mybatisMpAutoConfiguration; factoryMethodName=getMyMetaObjectHandler; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [comhliushimpconfigMybatisMpAutoConfiguration.class]] for bean 'myMetaObjectHandler': There is already [Generic bean: class [com.hliushi.mp.handler.MyMetaObjectHandler]; scope=singleton; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [D:\IdeaProjects\springboot-demo\mybatis-plus-learn\target\classes\com\hliushi\mp\handler\MyMetaObjectHandler.class]] bound." />
-      <item value="排除" />
     </histories>
     <option name="languageScores">
       <map>
