@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="957" />
     <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="Variable is already assigned to this value" />
       <item value="Request processing failed; nested exception is io.dataease.exception.DataEaseException: io.dataease.exception.DataEaseException: Communications link failure" />
       <item value="The driver has not received any packets from the server" />
       <item value="after seal&#10;" />
@@ -55,11 +56,10 @@
       <item value="认证&#10;" />
       <item value="strategy" />
       <item value="underscore" />
-      <item value="because it exists, maybe from xml file" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1086" />
+        <entry key="CHINESE" value="1087" />
         <entry key="ENGLISH" value="1071" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
