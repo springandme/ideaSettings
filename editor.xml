@@ -2,11 +2,10 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
     <option name="FONT_FAMILY" value="Consolas" />
-    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
-    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
     <option name="SECONDARY_FONT_FAMILY" value="SimSun" />
   </component>
   <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
   </component>
 </application>
