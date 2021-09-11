@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="300" />
-    <option name="newTranslationDialogWidth" value="550" />
+    <option name="newTranslationDialogWidth" value="548" />
     <option name="newTranslationDialogX" value="303" />
-    <option name="newTranslationDialogY" value="568" />
+    <option name="newTranslationDialogY" value="497" />
     <histories>
+      <item value="Suppress" />
       <item value="shard" />
       <item value="replica" />
       <item value="replicat" />
@@ -55,11 +56,10 @@
       <item value="poji" />
       <item value="po" />
       <item value="com.mysql.cj.jdbc.Driver is not assignable to java.sql.Driver" />
-      <item value="toplink" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1102" />
+        <entry key="CHINESE" value="1103" />
         <entry key="ENGLISH" value="1079" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
