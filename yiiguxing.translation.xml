@@ -2,10 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="300" />
-    <option name="newTranslationDialogWidth" value="548" />
+    <option name="newTranslationDialogWidth" value="546" />
     <option name="newTranslationDialogX" value="303" />
     <option name="newTranslationDialogY" value="497" />
     <histories>
+      <item value="Number of lines to show from the end of the logs (default &quot;all&quot;)" />
+      <item value="Show extra details provided to logs" />
+      <item value=" Follow log output&#10;" />
+      <item value=" Show the latest created container (includes all states)" />
+      <item value="Don't truncate output" />
+      <item value="Filter output based on conditions provided" />
       <item value="Show n last created containers (includes all states) (default -1)" />
       <item value="Suppress" />
       <item value="shard" />
@@ -50,17 +56,11 @@
       <item value="@param highLightField' tag description is missing" />
       <item value="Convert elements to strings and concatenate them, separated by commas" />
       <item value="Accumulate" />
-      <item value="Accumulate names into a List" />
-      <item value="indices" />
-      <item value="普通" />
-      <item value="put" />
-      <item value="poji" />
-      <item value="po" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1104" />
-        <entry key="ENGLISH" value="1079" />
+        <entry key="CHINESE" value="1110" />
+        <entry key="ENGLISH" value="1082" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
