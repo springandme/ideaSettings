@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="300" />
-    <option name="newTranslationDialogWidth" value="546" />
-    <option name="newTranslationDialogX" value="303" />
-    <option name="newTranslationDialogY" value="497" />
+    <option name="newTranslationDialogWidth" value="544" />
+    <option name="newTranslationDialogX" value="1091" />
+    <option name="newTranslationDialogY" value="376" />
     <histories>
+      <item value="volumes" />
+      <item value="volumnes" />
+      <item value="vo" />
       <item value="Number of lines to show from the end of the logs (default &quot;all&quot;)" />
       <item value="Show extra details provided to logs" />
       <item value=" Follow log output&#10;" />
@@ -53,14 +56,11 @@
       <item value="Cannot perform refactoring. Caret should be positioned at the name of local variable or expression to be refactored" />
       <item value="org.apache.tomcat.util.compat.Jre9Compat - Class not found so assuming code is running on a pre-Java 9 JVM" />
       <item value="Actual value of parameter 'highLightField' is always 'name'" />
-      <item value="@param highLightField' tag description is missing" />
-      <item value="Convert elements to strings and concatenate them, separated by commas" />
-      <item value="Accumulate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1110" />
-        <entry key="ENGLISH" value="1082" />
+        <entry key="CHINESE" value="1112" />
+        <entry key="ENGLISH" value="1083" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
