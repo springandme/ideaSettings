@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="303" />
     <option name="newTranslationDialogY" value="497" />
     <histories>
+      <item value="Show n last created containers (includes all states) (default -1)" />
       <item value="Suppress" />
       <item value="shard" />
       <item value="replica" />
@@ -55,11 +56,10 @@
       <item value="put" />
       <item value="poji" />
       <item value="po" />
-      <item value="com.mysql.cj.jdbc.Driver is not assignable to java.sql.Driver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1103" />
+        <entry key="CHINESE" value="1104" />
         <entry key="ENGLISH" value="1079" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
