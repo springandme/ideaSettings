@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="300" />
-    <option name="newTranslationDialogWidth" value="544" />
+    <option name="newTranslationDialogHeight" value="292" />
+    <option name="newTranslationDialogWidth" value="542" />
     <option name="newTranslationDialogX" value="1091" />
     <option name="newTranslationDialogY" value="376" />
     <histories>
+      <item value="KeyboardInterrupt" />
+      <item value="compose" />
+      <item value="docker-compose" />
       <item value="volumes" />
       <item value="volumnes" />
       <item value="vo" />
@@ -53,13 +56,10 @@
       <item value="Input is not in the .gz format" />
       <item value="INSUFFICIENT_ABROAD_PRIVILEGES" />
       <item value="handle Marker Focus" />
-      <item value="Cannot perform refactoring. Caret should be positioned at the name of local variable or expression to be refactored" />
-      <item value="org.apache.tomcat.util.compat.Jre9Compat - Class not found so assuming code is running on a pre-Java 9 JVM" />
-      <item value="Actual value of parameter 'highLightField' is always 'name'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1112" />
+        <entry key="CHINESE" value="1114" />
         <entry key="ENGLISH" value="1083" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
