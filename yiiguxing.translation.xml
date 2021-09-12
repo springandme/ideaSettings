@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="292" />
-    <option name="newTranslationDialogWidth" value="536" />
+    <option name="newTranslationDialogHeight" value="285" />
+    <option name="newTranslationDialogWidth" value="534" />
     <option name="newTranslationDialogX" value="459" />
-    <option name="newTranslationDialogY" value="420" />
+    <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="Compose" />
+      <item value="组成" />
       <item value="The WORKDIR instruction sets the working directory for any RUN, CMD, ENTRYPOINT, COPY and ADD instructions that follow it in the Dockerfile. If the WORKDIR doesn’t exist, it will be created even if it’s not used in any subsequent Dockerfile instruction.&#10;&#10;The WORKDIR instruction can be used multiple times in a Dockerfile. If a relative path is provided, it will be relative to the path of the previous WORKDIR instruction. For example:" />
       <item value="Connection timed out: no further information: 172.20.0.4:8081" />
       <item value="No URLs will be polled as dynamic configuration sources." />
@@ -54,13 +56,11 @@
       <item value="Error: [circuit_breaking_exception]: [parent] Data too large, data for [\u003chttp_request\u003e] would be [257846792/245.9mb], which is larger than the limit of [255013683/243.1mb], real usage: [257839384/245.8mb]" />
       <item value=" Unable to complete saved object migrations for the [.kibana] index. Please check the health of your Elasticsearch cluster and try again. Error: [circuit_breaking_exception]: [parent] Data too large" />
       <item value="Variable is already assigned to this value" />
-      <item value="Request processing failed; nested exception is io.dataease.exception.DataEaseException: io.dataease.exception.DataEaseException: Communications link failure" />
-      <item value="The driver has not received any packets from the server" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1117" />
-        <entry key="ENGLISH" value="1085" />
+        <entry key="CHINESE" value="1120" />
+        <entry key="ENGLISH" value="1086" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
