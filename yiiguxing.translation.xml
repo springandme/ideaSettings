@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="285" />
-    <option name="newTranslationDialogWidth" value="532" />
+    <option name="newTranslationDialogWidth" value="530" />
     <option name="newTranslationDialogX" value="1068" />
     <option name="newTranslationDialogY" value="396" />
     <histories>
+      <item value=" [WARNING SystemVerification]: this Docker version is not on the list of validated versions: 20.10.8. Latest validated version: 19.03&#10;" />
       <item value="hardware" />
       <item value="hard" />
       <item value="Compose" />
@@ -55,11 +56,10 @@
       <item value="内网" />
       <item value="gist" />
       <item value="ethod parseSuggestion should have no parameters" />
-      <item value="Error: [circuit_breaking_exception]: [parent] Data too large, data for [\u003chttp_request\u003e] would be [257846792/245.9mb], which is larger than the limit of [255013683/243.1mb], real usage: [257839384/245.8mb]" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1121" />
+        <entry key="CHINESE" value="1122" />
         <entry key="ENGLISH" value="1086" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
