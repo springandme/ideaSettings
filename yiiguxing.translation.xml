@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="285" />
-    <option name="newTranslationDialogWidth" value="530" />
+    <option name="newTranslationDialogWidth" value="528" />
     <option name="newTranslationDialogX" value="1068" />
-    <option name="newTranslationDialogY" value="396" />
+    <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="control" />
       <item value=" [WARNING SystemVerification]: this Docker version is not on the list of validated versions: 20.10.8. Latest validated version: 19.03&#10;" />
       <item value="hardware" />
       <item value="hard" />
@@ -55,11 +56,10 @@
       <item value="公司内网" />
       <item value="内网" />
       <item value="gist" />
-      <item value="ethod parseSuggestion should have no parameters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1122" />
+        <entry key="CHINESE" value="1123" />
         <entry key="ENGLISH" value="1086" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
