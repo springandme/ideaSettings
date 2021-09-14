@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="285" />
-    <option name="newTranslationDialogWidth" value="528" />
+    <option name="newTranslationDialogWidth" value="524" />
     <option name="newTranslationDialogX" value="1068" />
     <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="finalizers" />
+      <item value="finalizers:" />
+      <item value="kind:" />
+      <item value="quota" />
       <item value="control" />
       <item value=" [WARNING SystemVerification]: this Docker version is not on the list of validated versions: 20.10.8. Latest validated version: 19.03&#10;" />
       <item value="hardware" />
@@ -52,15 +56,11 @@
       <item value="Some problems were encountered while building the effective model for io.dataease:backend:jar:1.2.0 'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique: com.microsoft.sqlserver:mssql-jdbc:jar -&gt; version (?) vs 7.4.1.jre8 @ line 144, column 21 It is highly recommended to fix these problems because they threaten the stability of your build. For this reason, future Maven versions might no longer support building such malformed projects." />
       <item value="全量" />
       <item value="auto Delete" />
-      <item value="durable" />
-      <item value="公司内网" />
-      <item value="内网" />
-      <item value="gist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1123" />
-        <entry key="ENGLISH" value="1086" />
+        <entry key="CHINESE" value="1127" />
+        <entry key="ENGLISH" value="1087" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
