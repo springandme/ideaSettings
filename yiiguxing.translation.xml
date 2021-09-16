@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1068" />
     <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="rm handle branch rollback process" />
       <item value="Load balancer does not have available server for client: account-service" />
       <item value="ailed to fetch metric from &lt;http://10.3.16.18:8720/metric?startTime=1631755355000&amp;endTime=1631755361000&amp;refetch=false&gt; (ConnectionException: Connection refused: no further information)" />
       <item value="Degrade" />
@@ -55,7 +56,6 @@
       <item value="ro" />
       <item value="ron" />
       <item value="rel" />
-      <item value="reli" />
     </histories>
     <option name="languageScores">
       <map>
