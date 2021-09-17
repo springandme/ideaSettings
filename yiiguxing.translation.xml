@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="285" />
-    <option name="newTranslationDialogWidth" value="520" />
+    <option name="newTranslationDialogWidth" value="518" />
     <option name="newTranslationDialogX" value="1068" />
     <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="fork" />
       <item value="crash-safe" />
       <item value="rm handle branch rollback process" />
       <item value="Load balancer does not have available server for client: account-service" />
@@ -55,11 +56,10 @@
       <item value="副本机制" />
       <item value="冗余" />
       <item value="ro" />
-      <item value="ron" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1133" />
+        <entry key="CHINESE" value="1134" />
         <entry key="ENGLISH" value="1087" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
