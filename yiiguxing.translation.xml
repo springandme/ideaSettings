@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1068" />
     <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="detach" />
       <item value="fork" />
       <item value="crash-safe" />
       <item value="rm handle branch rollback process" />
@@ -55,11 +56,10 @@
       <item value="副本" />
       <item value="副本机制" />
       <item value="冗余" />
-      <item value="ro" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1134" />
+        <entry key="CHINESE" value="1135" />
         <entry key="ENGLISH" value="1087" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
