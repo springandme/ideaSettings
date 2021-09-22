@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1068" />
     <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="fanout" />
       <item value="thread canal-execute-thread-5 have a exception" />
       <item value="invalidate" />
       <item value="多级" />
@@ -55,7 +56,6 @@
       <item value="replica" />
       <item value="replicat" />
       <item value="replication" />
-      <item value="primary" />
     </histories>
     <option name="languageScores">
       <map>
