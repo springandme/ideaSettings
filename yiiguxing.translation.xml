@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="285" />
-    <option name="newTranslationDialogWidth" value="516" />
+    <option name="newTranslationDialogWidth" value="514" />
     <option name="newTranslationDialogX" value="1068" />
     <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="purge" />
+      <item value="pur" />
+      <item value="p" />
+      <item value="pr" />
       <item value="fanout" />
       <item value="thread canal-execute-thread-5 have a exception" />
       <item value="invalidate" />
@@ -52,14 +56,10 @@
       <item value="Filter output based on conditions provided" />
       <item value="Show n last created containers (includes all states) (default -1)" />
       <item value="Suppress" />
-      <item value="shard" />
-      <item value="replica" />
-      <item value="replicat" />
-      <item value="replication" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1135" />
+        <entry key="CHINESE" value="1136" />
         <entry key="ENGLISH" value="1087" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
