@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1068" />
     <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="Unexpected error occurred in scheduled task" />
       <item value="Variable used in lambda expression should be final or effectively final" />
       <item value="show inherited" />
       <item value="show" />
@@ -55,7 +56,6 @@
       <item value="Number of lines to show from the end of the logs (default &quot;all&quot;)" />
       <item value="Show extra details provided to logs" />
       <item value=" Follow log output&#10;" />
-      <item value=" Show the latest created container (includes all states)" />
     </histories>
     <option name="languageScores">
       <map>
