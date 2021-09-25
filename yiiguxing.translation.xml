@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="285" />
-    <option name="newTranslationDialogWidth" value="512" />
+    <option name="newTranslationDialogWidth" value="510" />
     <option name="newTranslationDialogX" value="1068" />
     <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="Variable used in lambda expression should be final or effectively final" />
       <item value="show inherited" />
       <item value="show" />
       <item value="BROADCASTING" />
@@ -55,11 +56,10 @@
       <item value="Show extra details provided to logs" />
       <item value=" Follow log output&#10;" />
       <item value=" Show the latest created container (includes all states)" />
-      <item value="Don't truncate output" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1137" />
+        <entry key="CHINESE" value="1138" />
         <entry key="ENGLISH" value="1088" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
