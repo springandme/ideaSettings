@@ -5,7 +5,7 @@
     <option name="SECONDARY_FONT_FAMILY" value="SimSun" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
   </component>
 </application>
