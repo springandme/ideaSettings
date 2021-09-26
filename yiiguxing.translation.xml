@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="1068" />
     <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="aware" />
+      <item value="waar" />
       <item value="Unexpected error occurred in scheduled task" />
       <item value="Variable used in lambda expression should be final or effectively final" />
       <item value="show inherited" />
@@ -54,13 +56,11 @@
       <item value="volumnes" />
       <item value="vo" />
       <item value="Number of lines to show from the end of the logs (default &quot;all&quot;)" />
-      <item value="Show extra details provided to logs" />
-      <item value=" Follow log output&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1138" />
-        <entry key="ENGLISH" value="1088" />
+        <entry key="CHINESE" value="1140" />
+        <entry key="ENGLISH" value="1089" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
