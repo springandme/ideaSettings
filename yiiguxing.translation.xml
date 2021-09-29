@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="285" />
-    <option name="newTranslationDialogWidth" value="506" />
+    <option name="newTranslationDialogWidth" value="504" />
     <option name="newTranslationDialogX" value="1068" />
     <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="分隔符" />
       <item value="ensure Capacity Internal" />
       <item value="Calls to 'run()' should probably be replaced with 'start()'" />
       <item value="Exhausted" />
@@ -55,12 +56,11 @@
       <item value="services.gateway.ports contains unsupported option: '10010'&#10;" />
       <item value="KeyboardInterrupt" />
       <item value="compose" />
-      <item value="docker-compose" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1142" />
-        <entry key="ENGLISH" value="1089" />
+        <entry key="CHINESE" value="1143" />
+        <entry key="ENGLISH" value="1090" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
