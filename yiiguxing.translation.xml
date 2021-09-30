@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="285" />
-    <option name="newTranslationDialogWidth" value="502" />
+    <option name="newTranslationDialogWidth" value="500" />
     <option name="newTranslationDialogX" value="1068" />
     <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="conver" />
       <item value="Condition 'et != null' covered by subsequent condition 'et instanceof Entity'" />
       <item value="truck Types" />
       <item value="分隔符" />
@@ -55,11 +56,10 @@
       <item value="Connection timed out: no further information: 172.20.0.4:8081" />
       <item value="No URLs will be polled as dynamic configuration sources." />
       <item value="Daemon socket to connect to" />
-      <item value="services.gateway.ports contains unsupported option: '10010'&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1144" />
+        <entry key="CHINESE" value="1145" />
         <entry key="ENGLISH" value="1090" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
