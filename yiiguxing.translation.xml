@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1068" />
     <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="No qualifying bean of type 'com.itheima.pinda.mapstruct.U4Mapper' available" />
       <item value="conver" />
       <item value="Condition 'et != null' covered by subsequent condition 'et instanceof Entity'" />
       <item value="truck Types" />
@@ -55,7 +56,6 @@
       <item value="The WORKDIR instruction sets the working directory for any RUN, CMD, ENTRYPOINT, COPY and ADD instructions that follow it in the Dockerfile. If the WORKDIR doesn’t exist, it will be created even if it’s not used in any subsequent Dockerfile instruction.&#10;&#10;The WORKDIR instruction can be used multiple times in a Dockerfile. If a relative path is provided, it will be relative to the path of the previous WORKDIR instruction. For example:" />
       <item value="Connection timed out: no further information: 172.20.0.4:8081" />
       <item value="No URLs will be polled as dynamic configuration sources." />
-      <item value="Daemon socket to connect to" />
     </histories>
     <option name="languageScores">
       <map>
