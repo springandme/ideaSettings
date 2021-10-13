@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="1068" />
     <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="lei" />
+      <item value="cate" />
+      <item value="泰国" />
       <item value="Unchecked generics array creation for varargs parameter" />
       <item value="语言" />
       <item value="Method annotated with @Bean is called directly. Use dependency injection instead" />
@@ -53,14 +56,11 @@
       <item value="finalizers" />
       <item value="kind:" />
       <item value="quota" />
-      <item value="control" />
-      <item value=" [WARNING SystemVerification]: this Docker version is not on the list of validated versions: 20.10.8. Latest validated version: 19.03&#10;" />
-      <item value="hardware" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1149" />
-        <entry key="ENGLISH" value="1094" />
+        <entry key="CHINESE" value="1155" />
+        <entry key="ENGLISH" value="1100" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
@@ -69,7 +69,7 @@
         <entry key="LATIN" value="2" />
         <entry key="LITHUANIAN" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="ROMANIAN" value="2" />
+        <entry key="ROMANIAN" value="3" />
         <entry key="JAPANESE" value="10" />
         <entry key="SWEDISH" value="3" />
         <entry key="SOMALI" value="1" />
