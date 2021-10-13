@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="285" />
-    <option name="newTranslationDialogWidth" value="496" />
+    <option name="newTranslationDialogWidth" value="494" />
     <option name="newTranslationDialogX" value="1068" />
     <option name="newTranslationDialogY" value="303" />
     <histories>
+      <item value="语言" />
       <item value="Method annotated with @Bean is called directly. Use dependency injection instead" />
       <item value="continued Fee" />
       <item value="retract" />
@@ -55,7 +56,6 @@
       <item value=" [WARNING SystemVerification]: this Docker version is not on the list of validated versions: 20.10.8. Latest validated version: 19.03&#10;" />
       <item value="hardware" />
       <item value="hard" />
-      <item value="Compose" />
     </histories>
     <option name="languageScores">
       <map>
