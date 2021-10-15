@@ -2,10 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="285" />
-    <option name="newTranslationDialogWidth" value="492" />
-    <option name="newTranslationDialogX" value="1068" />
-    <option name="newTranslationDialogY" value="303" />
+    <option name="newTranslationDialogWidth" value="488" />
+    <option name="newTranslationDialogX" value="1378" />
+    <option name="newTranslationDialogY" value="361" />
     <histories>
+      <item value="illegala" />
+      <item value="ill" />
+      <item value="illicit" />
+      <item value="非法的" />
+      <item value="ILLEGALA" />
+      <item value="无效" />
       <item value="coordinator" />
       <item value="coord" />
       <item value="coor" />
@@ -50,17 +56,11 @@
       <item value="rm handle branch rollback process" />
       <item value="Load balancer does not have available server for client: account-service" />
       <item value="ailed to fetch metric from &lt;http://10.3.16.18:8720/metric?startTime=1631755355000&amp;endTime=1631755361000&amp;refetch=false&gt; (ConnectionException: Connection refused: no further information)" />
-      <item value="Degrade" />
-      <item value="degrade&#10;" />
-      <item value="Application context not configured for this file" />
-      <item value="Requested bean is currently in creation: Is there an unresolvable circular reference?" />
-      <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.reflect.UndeclaredThrowableException] with root cause" />
-      <item value="Change the font on the (JSyntax) Text Areas. (Useful for HiDPI screens)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1158" />
-        <entry key="ENGLISH" value="1100" />
+        <entry key="CHINESE" value="1159" />
+        <entry key="ENGLISH" value="1101" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
@@ -71,7 +71,7 @@
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="JAPANESE" value="10" />
-        <entry key="SWEDISH" value="3" />
+        <entry key="SWEDISH" value="4" />
         <entry key="SOMALI" value="1" />
         <entry key="WELSH" value="3" />
         <entry key="GREEK" value="1" />
