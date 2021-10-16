@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1378" />
     <option name="newTranslationDialogY" value="361" />
     <histories>
+      <item value="Invariants" />
       <item value="记录" />
       <item value="添加了一条记录" />
       <item value="添加了一条" />
@@ -55,12 +56,11 @@
       <item value="fanout" />
       <item value="thread canal-execute-thread-5 have a exception" />
       <item value="invalidate" />
-      <item value="多级" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1160" />
-        <entry key="ENGLISH" value="1102" />
+        <entry key="ENGLISH" value="1103" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633954308870" />
+    <option name="lastTrimTime" value="1634388757243" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
