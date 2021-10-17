@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1378" />
     <option name="newTranslationDialogY" value="361" />
     <histories>
+      <item value="统计" />
       <item value="Variable 'count' is accessed from within inner class, needs to be final or effectively final" />
       <item value="gather" />
       <item value="scatter" />
@@ -55,7 +56,6 @@
       <item value="BROADCASTING" />
       <item value="purge" />
       <item value="pur" />
-      <item value="p" />
     </histories>
     <option name="languageScores">
       <map>
