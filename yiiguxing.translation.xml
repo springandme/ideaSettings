@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="285" />
-    <option name="newTranslationDialogWidth" value="488" />
+    <option name="newTranslationDialogHeight" value="279" />
+    <option name="newTranslationDialogWidth" value="484" />
     <option name="newTranslationDialogX" value="1378" />
     <option name="newTranslationDialogY" value="361" />
     <histories>
+      <item value="gather" />
+      <item value="scatter" />
+      <item value="s" />
       <item value="Invariants" />
       <item value="记录" />
       <item value="添加了一条记录" />
@@ -53,14 +56,11 @@
       <item value="pur" />
       <item value="p" />
       <item value="pr" />
-      <item value="fanout" />
-      <item value="thread canal-execute-thread-5 have a exception" />
-      <item value="invalidate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1160" />
-        <entry key="ENGLISH" value="1103" />
+        <entry key="CHINESE" value="1163" />
+        <entry key="ENGLISH" value="1104" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
