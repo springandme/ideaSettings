@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="279" />
-    <option name="newTranslationDialogWidth" value="484" />
+    <option name="newTranslationDialogWidth" value="482" />
     <option name="newTranslationDialogX" value="1378" />
     <option name="newTranslationDialogY" value="361" />
     <histories>
+      <item value="生成" />
       <item value="inactive" />
       <item value="Regular" />
       <item value="统计" />
@@ -55,12 +56,11 @@
       <item value="Variable used in lambda expression should be final or effectively final" />
       <item value="show inherited" />
       <item value="show" />
-      <item value="BROADCASTING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1165" />
-        <entry key="ENGLISH" value="1105" />
+        <entry key="CHINESE" value="1166" />
+        <entry key="ENGLISH" value="1106" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
