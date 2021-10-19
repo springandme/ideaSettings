@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="279" />
-    <option name="newTranslationDialogWidth" value="480" />
+    <option name="newTranslationDialogWidth" value="478" />
     <option name="newTranslationDialogX" value="1378" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="period" />
+      <item value="per" />
       <item value="重构" />
       <item value="CHONG" />
       <item value="重" />
@@ -54,12 +56,10 @@
       <item value="Exhausted" />
       <item value="Method invocation 'isAck' may produce 'NullPointerException'" />
       <item value="aware" />
-      <item value="waar" />
-      <item value="Unexpected error occurred in scheduled task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1167" />
+        <entry key="CHINESE" value="1168" />
         <entry key="ENGLISH" value="1107" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
