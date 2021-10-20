@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="1378" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="fireChannelRead" />
+      <item value="fire" />
       <item value="promise" />
       <item value="Gracefully" />
       <item value="future" />
@@ -54,12 +56,10 @@
       <item value="conver" />
       <item value="Condition 'et != null' covered by subsequent condition 'et instanceof Entity'" />
       <item value="truck Types" />
-      <item value="分隔符" />
-      <item value="ensure Capacity Internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1171" />
+        <entry key="CHINESE" value="1172" />
         <entry key="ENGLISH" value="1109" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
