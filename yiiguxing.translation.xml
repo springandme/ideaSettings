@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1378" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="Embedded" />
       <item value="fireChannelRead" />
       <item value="fire" />
       <item value="promise" />
@@ -55,12 +56,11 @@
       <item value="No qualifying bean of type 'com.itheima.pinda.mapstruct.U4Mapper' available" />
       <item value="conver" />
       <item value="Condition 'et != null' covered by subsequent condition 'et instanceof Entity'" />
-      <item value="truck Types" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1172" />
-        <entry key="ENGLISH" value="1109" />
+        <entry key="ENGLISH" value="1110" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
