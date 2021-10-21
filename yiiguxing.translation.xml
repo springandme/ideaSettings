@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="279" />
-    <option name="newTranslationDialogWidth" value="472" />
+    <option name="newTranslationDialogWidth" value="470" />
     <option name="newTranslationDialogX" value="1378" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="协议" />
       <item value="unparseable events discarded. Turn on debug logging to see exception stack trace" />
       <item value="avatica" />
       <item value="iflytek" />
@@ -55,7 +56,6 @@
       <item value="Method annotated with @Bean is called directly. Use dependency injection instead" />
       <item value="continued Fee" />
       <item value="retract" />
-      <item value="private" />
     </histories>
     <option name="languageScores">
       <map>
