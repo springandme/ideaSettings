@@ -2,7 +2,7 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="279" />
-    <option name="newTranslationDialogWidth" value="464" />
+    <option name="newTranslationDialogWidth" value="462" />
     <option name="newTranslationDialogX" value="1378" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1179" />
-        <entry key="ENGLISH" value="1116" />
+        <entry key="CHINESE" value="1183" />
+        <entry key="ENGLISH" value="1120" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634388757243" />
+    <option name="lastTrimTime" value="1634824130782" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
