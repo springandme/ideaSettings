@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1378" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="ref Cnt" />
       <item value="codec" />
       <item value="do" />
       <item value="协议" />
@@ -55,12 +56,11 @@
       <item value="泰国" />
       <item value="Unchecked generics array creation for varargs parameter" />
       <item value="语言" />
-      <item value="Method annotated with @Bean is called directly. Use dependency injection instead" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1176" />
-        <entry key="ENGLISH" value="1112" />
+        <entry key="ENGLISH" value="1113" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
