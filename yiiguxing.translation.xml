@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1378" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="'static' method declared 'final'" />
       <item value="Declared" />
       <item value="ESTIMATEDTIME" />
       <item value="立即" />
@@ -55,11 +56,10 @@
       <item value="添加" />
       <item value="添加以" />
       <item value="illegala" />
-      <item value="ill" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1190" />
+        <entry key="CHINESE" value="1191" />
         <entry key="ENGLISH" value="1125" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
