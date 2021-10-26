@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="309" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="唯一 索引" />
+      <item value="唯一 " />
+      <item value="唯一" />
+      <item value="weiyi" />
       <item value="lng" />
       <item value="calculate" />
       <item value="caculate" />
@@ -53,15 +57,11 @@
       <item value="Variable 'count' is accessed from within inner class, needs to be final or effectively final" />
       <item value="gather" />
       <item value="scatter" />
-      <item value="s" />
-      <item value="Invariants" />
-      <item value="记录" />
-      <item value="添加了一条记录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1192" />
-        <entry key="ENGLISH" value="1127" />
+        <entry key="CHINESE" value="1193" />
+        <entry key="ENGLISH" value="1128" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
