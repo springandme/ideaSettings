@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="309" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="rows" />
+      <item value="row" />
       <item value="Guarded" />
       <item value="supply" />
       <item value="stock" />
@@ -55,12 +57,10 @@
       <item value="重" />
       <item value="生成" />
       <item value="inactive" />
-      <item value="Regular" />
-      <item value="统计" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1194" />
+        <entry key="CHINESE" value="1195" />
         <entry key="ENGLISH" value="1130" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
