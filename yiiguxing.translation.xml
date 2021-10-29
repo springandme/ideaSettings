@@ -2,11 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="266" />
-    <option name="newTranslationDialogWidth" value="448" />
-    <option name="newTranslationDialogX" value="1378" />
-    <option name="newTranslationDialogY" value="309" />
+    <option name="newTranslationDialogWidth" value="444" />
+    <option name="newTranslationDialogX" value="1154" />
+    <option name="newTranslationDialogY" value="338" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="区间" />
+      <item value="时间段" />
+      <item value="年份" />
       <item value="rows" />
       <item value="row" />
       <item value="Guarded" />
@@ -54,9 +57,6 @@
       <item value="per" />
       <item value="重构" />
       <item value="CHONG" />
-      <item value="重" />
-      <item value="生成" />
-      <item value="inactive" />
     </histories>
     <option name="languageScores">
       <map>
