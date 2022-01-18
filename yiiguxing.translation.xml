@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="338" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="when reached" />
       <item value="'getTime()' in 'com.hliushi.base.DemoTest.SonClass' clashes with 'getTime()' in 'com.hliushi.base.DemoTest.BasicDataType'; attempting to assign weaker access privileges ('private'); was 'public'" />
       <item value="Extra" />
       <item value="Type may be primitive" />
@@ -56,11 +57,10 @@
       <item value="do" />
       <item value="unparseable events discarded. Turn on debug logging to see exception stack trace" />
       <item value="avatica" />
-      <item value="iflytek" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1200" />
+        <entry key="CHINESE" value="1201" />
         <entry key="ENGLISH" value="1134" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
