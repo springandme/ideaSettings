@@ -12,4 +12,14 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="-&gt;" value="() -&gt; {&#10;}" description="函数式编程" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="=&gt;" value="() -&gt; {&#10;}" description="函数式编程" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>

@@ -1,14 +1,12 @@
 <application>
   <component name="PostfixTemplates">
+    <template id="map@userDefined" key=".jmap" provider="builtin.java" language-level="1.3" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="Map&lt;String, Object&gt; map = new HashMap&lt;&gt;();" toReformat="true" toShortenFQNames="true" />
+    </template>
     <template id="list@userDefined" key=".list" provider="builtin.java" language-level="8" topmost="false">
       <conditions />
       <template name="fakeKey" value="List&lt;$EXPR$&gt; $END$ = new ArrayList&lt;&gt;();" toReformat="true" toShortenFQNames="true" />
-    </template>
-    <template id="const@userDefined" key=".const" provider="builtin.java" language-level="8" topmost="false">
-      <conditions>
-        <condition id="non void" />
-      </conditions>
-      <template name="fakeKey" value="T name = expr" toReformat="true" toShortenFQNames="true" />
     </template>
   </component>
 </application>
