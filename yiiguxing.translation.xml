@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="338" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value=" It is generally necessary to override the {@link hashCode hashCode}&#10;* method whenever this method is overridden, so as to maintain the&#10;* general contract for the {@code hashCode} method, which states&#10;* that equal objects must have equal hash codes.&#10;" />
       <item value="when reached" />
       <item value="'getTime()' in 'com.hliushi.base.DemoTest.SonClass' clashes with 'getTime()' in 'com.hliushi.base.DemoTest.BasicDataType'; attempting to assign weaker access privileges ('private'); was 'public'" />
       <item value="Extra" />
@@ -56,11 +57,10 @@
       <item value="codec" />
       <item value="do" />
       <item value="unparseable events discarded. Turn on debug logging to see exception stack trace" />
-      <item value="avatica" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1201" />
+        <entry key="CHINESE" value="1202" />
         <entry key="ENGLISH" value="1134" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
