@@ -23,7 +23,7 @@
       <option name="SCALA" value="true" />
     </context>
   </template>
-  <template name="ff" value="/*&#10; * @Author liushi&#10; * @Description //TODO&#10; * @Date  $date$ $time$&#10; * @Param $param$&#10; * @return $return$&#10; */" description="生成方法注释模板" toReformat="false" toShortenFQNames="true">
+  <template name="ff" value="/*&#10; * @Author liushi&#10; * @Description //TODO&#10; * @Date  $date$ $time$&#10; * @Param $param$&#10; * @return $return$&#10; */" description="生成方法注释模板" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="date" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />

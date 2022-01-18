@@ -12,14 +12,28 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="-&gt;" value="() -&gt; {&#10;}" description="函数式编程" toReformat="false" toShortenFQNames="true">
+  <template name="-&gt;" value="($END$) -&gt; {&#10;}" description="函数式编程" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_STATEMENT" value="true" />
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_CONSUMER" value="false" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
     </context>
   </template>
-  <template name="=&gt;" value="() -&gt; {&#10;}" description="函数式编程" toReformat="false" toShortenFQNames="true">
+  <template name="=&gt;" value="($END$) -&gt; {&#10;}" description="函数式编程" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_STATEMENT" value="true" />
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_CONSUMER" value="false" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
     </context>
   </template>
 </templateSet>
