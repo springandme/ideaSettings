@@ -2,11 +2,18 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="266" />
-    <option name="newTranslationDialogWidth" value="440" />
+    <option name="newTranslationDialogWidth" value="438" />
     <option name="newTranslationDialogX" value="1154" />
     <option name="newTranslationDialogY" value="338" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Extra" />
+      <item value="Type may be primitive" />
+      <item value="Maximum array size is Integer.MAX_VALUE" />
+      <item value="high value may be configured by property" />
+      <item value="Result of 'integer.intValue()' is always '0'" />
+      <item value="Unnecessary boxing 'Integer.valueOf(num)'" />
+      <item value="自动装箱" />
       <item value="基本数据类型" />
       <item value="基本数据" />
       <item value="Controller" />
@@ -50,18 +57,11 @@
       <item value="avatica" />
       <item value="iflytek" />
       <item value="Embedded" />
-      <item value="fireChannelRead" />
-      <item value="fire" />
-      <item value="promise" />
-      <item value="Gracefully" />
-      <item value="future" />
-      <item value="feature" />
-      <item value="period" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1195" />
-        <entry key="ENGLISH" value="1131" />
+        <entry key="CHINESE" value="1199" />
+        <entry key="ENGLISH" value="1134" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
