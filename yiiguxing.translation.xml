@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="338" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="remaining cases" />
       <item value="Adds a new action 'SerialVersionUID' in the generate menu (alt + ins). The action adds an serialVersionUID field in the current class or updates it if it already exists, and assigns it the same value the standard 'serialver' JDK tool would return. The action is only visible when IDEA is not rebuilding its indexes, the class is serializable and either no serialVersionUID field exists or its value is different from the one the 'serialver' tool would return" />
       <item value="序列化" />
       <item value="xu" />
@@ -56,12 +57,11 @@
       <item value="run to cursor" />
       <item value="run to cu" />
       <item value="duplex" />
-      <item value="deplex" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1204" />
-        <entry key="ENGLISH" value="1136" />
+        <entry key="ENGLISH" value="1137" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
