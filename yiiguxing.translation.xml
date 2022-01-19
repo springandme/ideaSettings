@@ -2,11 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="266" />
-    <option name="newTranslationDialogWidth" value="436" />
+    <option name="newTranslationDialogWidth" value="434" />
     <option name="newTranslationDialogX" value="1154" />
     <option name="newTranslationDialogY" value="338" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="乘法" />
       <item value="Inner classes cannot have static declarations" />
       <item value="'com.hliushi.demo.Main' is not an enclosing class" />
       <item value="Inner class 'InnerClass' may be 'static'" />
@@ -56,12 +57,11 @@
       <item value="resume" />
       <item value="恢复" />
       <item value="暂停" />
-      <item value="zanding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1208" />
-        <entry key="ENGLISH" value="1137" />
+        <entry key="CHINESE" value="1209" />
+        <entry key="ENGLISH" value="1138" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
