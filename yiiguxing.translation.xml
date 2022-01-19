@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="338" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Inner classes cannot have static declarations" />
       <item value="'com.hliushi.demo.Main' is not an enclosing class" />
       <item value="Inner class 'InnerClass' may be 'static'" />
       <item value="Cannot assign a value to final variable 'list'" />
@@ -56,11 +57,10 @@
       <item value="恢复" />
       <item value="暂停" />
       <item value="zanding" />
-      <item value="定时" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1207" />
+        <entry key="CHINESE" value="1208" />
         <entry key="ENGLISH" value="1137" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
