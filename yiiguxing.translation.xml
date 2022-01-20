@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="338" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fetches" />
       <item value="SEPARATOR" />
       <item value="SEPARATDR" />
       <item value="transient" />
@@ -56,12 +57,11 @@
       <item value="lng" />
       <item value="calculate" />
       <item value="caculate" />
-      <item value="lng Str" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1218" />
-        <entry key="ENGLISH" value="1142" />
+        <entry key="ENGLISH" value="1143" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
