@@ -2,11 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="261" />
-    <option name="newTranslationDialogWidth" value="426" />
+    <option name="newTranslationDialogWidth" value="424" />
     <option name="newTranslationDialogX" value="1154" />
     <option name="newTranslationDialogY" value="338" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Declared" />
       <item value="fetches" />
       <item value="SEPARATOR" />
       <item value="SEPARATDR" />
@@ -56,11 +57,10 @@
       <item value="weiyi" />
       <item value="lng" />
       <item value="calculate" />
-      <item value="caculate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1218" />
+        <entry key="CHINESE" value="1219" />
         <entry key="ENGLISH" value="1143" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
