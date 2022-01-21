@@ -2,11 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="261" />
-    <option name="newTranslationDialogWidth" value="424" />
-    <option name="newTranslationDialogX" value="1154" />
-    <option name="newTranslationDialogY" value="338" />
+    <option name="newTranslationDialogWidth" value="422" />
+    <option name="newTranslationDialogX" value="1322" />
+    <option name="newTranslationDialogY" value="239" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Can't commit changes from multiple changelists at once" />
       <item value="Declared" />
       <item value="fetches" />
       <item value="SEPARATOR" />
@@ -56,11 +57,10 @@
       <item value="唯一" />
       <item value="weiyi" />
       <item value="lng" />
-      <item value="calculate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1219" />
+        <entry key="CHINESE" value="1220" />
         <entry key="ENGLISH" value="1143" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
